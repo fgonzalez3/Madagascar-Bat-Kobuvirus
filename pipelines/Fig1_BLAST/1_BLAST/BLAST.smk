@@ -3,7 +3,7 @@ configfile: "config/ref_free_BLAST.yaml"
 rule all:
     input:
         "Fecal_Kobuvirus_sequences_DEDUP.fasta",
-        "Fecal_Kobuvirus_sequences_DEDUP.clstr",
+        "Fecal_Kobuvirus_sequences_DEDUP.fasta.clstr",
         "BLASTDB/Kobuvirus_NT.ndb",
         "BLASTDB/Kobuvirus_NT.nhr",
         "BLASTDB/Kobuvirus_NT.nin",
@@ -47,12 +47,12 @@ rule cdhit:
         fec=config["fecseqs"]
     output:
         dedups="Fecal_Kobuvirus_sequences_DEDUP.fasta", 
-        clstr="Fecal_Kobuvirus_sequences_DEDUP.clstr"
+        clstr="Fecal_Kobuvirus_sequences_DEDUP.fasta.clstr"
     conda:
         "envs/CD-HIT.yaml"
     shell:
         """
-        cd-hit-est -i {input.fec} -o Fecal_Kobuvirus_sequences_DEDUP -T 8 -M 0 -c 0.95
+        cd-hit-est -i {input.fec} -o Fecal_Kobuvirus_sequences_DEDUP.fasta -T 8 -M 0 -c 0.95
         """
 
 rule makeblastdb:
