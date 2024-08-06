@@ -103,8 +103,8 @@ rule blast:
         """
         module unload miniconda
         module load BLAST+/2.15.0-gompi-2022b
-        blastn -word_size 10 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_NT -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTn_raw} -num_threads 8 -evalue 1e-10
-        blastx -word_size 3 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_AA -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTx_raw} -num_threads 8 -evalue 1e-10
+        blastn -word_size 10 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_NT -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTn_raw} -num_threads 8 -evalue 0.001
+        blastx -word_size 3 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_AA -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTx_raw} -num_threads 8 -evalue 0.001
         """
 
 rule blast_init_parse:

@@ -1,1 +1,2 @@
-seqs: "seqs/Kobuvirus_sequences_03AUG2024.fasta"
+seqs: "CZID_seqs/OP287812.fasta"
+fecseqs: "CZID_seqs/concatenated_renamed_bat_feces_05AUG2024.fasta"

@@ -1,4 +1,2 @@
 seqs: "NCBI_seqs/NCBI_Kobuvirus_sequences_03AUG2024.fasta"
 fecseqs: "CZID_seqs/concatenated_renamed_bat_feces_05AUG2024.fasta"
-nt_db: "~/BLASTDB/Kobuvirus_NT"
-aa_db: "~/BLASTDB/Kobuvirus_AA"
