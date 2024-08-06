@@ -84,6 +84,7 @@ rule makeblastdb:
         "BLASTDB/Kobuvirus_AA.pto"
     shell:
         """
+        module unload miniconda
         module load BLAST+/2.15.0-gompi-2022b
         makeblastdb -in {input.seqs} -dbtype nucl -parse_seqids -out BLASTDB/Kobuvirus_NT
         makeblastdb -in {input.seqs} -dbtype prot -parse_seqids -out BLASTDB/Kobuvirus_AA
@@ -100,6 +101,7 @@ rule blast:
         BLASTx_raw="results/BLAST/Kobuvirus_blastx_feces_aa.txt"
     shell:
         """
+        module unload miniconda
         module load BLAST+/2.15.0-gompi-2022b
         blastn -word_size 10 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_NT -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTn_raw} -num_threads 8 -evalue 1e-10
         blastx -word_size 10 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_AA -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTx_raw} -num_threads 8 -evalue 1e-10
