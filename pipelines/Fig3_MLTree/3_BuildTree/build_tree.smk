@@ -1,8 +1,8 @@
-configfile: "config/SP_parnas.yaml"
+configfile: "config/build_tree.yaml"
 
 rule all:
     input:
-        "results/RAxML/Kobuvirus.newick"
+        "results/RAxML/Kobuviru_nt.newick"
        
 rule raxml:
     """
@@ -12,9 +12,11 @@ rule raxml:
         aln=config["aln"]
     output:
         "results/RAxML/Kobuvirus.newick"
+    params:
+        model=config["model"]
     envs:
         "envs/raxml.yaml"
     shell:
         """
-        raxml-ng-mpi --all --msa {input.aln} --model --prefix T3 --seed 12 --threads 8 --bs-metric fbp, tbe
+        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix T3 --seed 12 --threads 8 --bs-metric fbp, tbe
         """

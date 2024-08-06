@@ -1,1 +1,2 @@
-aln: "/gpfs/gibbs/project/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/MAFFT/Kobuvirus_MSA.fasta"
+aln: "/vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/MAFFT/Kobuvirus_MSA.fasta"
+model: "GTR+I+G4"
