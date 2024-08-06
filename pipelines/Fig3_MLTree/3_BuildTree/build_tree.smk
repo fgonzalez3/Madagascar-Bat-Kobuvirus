@@ -18,5 +18,5 @@ rule raxml:
         "envs/raxml.yaml"
     shell:
         """
-        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix T3 --seed 12 --threads 8 --bs-metric fbp, tbe
+        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix T3 --seed 12 --threads 4 --bs-metric fbp, tbe
         """

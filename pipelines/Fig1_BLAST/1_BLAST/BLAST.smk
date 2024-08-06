@@ -60,7 +60,8 @@ rule makeblastdb:
     Make a Kobuvirus BLAST database
     """
     input:
-        seqs=config["seqs"]
+        nucl_seqs=config["nucl_seqs"],
+        prot_seqs=config["prot_seqs"]
     output:
         "BLASTDB/Kobuvirus_NT.ndb",
         "BLASTDB/Kobuvirus_NT.nhr",
@@ -86,8 +87,8 @@ rule makeblastdb:
         """
         module unload miniconda
         module load BLAST+/2.15.0-gompi-2022b
-        makeblastdb -in {input.seqs} -dbtype nucl -parse_seqids -out BLASTDB/Kobuvirus_NT
-        makeblastdb -in {input.seqs} -dbtype prot -parse_seqids -out BLASTDB/Kobuvirus_AA
+        makeblastdb -in {input.nucl_seqs} -dbtype nucl -parse_seqids -out BLASTDB/Kobuvirus_NT
+        makeblastdb -in {input.prot_seqs} -dbtype prot -parse_seqids -out BLASTDB/Kobuvirus_AA
         """
 
 rule blast:

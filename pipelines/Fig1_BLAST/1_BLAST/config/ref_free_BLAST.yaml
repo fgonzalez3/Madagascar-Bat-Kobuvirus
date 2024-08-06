@@ -1,2 +1,3 @@
-seqs: "NCBI_seqs/NCBI_Kobuvirus_sequences_03AUG2024.fasta"
+nucl_seqs: "NCBI_seqs/NCBI_Kobuvirus_sequences_NT_03AUG2024.fasta"
+prot_seqs: "NCBI_seqs/NCBI_Kobuvirus_sequences_AA_06AUG2024.fasta"
 fecseqs: "CZID_seqs/concatenated_renamed_bat_feces_05AUG2024.fasta"
