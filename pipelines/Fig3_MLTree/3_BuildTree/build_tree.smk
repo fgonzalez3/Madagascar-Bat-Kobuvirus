@@ -2,7 +2,7 @@ configfile: "config/build_tree.yaml"
 
 rule all:
     input:
-        "results/RAxML/Kobuviru_nt.newick"
+        "results/RAxML/Kobuvirus_nt.newick"
        
 rule raxml:
     """
@@ -11,10 +11,10 @@ rule raxml:
     input:
         aln=config["aln"]
     output:
-        "results/RAxML/Kobuvirus.newick"
+        "results/RAxML/Kobuvirus_nt.newick"
     params:
         model=config["model"]
-    envs:
+    conda:
         "envs/raxml.yaml"
     shell:
         """
