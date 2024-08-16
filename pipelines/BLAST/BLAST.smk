@@ -26,18 +26,14 @@ rule all:
         "BLASTDB/Kobuvirus_AA.pto",
         "results/BLAST/Kobuvirus_blastn_feces_nt.txt",
         "results/BLAST/Kobuvirus_blastx_feces_aa.txt",
-        "results/BLAST_parse/Kobuviruses_unique_fecal_contigs_nt.txt",
-        "results/BLAST_parse/Kobuviruses_unique_fecal_sampleIDs_nt.txt",
-        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt.txt",
+        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt.txt", 
         "results/BLAST_parse/Kobuviruses_fecal_100len100bit_nt.txt",
-        "results/BLAST_parse/Kobuviruses_unique_fecal_contigs_aa.txt",
-        "results/BLAST_parse/Kobuviruses_unique_fecal_sampleIDs_aa.txt",
-        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_aa.txt",
-        "results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt", 
-        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt_hiqual.txt",
+        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_aa.txt", 
+        "results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt",
+        "results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt_hiqual.txt", 
         "results/BLAST_parse/Kobuviruses_fecal_100len100bit_nt_hiqual.txt",
         "results/BLAST_parse/Kobuviruses_fecal_100len5eval_aa_hiqual.txt",
-        "results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa_hiqual.txt" 
+        "results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa_hiqual.txt"
 
 rule cdhit:
     """
@@ -94,7 +90,7 @@ rule makeblastdb:
 rule blast:
     """
     Run BLAST on Kobuvruses using previously curated database
-    """
+    """vo
     input:
         dedupseqs=rules.cdhit.output.dedups
     output:
@@ -104,8 +100,8 @@ rule blast:
         """
         module unload miniconda
         module load BLAST+/2.15.0-gompi-2022b
-        blastn -word_size 10 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_NT -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTn_raw} -num_threads 8 -evalue 0.001
-        blastx -word_size 3 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_AA -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTx_raw} -num_threads 8 -evalue 0.001
+        blastn -word_size 10 -evalue 0.001 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_NT -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTn_raw} -num_threads 8
+        blastx -word_size 3 -evalue 0.001 -query {input.dedupseqs} -db BLASTDB/Kobuvirus_AA -outfmt '6 qseqid nident pident length evalue bitscore sgi sacc stitle' -max_target_seqs 10 -out {output.BLASTx_raw} -num_threads 8
         """
 
 rule blast_init_parse:
@@ -116,35 +112,27 @@ rule blast_init_parse:
         BLASTn_parse=rules.blast.output.BLASTn_raw,
         BLASTx_parse=rules.blast.output.BLASTx_raw
     output:
-        out_nt1="results/BLAST_parse/Kobuviruses_unique_fecal_contigs_nt.txt", 
-        out_nt2="results/BLAST_parse/Kobuviruses_unique_fecal_sampleIDs_nt.txt", 
-        out_nt3="results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt.txt", 
-        out_nt4="results/BLAST_parse/Kobuviruses_fecal_100len100bit_nt.txt",
-        out_aa1="results/BLAST_parse/Kobuviruses_unique_fecal_contigs_aa.txt",
-        out_aa2="results/BLAST_parse/Kobuviruses_unique_fecal_sampleIDs_aa.txt",
-        out_aa3="results/BLAST_parse/Kobuviruses_fecal_100len5eval_aa.txt",
-        out_aa4="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt"
+        out_nt1="results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt.txt", 
+        out_nt2="results/BLAST_parse/Kobuviruses_fecal_100len100bit_nt.txt",
+        out_aa1="results/BLAST_parse/Kobuviruses_fecal_100len5eval_aa.txt", 
+        out_aa2="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt"
     shell:
         """
-        cat {input.BLASTn_parse} | awk '{{print $1}}' | sort | uniq > {output.out_nt1}
-        cat {input.BLASTn_parse} | awk -F\\_ '{{print $1"_"$2}}' | sort | uniq > {output.out_nt2}
-        cat {input.BLASTn_parse} | awk -F\\t '($4>99 && $5<0.00001)' > {output.out_nt3}
-        cat {input.BLASTn_parse} | awk -F\\t '($4>99 && $6>99)' > {output.out_nt4}
-        cat {input.BLASTx_parse} | awk '{{print $1}}' | sort | uniq > {output.out_aa1}
-        cat {input.BLASTx_parse} | awk -F\\_ '{{print $1"_"$2}}' | sort | uniq > {output.out_aa2}
-        cat {input.BLASTx_parse} | awk -F\\t '($4>99 && $5<0.00001)' > {output.out_aa3}
-        cat {input.BLASTx_parse} | awk -F\\t '($4>99 && $6>99)' > {output.out_aa4}
+        cat {input.BLASTn_parse} | awk -F\t '($4>99 && $5<0.00001)' > {output.out_nt1}
+        cat {input.BLASTn_parse} | awk -F\t '($4>99 && $6>99)' > {output.out_nt2}
+        cat {input.BLASTx_parse} | awk -F\t '($4>99 && $5<0.00001)' > {output.out_aa1}
+        cat {input.BLASTx_parse} | awk -F\t '($4>99 && $6>99)' > {output.out_aa2}
         """
 
-rule blast_final_parse:
+rule blast_hiqual_parse:
     """
     Create summaries of high quality hits from initial BLAST parse
     """
     input:
-        in1=rules.blast_init_parse.output.out_nt3, 
-        in2=rules.blast_init_parse.output.out_nt4, 
-        in3=rules.blast_init_parse.output.out_aa3, 
-        in4=rules.blast_init_parse.output.out_aa4
+        in1=rules.blast_init_parse.output.out_nt1, 
+        in2=rules.blast_init_parse.output.out_nt2, 
+        in3=rules.blast_init_parse.output.out_aa1, 
+        in4=rules.blast_init_parse.output.out_aa2
     output:
         out1="results/BLAST_parse/Kobuviruses_fecal_100len5eval_nt_hiqual.txt", 
         out2="results/BLAST_parse/Kobuviruses_fecal_100len100bit_nt_hiqual.txt",
@@ -152,8 +140,8 @@ rule blast_final_parse:
         out4="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa_hiqual.txt"
     shell:
         """
-        cat {input.in1} | awk '{{print $1}}' | sort | uniq > {output.out1}
-        cat {input.in2} | awk '{{print $1}}' | sort | uniq > {output.out2}
-        cat {input.in3} | awk '{{print $1}}' | sort | uniq > {output.out3}
-        cat {input.in4} | awk '{{print $1}}' | sort | uniq > {output.out4}
+        cat {input.in1} | awk -F'_' '{{print}}' | sort | uniq > {output.out1}
+        cat {input.in2} | awk -F'_' '{{print}}' | sort | uniq > {output.out2}
+        cat {input.in3} | awk -F'_' '{{print}}' | sort | uniq > {output.out3}
+        cat {input.in4} | awk -F'_' '{{print}}' | sort | uniq > {output.out4}
         """
