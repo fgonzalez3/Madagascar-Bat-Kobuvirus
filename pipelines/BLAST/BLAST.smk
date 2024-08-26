@@ -1,4 +1,4 @@
-configfile: "config/ref_based_BLAST.yaml"
+configfile: "config/ref_free_BLAST.yaml"
 
 rule all:
     input:
@@ -90,7 +90,7 @@ rule makeblastdb:
 rule blast:
     """
     Run BLAST on Kobuvruses using previously curated database
-    """vo
+    """
     input:
         dedupseqs=rules.cdhit.output.dedups
     output:
@@ -118,10 +118,10 @@ rule blast_init_parse:
         out_aa2="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt"
     shell:
         """
-        cat {input.BLASTn_parse} | awk -F\t '($4>99 && $5<0.00001)' > {output.out_nt1}
-        cat {input.BLASTn_parse} | awk -F\t '($4>99 && $6>99)' > {output.out_nt2}
-        cat {input.BLASTx_parse} | awk -F\t '($4>99 && $5<0.00001)' > {output.out_aa1}
-        cat {input.BLASTx_parse} | awk -F\t '($4>99 && $6>99)' > {output.out_aa2}
+        cat {input.BLASTn_parse} | awk -F'\\t' '($4>99 && $5<0.0001)' > {output.out_nt1}
+        cat {input.BLASTn_parse} | awk -F'\\t' '($4>99 && $6>99)' > {output.out_nt2}
+        cat {input.BLASTx_parse} | awk -F'\\t' '($4>99 && $5<0.0001)' > {output.out_aa1}
+        cat {input.BLASTx_parse} | awk -F'\\t' '($4>99 && $6>99)' > {output.out_aa2}
         """
 
 rule blast_hiqual_parse:
@@ -140,8 +140,8 @@ rule blast_hiqual_parse:
         out4="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa_hiqual.txt"
     shell:
         """
-        cat {input.in1} | awk -F'_' '{{print}}' | sort | uniq > {output.out1}
-        cat {input.in2} | awk -F'_' '{{print}}' | sort | uniq > {output.out2}
-        cat {input.in3} | awk -F'_' '{{print}}' | sort | uniq > {output.out3}
-        cat {input.in4} | awk -F'_' '{{print}}' | sort | uniq > {output.out4}
+        cat {input.in1} | awk -F'\\t' '{{print}}' | sort | uniq > {output.out1}
+        cat {input.in2} | awk -F'\\t' '{{print}}' | sort | uniq > {output.out2}
+        cat {input.in3} | awk -F'\\t' '{{print}}' | sort | uniq > {output.out3}
+        cat {input.in4} | awk -F'\\t' '{{print}}' | sort | uniq > {output.out4}
         """
