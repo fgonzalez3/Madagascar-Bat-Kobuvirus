@@ -1,2 +1,3 @@
-aln: "/vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/MAFFT/Kobuvirus_MSA.fasta"
-model: "GTR+I+G4"
+aln: "/vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/MAFFT/Kobuvirus_MSA_Extraction.fasta"
+model: "TIM2+I+G4"
+genera: "Kobuvirus"
