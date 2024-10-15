@@ -4,20 +4,18 @@ configfile: "config/MSA.yaml"
 
 rule all:
     input: 
-        expand("results/{genera}/MAFFT/{genera}_MSA.fasta", genera=config["genera"])
+        "results/MAFFT/Kobuvirus_MSA.fasta"
 
 rule mafft:
     """
-    MAFFT alignment 
+    MAFFT alignment for whole genome NT Kobuvirus sequences 
     """
     input: 
         seqs=config["seqs"]
     output: 
-        "results/{genera}/MAFFT/{genera}_MSA.fasta"
+        "results/MAFFT/Kobuvirus_MSA.fasta"
     conda:
         "envs/mafft.yaml"
-    params:
-        genera=config["genera"]
     shell: 
         """
         mafft {input.seqs} > {output}

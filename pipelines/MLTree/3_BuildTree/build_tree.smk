@@ -2,16 +2,16 @@ configfile: "config/build_tree.yaml"
 
 rule all:
     input:
-        "Kobuvirus.raxml.supportFBP"
+        expand("{genera}.raxml.supportFBP", genera=config["genera"])
        
 rule raxml:
     """
-    Build Kobuvirus ML tree
+    Build ML tree
     """
     input:
         aln=config["aln"]
     output:
-        "Kobuvirus.raxml.supportFBP"
+        "{genera}.raxml.supportFBP"
     params:
         model=config["model"], 
         genera=config["genera"]
