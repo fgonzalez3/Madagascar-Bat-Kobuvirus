@@ -1,7 +1,6 @@
 *.DS_Store*
 *.Rhistory*
 *scripts/*
-*NCBI_seqs/*
 *CZID_seqs/*
 *seqs/*
 *.fasta*
