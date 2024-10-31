@@ -1,0 +1,11 @@
+Building DAG of jobs...
+Creating conda environment envs/mafft.yaml...
+Downloading and installing remote packages.
+CreateCondaEnvironmentException:
+Could not create conda environment from /Users/flg9/Desktop/Developer/brook_lab/Madagascar-Bat-Kobuvirus/pipelines/SimPlot/envs/mafft.yaml:
+Command:
+mamba env create --quiet --file "/Users/flg9/Desktop/Developer/brook_lab/Madagascar-Bat-Kobuvirus/pipelines/SimPlot/.snakemake/conda/280228df62052526bad393399aab80ea_.yaml" --prefix "/Users/flg9/Desktop/Developer/brook_lab/Madagascar-Bat-Kobuvirus/pipelines/SimPlot/.snakemake/conda/280228df62052526bad393399aab80ea_"
+Output:
+error    libmamba Non-conda folder exists at prefix
+critical libmamba Aborting.
+

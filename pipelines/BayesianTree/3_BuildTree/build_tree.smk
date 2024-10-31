@@ -2,21 +2,23 @@ configfile: "config/build_tree.yaml"
 
 rule all:
     input:
-        "results/RAxML/Kobuvirus_nt.newick"
+        "Kobuvirus_BayesianTree.log", 
+        "Kobuvirus_BayesianTree.trees"
        
-rule raxml:
+rule BEAST2:
     """
-    Build Kobuvirus ML tree
+    Build Kobuvirus Bayesian Tree
     """
     input:
-        aln=config["aln"]
+        xml=config["xml"]
     output:
-        "results/RAxML/Kobuvirus_nt.newick"
+        "Kobuvirus_BayesianTree.log", 
+        "Kobuvirus_BayesianTree.trees"
     params:
-        model=config["model"]
-    conda:
-        "envs/raxml.yaml"
+        genera=config["genera"]
     shell:
         """
-        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix T3 --seed 12 --threads 4 --bs-metric fbp, tbe
+        module load Beast/2.7.6-GCC-12.2.0-CUDA-12.0.0
+        module load beagle-lib/4.0.1-GCC-12.2.0-CUDA-12.0.0
+        beast -threads 9 -beagle_cpu -seed 777 {input.xml}
         """

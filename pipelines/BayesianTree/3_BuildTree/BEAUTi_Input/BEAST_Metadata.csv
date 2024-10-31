@@ -1,0 +1,46 @@
+﻿tip_label,accession_num,type ,host ,bat_host,country,collection_date,collection_year,title ,specific_date,host_virus
+KJ934637,KJ934637,AiVA,Avian,0,Hungary,7/15/11,2011,Avian Kobuvirus,no,Avian Kobuvirus
+OP287812,OP287812,Unclassifed,Eidolon dupreanum,1,Madagascar,7/27/18,2018,Bat Kobuvirus,yes,Bat Kobuvirus
+KJ641691,KJ641691,AiVF,Miniopterus fuliginosus,1,China,12/15/12,2012,Bat Kobuvirus,no,Bat Kobuvirus
+KJ641686,KJ641686,AiVF,Myotis ricketti,1,China,10/15/10,2010,Bat Kobuvirus,no,Bat Kobuvirus
+NC_015936,NC_015936,AiVA,Rodent,0,USA,7/15/10,2010,Rodent Kobuvirus,no,Rodent Kobuvirus
+MN336260,MN336260,AiVB,Bovine,0,USA,4/15/19,2019,Bovine Kobuvirus,no,Bovine Kobuvirus
+GU245693,GU245693,AiVB,Ovine,0,Hungary,3/17/09,2017,Ovine Kobuvirus,yes,Ovine Kobuvirus
+NC_027054,NC_027054,AiVC,Porcine,0,China,7/15/14,2014,Porcine Kobuvirus,no,Porcine Kobuvirus
+NC_027918,NC_027918,AiVD,Bovine,0,Japan,2/2/15,2015,Bovine Kobuvirus,yes,Bovine Kobuvirus
+NC_027919,NC_027919,AiVD,Bovine,0,Japan,12/15/14,2014,Bovine Kobuvirus,no,Bovine Kobuvirus
+KT325852,KT325852,AiVE,Rabbit,0,Hungary,4/15/13,2013,Rabbit Kobuvirus,no,Rabbit Kobuvirus
+FJ890523,FJ890523,AiVA,Human,0,China,7/15/08,2008,Human Kobuvirus,no,Human Kobuvirus
+GQ249161,GQ249161,AiVC,Porcine,0,Hungary,7/15/08,2008,Porcine Kobuvirus,no,Porcine Kobuvirus
+GU292559,GU292559,AiVC,Porcine,0,China,7/15/08,2008,Porcine Kobuvirus,no,Porcine Kobuvirus
+JQ692069,JQ692069,AiVC,Porcine,0,China,6/15/11,2011,Porcine Kobuvirus,no,Porcine Kobuvirus
+JQ911763,JQ911763,AiVA,Canid,0,China,7/15/11,2011,Canid Kobuvirus,no,Canid Kobuvirus
+KC161964,KC161964,AiVA,Canid,0,United Kingdom,7/15/08,2008,Canid Kobuvirus,no,Canid Kobuvirus
+KC424639,KC424639,AivC,Porcine,0,China,7/15/12,2012,Porcine Kobuvirus,no,Porcine Kobuvirus
+KF539763,KF539763,AiVC,Porcine,0,China,6/15/12,2012,Porcine Kobuvirus,no,Porcine Kobuvirus
+KM051987,KM051987,AiVC,Porcine,0,China,3/15/14,2014,Porcine Kobuvirus,no,Porcine Kobuvirus
+KM068051,KM068051,AiVA,Canid,0,Tanzania,3/2/10,2010,Canid Kobuvirus,yes,Canid Kobuvirus
+KY234500,KY234500,AiVC,Porcine,0,China,10/15/15,2015,Porcine Kobuvirus,no,Porcine Kobuvirus
+KY407744,KY407744,AiVB,Bovine,0,Egypt,7/15/14,2014,Bovine Kobuvirus,no,Bovine Kobuvirus
+KY855436,KY855436,AiVA,Rodent,0,China,7/15/13,2013,Rodent Kobuvirus,no,Rodent Kobuvirus
+LC210621,LC210621,AiVC,Porcine,0,Japan,4/13/14,2014,Porcine Kobuvirus,yes,Porcine Kobuvirus
+LT898428,LT898428,AiVC,Porcine,0,Germany,2/14/14,2014,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MF506730,MF506730,AiVC,Porcine,0,USA,4/13/11,2011,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MK671314,MK671314,AiVA,Feline,0,China,7/15/18,2018,Feline Kobuvirus,no,Feline Kobuvirus
+MK962320,MK962320,AiVC,Porcine,0,Spain,5/22/17,2017,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MK962325,MK962325,AiVC,Porcine,0,Spain,2/27/18,2018,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MK962327,MK962327,AiVC,Porcine,0,Spain,5/24/17,2017,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MK962330,MK962330,AiVC,Porcine,0,Spain,9/22/17,2017,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MK962332,MK962332,AiVC,Porcine,0,Spain,7/4/17,2017,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MN116647,MN116647,AiVA,Rodent,0,Hungary,7/15/18,2018,Rodent Kobuvirus,no,Rodent Kobuvirus
+MN604700,MN604700,AiVB,Caprine,0,USA,12/15/17,2017,Caprine Kobuvirus,no,Caprine Kobuvirus
+MN807751,MN807751,AiVC,Porcine,0,Hungary,1/15/13,2013,Porcine Kobuvirus,no,Porcine Kobuvirus
+MT125682,MT125682,AiVC,Porcine,0,China,12/15/13,2013,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MT125685,MT125685,AiVC,Porcine,0,China,11/9/18,2018,Porcine Kobuvirus,yes,Porcine Kobuvirus
+MW296158,MW296158,AiVB,Ovine,0,China,1/1/19,2019,Ovine Kobuvirus,yes,Ovine Kobuvirus
+MW605074,MW605074,AiVB,Bovine,0,Canada,7/15/20,2020,Bovine Kobuvirus,no,Bovine Kobuvirus
+NC_004421,NC_004421,AiVB,Bovine,0,Japan,7/15/02,2002,Bovine Kobuvirus,no,Bovine Kobuvirus
+NC_026314,NC_026314,RaboV,Rodent,0,Germany,1/15/11,2011,Rodent Rabovirus,no,Rodent Rabovirus
+OM140655,OM140655,AiVA,Rodent,0,China,7/15/16,2016,Rodent Kobuvirus,no,Rodent Kobuvirus
+ON075056,ON075056,AiVB,Bovine,0,China,7/15/21,2021,Bovine Kobuvirus,no,Bovine Kobuvirus
+AB040749,AB040749,AiVA,Human,0,Japan,7/15/00,2000,Human Kobuvirus,no,Human Kobuvirus

@@ -1,2 +1,2 @@
-NT_seqs: "seqs/NT_seqs.fasta"
-AA_seqs: "seqs/AA_seqs.fasta"
+NT_seqs: "seqs/Kobuvirus_NT_seqs.fasta"
+AA_seqs: "seqs/Kobuvirus_AA_seqs.fasta"

@@ -1,4 +1,4 @@
-configfile: "config/SP_parnas.yaml"
+configfile: "config/Kobuvirus_Parnas.yaml"
 RADIUSES = set(config['radius'])
 
 rule all:
@@ -12,18 +12,19 @@ rule all:
 
 rule reduce_tree:
     """
-    Remove refseq and outgroup from tree for rep selection
+    Remove refseqs and outgroup from tree for rep selection
     """
     input:
         tree=config["tree"]
     output:
         reduced_tree="results/{genera}/parnas/reduced_tree.newick"
     params:
-        ref=config["ref"],
+        ref1=config["ref1"],
+        ref2=config["ref2"],
         outgroup=config["outgroup"]
     shell:
         r"""
-        Rscript scripts/reduce_tree.R {input.tree} {output.reduced_tree} {params.ref} {params.outgroup}
+        Rscript scripts/reduce_tree.R {input.tree} {output.reduced_tree} {params.ref1} {params.ref2} {params.outgroup}
         """
 
 rule estimate_representative_number:
