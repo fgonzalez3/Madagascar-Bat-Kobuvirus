@@ -6,3 +6,4 @@
 *.tar.gz*
 figures/4_bayesian_phylogeny/data/Kobuvirus_BayesianTree.trees
 figures/3_picornavirus_phylogeny/large_tree_plot.psd
+*Kobuvirus_BayesianTree.trees*
