@@ -10,4 +10,4 @@ The OP287812-guided analysis was run following identifying the full-length kobuv
 
 Hits were further parsed using 100 aln & 100 bit scores or 100 aln and 5 eval scores for both nucleotide and amino acid searches
 
-Two contigs were common hits across the above four parses, our full genome which we would submit to NCBI as OP287812 and our partial sequence which we would submit to NCBI as OR082796
+Two contigs were common hits across the above four parses, our full genome which we would submit to NCBI as OP287812 and our partial sequence which we would submit to NCBI as OR082796. These were deemed true positives
