@@ -13,7 +13,7 @@ NC_016769,Aichivirus C,RefSeq,complete,China,Sus scrofa,2010-12,2010,"Porcine ko
 JQ692069,Aichivirus C,GenBank,complete,China,Sus scrofa,2011-06,2011,"Porcine kobuvirus strain WUH1, complete genome",Porcine Kobuvirus
 NC_015936,Mouse kobuvirus M-5/USA/2010,RefSeq,complete,USA,Peromyscus crinitus,2010,2010,"Mouse kobuvirus M-5/USA/2010, complete genome",Rodent Kobuvirus
 JX177612,Aichivirus C,GenBank,complete,Hungary,Sus scrofa,2011-04,2011,"Porcine kobuvirus strain WB-1-HUN/2011/HUN, complete genome",Porcine Kobuvirus
-JQ898342,Aichivirus A,GenBank,complete,Nepal,,8/14/09,2009,"Kobuvirus sewage Kathmandu isolate KoV-SewKTM, complete genome",Sewage Kobuvirus
+JQ898342,Aichivirus A,GenBank,complete,Nepal,,8/14/09,2009,"Kobuvirus sewage Kathmandu isolate KoV-SewKTM, complete genome",Human Kobuvirus
 JX401523,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-04,2012,"Porcine kobuvirus isolate CH/HNXX-4/2012, complete genome",Porcine Kobuvirus
 KC204684,Aichivirus C,GenBank,complete,China,Sus scrofa,2011,2011,"Porcine kobuvirus isolate XX, complete genome",Porcine Kobuvirus
 KC161964,Canine kobuvirus,GenBank,complete,United Kingdom,Canis lupus familiaris,2008,2008,"Canine kobuvirus strain UK003, complete genome",Canid Kobuvirus
@@ -30,7 +30,7 @@ KJ452348,Aichivirus C,GenBank,complete,China,Sus scrofa,2012,2012,"Porcine kobuv
 KJ934637,Aichivirus A,GenBank,complete,Hungary,Coracias garrulus,2011-07,2011,"Kobuvirus SZAL6-KoV/2011/HUN, complete genome",Avian Kobuvirus
 KJ958930,Aichivirus A,GenBank,complete,South Korea,Feliformia,2012,2012,"Feline kobuvirus isolate 12D240, complete genome",Feline Kobuvirus
 KM091960,Aichivirus A,GenBank,complete,Italy,Felis catus,2013-03,2013,"Feline kobuvirus strain FeKoV/TE/52/IT/13, complete genome",Feline Kobuvirus
-NC_026314,Rabovirus A,RefSeq,complete,Germany,Rattus norvegicus,2011-01,2011,"rat-borne virus, RaBoV-A",Rabovirus
+NC_026314,Rabovirus A,RefSeq,complete,Germany,Rattus norvegicus,2011-01,2011,"rat-borne virus, RaBoV-A",Rodent Rabovirus
 KM977675,Aichivirus C,GenBank,complete,USA,Sus scrofa,2011-06,2011,"Porcine kobuvirus isolate OH/RV50/2011, complete genome",Porcine Kobuvirus
 KM068048,Aichivirus A,GenBank,complete,Tanzania,Canis lupus familiaris,1/20/03,2003,"Canine kobuvirus 1 isolate DD2 polyprotein mRNA, complete cds",Canid Kobuvirus
 KM068049,Aichivirus A,GenBank,complete,Tanzania,Canis adustus,11/20/10,2010,"Canine kobuvirus 1 isolate 82 polyprotein mRNA, complete cds",Canid Kobuvirus
