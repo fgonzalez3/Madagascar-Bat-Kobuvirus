@@ -1,6 +1,6 @@
 # MLTree Pipeline Description
 
-This workflow has a few steps, which can be divided into a 1) multiple sequence alignment (MSA) workflow, 2) ModelTest workflow to determine the best nucleotide or amino acid substitution model, 3) the BuildTree workflow for maximum likelihood (ML) tree construction, and 4) the RepSelection workflow to pick out representative sequences for the bayesian tree using (Parnas)[https://github.com/flu-crew/parnas] 
+This workflow has a few steps, which can be divided into a 1) multiple sequence alignment (MSA) workflow, 2) ModelTest workflow to determine the best nucleotide or amino acid substitution model, 3) the BuildTree workflow for maximum likelihood (ML) tree construction, and 4) the RepSelection workflow to pick out representative sequences for the bayesian tree using [Parnas](https://github.com/flu-crew/parnas)
 
 Two separate ML trees were made, an all-Picornaviridae nucleotide tree and an only-kobuvirus nucleotide tree:
 
