@@ -1,0 +1,143 @@
+﻿Accession_Number ,Species,Genus ,Geo_Location,Host,Family,Collection_Date,Year
+NC_055108,Poecivirus A,Poecivirus,USA,Poecile atricapillus,Avian,12/2/02,2002
+NC_055156,Rabovirus B,Rabovirus,China,Rodentia,Rodent,,
+NC_055161,Ailurivirus A,Ailurivirus,China,,Ursid,2015,2015
+NC_043544,Rafivirus B,Rafivirus,China,Gekko similignum,Reptile,,
+NC_040605,Marmot sapelovirus 1,Sapelovirus,China,Marmota himalayana,Rodent,2013,2013
+NC_040611,Cadicivirus B,Dicipivirus,Hungary,Erinaceus roumanicus,Erinaceidae,2015-04,2015
+NC_040642,Rhimavirus A,,Australia,Rhinella marina,Amphibian,2017,2017
+NC_040673,Tremovirus B,Tremovirus,China,Pelodiscus sinensis,Reptile,6/6/11,7/3/05
+NC_040684,Goose picornavirus 1,,Hungary,Anser albifrons,Avian,2013,2013
+NC_038303,Bovine rhinitis A virus,Aphthovirus,Germany,Bos taurus,Bovine,1962,1962
+NC_038304,Avisivirus A,Avisivirus,USA,Meleagris gallopavo,Avian,10/1/10,7/2/05
+NC_038305,Cardiovirus C,Cardiovirus,USA,Rattus norvegicus,Rodent,12/17/10,7/2/05
+NC_038306,Enterovirus A,Enterovirus,,,Human,,
+NC_038307,Enterovirus B,Enterovirus,,Homo sapiens,Human,,
+NC_038308,Enterovirus D,Enterovirus,USA,,Human,,
+NC_038309,Enterovirus H,Enterovirus,,,Primate,,
+NC_038310,Enterovirus I,Enterovirus,United Arab Emirates: Dubai,Camelus dromedarius,Camelid,2/3/13,7/5/05
+NC_038312,Rhinovirus B,Enterovirus,USA,,Human,,
+NC_038313,Hepatovirus C,Hepatovirus,Madagascar,Miniopterus,Bat,2014,2014
+NC_038314,Hepatovirus E,Hepatovirus,Cote d'Ivoire,Lophuromys sikapusi,Rodent,2004,1004
+NC_038315,Hepatovirus F,Hepatovirus,Mexico,Sigmodon mascotensis,Rodent,2012,2012
+NC_038316,Hepatovirus G,Hepatovirus,Ghana,Coleura afra,Bat,2010,2010
+NC_038317,Kunsagivirus A,Kunsagivirus,Hungary,Coracias garrulus,Avian,2011-07,2011
+NC_038319,Parechovirus A,Parechovirus,,,,,
+NC_038880,Rosavirus A,Rosavirus,USA,Peromyscus crinitus,Rodent,2010,2010
+NC_038961,Shanbavirus A,Shanbavirus,China,Miniopterus fuliginosus,Bat,2011-09,2011
+NC_038989,Enterovirus K,Enterovirus,China,Rodentia,Rodent,,
+NC_039209,Equine rhinitis A virus,Aphthovirus,,Equus caballus,Equine,,
+NC_039210,Foot-and-mouth disease virus,Aphthovirus,United Kingdom,,,,
+NC_039212,Limnipivirus C,Limnipivirus,USA,Pimephales promelas,Fish,2011,2011
+NC_035779,Falcon picornavirus,,Hungary,Falco vespertinus,Avian,2014-06,2014
+NC_035198,Aimelvirus 2,,,,Ursid,,
+NC_034971,Canine kobuvirus,Kobuvirus,China,Canis lupus familiaris,Canine ,2015-09,2015
+NC_034617,Megrivirus D,Megrivirus,Hungary,Circus aeruginosus,Avian,2014,2014
+NC_034381,Mischivirus A,Mischivirus,China,Miniopterus schreibersii,Bat,2010-12,2010
+NC_034267,Enterovirus goat/JL14,Enterovirus,China,Capra hircus,Caprine,4/20/14,2014
+NC_034245,Bovine rhinovirus 1,Aphthovirus,USA,,Bovine,,
+NC_034206,Kunsagivirus C,Kunsagivirus,Tanzania,Papio cynocephalus,Primate,1986,1986
+NC_033820,Bat sapelovirus,Sapelovirus,Cameroon,Eidolon helvum,Bat,2013-12,2013
+NC_033695,Enterovirus AN12,Enterovirus,Japan,Bos taurus,Bovine,10/21/14,2014
+NC_032126,Livupivirus A,Livupivirus,Hungary,Lissotriton vulgaris,Amphibian,4/1/14,2014
+NC_031105,Rosavirus B,Rosavirus,Hong Kong,Rattus norvegicus,Rodent,2/6/09,2009
+NC_030843,Washington bat picornavirus,,USA,,Bat,4/22/16,2016
+NC_030454,Enterovirus A,Enterovirus,India,Homo sapiens,Human,9/9/13,2013
+NC_029905,Enterovirus L,Enterovirus,China,Macaca mulatta,Primate,5/17/14,2014
+NC_029854,Yak enterovirus,Enterovirus,China,Bos grunniens,Bovine,8/15/14,2014
+NC_028964,Gallivirus Pf-CHK1/GV,Gallivirus,Hungary,Gallus gallus,Avian,2013,2013
+NC_028970,Avisivirus Pf-CHK1/AsV,Avisivirus,Hungary,Gallus gallus,Avian,2013,2013
+NC_028981,Tupaia hepatovirus A,Hepatovirus,China,Tupaia chinensis,Shrew,1/1/12,2012
+NC_028363,Hepatovirus D,Hepatovirus,Germany,Microtus arvalis,Rodent,2010,2010
+NC_028364,Hepatovirus I,Hepatovirus,Germany,Sorex araneus,Shrew,2012,2012
+NC_028366,Hepatovirus H,Hepatovirus,Ghana,Eidolon helvum,Bat,2010,2010
+NC_027918,Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN,Kobuvirus,Japan: Kagoshima,Bos taurus,Bovine,2/2/15,2015
+NC_027919,Aichivirus D,Kobuvirus,Japan: Kagoshima,Bos taurus,Bovine,2014-11,2014
+NC_027818,Hepatovirus B,Hepatovirus,USA,Phoca vitulina,Seal,9/30/11,2011
+NC_027054,Aichivirus C,Kobuvirus,China,Sus scrofa,Porcine,2014,2014
+NC_026470,Mischivirus C,Mischivirus,Democratic Republic of the Congo,Macronycteris gigas,Bat,2013,2013
+NC_026314,Rabovirus A,Rabovirus,Germany,Rattus norvegicus,Rodent,2011-01,2011
+NC_026315,Lesavirus 1,Malagasivirus,USA,Lemur catta,Primate,2012,2012
+NC_026316,Lesavirus 2,Malagasivirus,USA,Varecia variegata,Primate,2012,2012
+NC_025961,Cosavirus JMY-2014,Cosavirus,China,Homo sapiens,Human,8/11/12,2012
+NC_025675,Norway rat hunnivirus,Hunnivirus,USA,Rattus norvegicus,Rodent,12/2/12,2012
+NC_025474,Crohivirus A,Crohivirus,Zambia,Crocidura hirta,Shrew,2012-05,2012
+NC_025114,Salivirus FHB,Salivirus,China,Homo sapiens,Human,2011,2011
+NC_024765,Chicken picornavirus 1,,Hong Kong,Gallus gallus,Avian,10/10/08,2008
+NC_024766,Avisivirus B,Avisivirus,Hong Kong,Gallus gallus,Avian,10/10/08,2008
+NC_024770,Gallivirus A,Gallivirus,Hong Kong,Gallus gallus,Avian,9/16/10,2010
+NC_024073,Enterovirus sp.,Enterovirus,Cameroon,Mandrillus sphinx,Primate,2/4/08,2008
+NC_024070,Rosavirus A,Rosavirus,Gambia,Homo sapiens,Human,10/29/08,2008
+NC_023984,Human cosavirus,Cosavirus,Netherlands,Homo sapiens,Human,3/22/94,1994
+NC_023985,Aalivirus A,Aalivirus,China,Anas platyrhynchos,Avian,10/10/12,2012
+NC_023987,Mosavirus A,Mosavirus,Hungary,Coracias garrulus,Avian,2011-07,2011
+NC_023988,Tortoise rafivirus A,Rafivirus,USA,Indotestudo forstenii,Reptile,2009,2009
+NC_023422,Caprine kobuvirus,Kobuvirus,South Korea,Capra hircus,Caprine,2012,2012
+NC_023162,Limnipivirus B,Limnipivirus,Germany,Cyprinus carpio,Fish,2006,2006
+NC_022802,Sakobuvirus A,Sakobuvirus,Portugal,Felis catus,Feline,12/1/12,2012
+NC_022332,Potamipivirus A,Potamipivirus,Germany,Anguilla anguilla,Fish,2005-05,2005
+NC_021482,Parechovirus C,Parechovirus,Central African Republic,Hylomyscus,Rodent,1972,1972
+NC_021220,Enterovirus F,Enterovirus,,,Bovine,,
+NC_021178,Cadicivirus A,Dicipivirus,Hong Kong,Canis lupus familiaris,Canine ,2008,2008
+NC_018668,Hunnivirus A,Hunnivirus,Hungary,Bos taurus,Bovine,2/29/08,2008
+NC_018506,Limnipivirus A,Limnipivirus,USA,Lepomis macrochirus,Fish,2003-11,2003
+NC_018400,Gallivirus A,Gallivirus,Hungary,Meleagris gallopavo,Avian,2011-04,2011
+NC_015936,Mouse kobuvirus M-5/USA/2010,Kobuvirus,USA,Peromyscus crinitus,Rodent,2010,2010
+NC_016964,Mischivirus D,Mischivirus,Hong Kong,Canis lupus familiaris,Canine ,2008,2008
+NC_016769,Aichivirus C,Kobuvirus,China,Sus scrofa,Porcine,2010-12,2010
+NC_016156,Feline picornavirus,,Hong Kong,Felis catus,Feline,8/24/07,2007
+NC_016403,Quail picornavirus QPV1/HUN/2010,,Hungary,Coturnix coturnix,Avian,2010-07,2010
+NC_015934,Bat picornavirus 3,,Hong Kong,Rhinolophus sinicus,Bat,9/12/08,2008
+NC_015940,Bat picornavirus 1,,Hong Kong,Miniopterus pusillus,Bat,12/19/08,2008
+NC_015941,Bat picornavirus 2,,Hong Kong,Miniopterus magnater,Bat,9/6/05,2005
+NC_015626,Pigeon picornavirus B,,Norway,Columbidae,Avian,8/19/03,2003
+NC_014411,Passerivirus A,Passerivirus,Hong Kong,Turdus pallidus,Avian,1/11/07,2007
+NC_014412,Oscivirus A,Oscivirus,Hong Kong,Copsychus saularis,Avian,12/6/06,2006
+NC_014413,Oscivirus A,Oscivirus,Hong Kong,Turdus hortulorum,Avian,12/21/06,2006
+NC_013695,Enterovirus J,Enterovirus,,,Primate,,
+NC_012986,Salivirus A,Salivirus,USA,Homo sapiens,Human,10/16/02,2002
+NC_012957,Salivirus A,Salivirus,Nigeria,Homo sapiens,Human,2007-04,2007
+NC_012800,Cosavirus A,Cosavirus,,Homo sapiens,Human,,
+NC_012801,Cosavirus B,Cosavirus,Pakistan,Homo sapiens,Human,,
+NC_012802,Cosavirus D,Cosavirus,Pakistan,Homo sapiens,Human,,
+NC_011829,Aichivirus C,Kobuvirus,Hungary,Sus scrofa,Porcine,2007,2007
+NC_011349,Senecavirus A,Senecavirus,USA,,,,
+NC_010810,Cardiovirus B,Cardiovirus,,,Human,,
+NC_010415,Enterovirus J,Enterovirus,,,Primate,,
+NC_010354,Bovine rhinitis B virus,Aphthovirus,United Kingdom,Bos taurus,Bovine,,
+NC_009448,Cardiovirus B,Cardiovirus,USA,,Human,,
+NC_008714,Enterovirus F,Enterovirus,,,Marsupial,,
+NC_008250,Avihepatovirus A,Avihepatovirus,,,Avian,,
+NC_006553,Anativirus A,Anativirus,,,,,
+NC_004451,Sapelovirus B,Sapelovirus,,,Primate,,
+NC_004441,Enterovirus G,Enterovirus,,,Porcine,,
+NC_004421,Aichivirus B,Kobuvirus,,Bos taurus,Bovine,,
+NC_003976,Parechovirus B,Parechovirus,,,,,
+NC_003987,Sapelovirus A,Sapelovirus,,,Porcine,,
+NC_003988,Enterovirus H,Enterovirus,,,,,
+NC_001918,Aichivirus A,Kobuvirus,Japan,Homo sapiens,Human,,
+NC_003983,Erbovirus A,Erbovirus,,Equus caballus,Equine,,
+NC_001612,Enterovirus A,Enterovirus,,,Human,,
+NC_001472,Enterovirus B,Enterovirus,,,Human,,
+NC_001479,Cardiovirus A,Cardiovirus,,,Human,,
+NC_001489,Hepatovirus A,Hepatovirus,,,Human,,
+NC_001490,Rhinovirus B,Enterovirus,,,Human,,
+NC_001430,Enterovirus D,Enterovirus,,,Human,,
+NC_001859,Enterovirus E,Enterovirus,,,Bovine,,
+NC_001366,Cardiovirus B,Cardiovirus,,,Rodent,,
+NC_002058,Enterovirus C,Enterovirus,,,Human,,
+MN602325,Shanbavirus A,Kobuvirus,Italy,Pipistrellus pipistrellus,Bat,2017,2017
+MF352419,Miniopterus picornavirus 1,,China ,Miniopterus schreibersii,Bat,2012,2012
+MF352423,Miniopterus picornavirus 1,,China ,Miniopterus schreibersii,Bat,2012,2012
+MF352427,Miniopterus picornavirus 2,,China ,Miniopterus schreibersii,Bat,2012,2012
+KJ641686,Aichivirus F,Kobuvirus,China,Myotis ricketti,Bat,2010-10,2010
+KJ641687,Shanbavirus A,Shanbavirus,China,Miniopterus fuliginosus,Bat,2012-11,2012
+KJ641691,Aichivirus F,Kobuvirus,China,Miniopterus fuliginosus,Bat,2012-12,2012
+KJ641693,Shanbavirus A,Shanbavirus,China,Rhinolophus hipposideros,Bat,2013-03,2013
+KJ641694,Shanbavirus A,Shanbavirus,China,Rhinolophus sinicus,Bat,2010-12,2010
+KJ641696,Shanbavirus A,Shanbavirus,China,Vespertilio sinensis,Bat,2013-03,2013
+HQ595341,Bat picornavirus 1,,Hong Kong,Miniopterus schreibersii,Bat,10/17/08,2008
+HQ595343,Bat picornavirus 2,,Hong Kong,Miniopterus magnater,Bat,9/1/05,2005
+HQ595345,Bat picornavirus 3,,Hong Kong,Hipposideros armiger,Bat,9/12/08,2008
+NC_048212,Bat coronavirus,Coronavirus,Cameroon,Eidolon helvum,Bat,2013-12,2013
+OP287812,Kobuvirus,Kobuvirus,Madagascar,Eidolon dupreanum,Bat,7/27/18,2018
