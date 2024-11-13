@@ -1,6 +1,6 @@
 # Madagascar Bat Kobuvirus
 
-This repository contains data and pipelines necessary to create the figures for the Madagascar bat kobuvirus paper [link]()
+This repository contains data and pipelines necessary to create the figures for the Madagascar bat kobuvirus paper
 
 Sub-directories within this repo contain pipeline directions and are split as such:
 
