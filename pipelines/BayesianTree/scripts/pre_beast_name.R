@@ -4,18 +4,15 @@ library(plyr)
 library(dplyr)
 library(seqinr)
 
-
-#set wd
-homewd = "/Users/mfv2446/Desktop/"
-setwd(paste0(homewd))
-
 #load the dataset and query
-dat <- read.csv(file = "beast_kobuvirus_metadata_manual.csv", header = T, stringsAsFactors = F)
+dat <- read.csv(file = "BEAST_Metadata_LuSequences18DEC2024.csv", header = TRUE, stringsAsFactors = FALSE)
+dat$collection_date <- as.Date(dat$collection_date, format = "%m/%d/%y")
+head(dat)
 
 head(dat)
 
 #now, get the fasta file 
-fasta.dat <- read.fasta(file= paste0(homewd,"beast_alignment.fasta"), forceDNAtolower = F, as.string = T)
+fasta.dat <- read.fasta(file= paste0("BEASTMSALuSequences18DEC2024Extraction.fasta"), forceDNAtolower = F, as.string = T)
 
 names(fasta.dat)
 
@@ -42,6 +39,6 @@ fasta.meta <- merge(fasta.meta, dat.merge, all.x = T, by="tip_label", sort = F)
 head(fasta.meta)
 fasta.meta$beast_name
 #and write over:
-write.fasta(fasta.dat, names=fasta.meta$beast_name, file =paste0(homewd,"beast_alignment_mod.fasta"))
+write.fasta(fasta.dat, names=fasta.meta$beast_name, file =paste0("BEASTMSALuSequencesRenamed18DEC2024.fasta"))
 
 

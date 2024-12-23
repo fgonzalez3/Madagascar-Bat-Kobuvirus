@@ -15,9 +15,10 @@ rule raxml:
     params:
         model=config["model"], 
         genera=config["genera"]
-    conda:
-        "envs/raxml.yaml"
     shell:
         """
-        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix {params.genera} --seed 12 --threads 4 --bs-metric fbp,tbe
+        module unload miniconda
+        source activate /home/flg9/.conda/envs/raxml
+        raxml-ng-mpi --all --msa {input.aln} --model {params.model} --prefix {params.genera} \
+        --seed 12 --threads 4 --bs-metric fbp,tbe --bs-trees 1000
         """

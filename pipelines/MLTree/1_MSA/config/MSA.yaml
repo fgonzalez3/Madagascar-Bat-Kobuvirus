@@ -1,2 +1,2 @@
-seqs: "seqs/Picornavirus_ML_Tree_Sequences_21SEP2024.fasta"
-genera: "Picornaviridae"
+seqs: "seqs/KobuvirusRabovirusOutgroup_PlusLuSequences_16DEC2024.fasta"
+genera: "Kobuvirus"

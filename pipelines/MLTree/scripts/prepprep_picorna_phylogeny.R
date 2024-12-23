@@ -60,7 +60,7 @@ rm(list = ls())
 library(seqinr)
 #library(msa)
 
-orf_alignment <-read.alignment(file = '/Users/mfv2446/Desktop/orf_alignment.fasta', format = 'fasta', forceToLower = F)
+orf_alignment <-read.alignment(file = 'KobuvirusRabovirusOutgroup_MSA_WithLuSequences_16DEC2024.fasta', format = 'fasta', forceToLower = F)
 tmp <- as.list(orf_alignment$nam)
 
 change.spacing <- function(df){
@@ -77,4 +77,4 @@ names_new <- lapply(names_new, gsub, pattern = ".3", replacement = "", fixed = T
 
 
 class(orf_alignment$seq)
-write.fasta(sequences = as.list(orf_alignment$seq), names = names_new, file.out = '/Users/mfv2446/Desktop/orf_raxml.fasta', as.string = T, open = 'w')
+write.fasta(sequences = as.list(orf_alignment$seq), names = names_new, file.out = 'KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta', as.string = T, open = 'w')

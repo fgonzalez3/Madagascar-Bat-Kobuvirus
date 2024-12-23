@@ -20,5 +20,5 @@ rule modeltest:
         genera=config["genera"]
     shell: 
         """
-        modeltest-ng -d nt -i {input.aln} > {output} -t ml -p 8
+        modeltest-ng -d nt -i {input.aln} > {output} -t ml -p 4
         """
