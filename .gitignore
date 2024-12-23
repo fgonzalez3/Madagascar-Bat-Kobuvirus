@@ -7,3 +7,10 @@
 figures/4_bayesian_phylogeny/data/Kobuvirus_BayesianTree.trees
 figures/3_picornavirus_phylogeny/large_tree_plot.psd
 *Kobuvirus_BayesianTree.trees*
+*.psd*
+*.png*
+figures/5_genome_alignment/*
+pipelines/BayesianTree/1_MSA/seqs/BeastSequencesLu18DEC2024.fasta
+pipelines/MLTree/1_MSA/seqs/*
+pipelines/MLTree/3_BuildTree/.snakemake/
+figures/3_picornavirus_phylogeny/.gitignore
