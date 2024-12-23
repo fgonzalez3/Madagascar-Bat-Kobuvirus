@@ -1,0 +1,365 @@
+                             _      _ _            _      _   _  _____ 
+                            | |    | | |          | |    | \ | |/ ____|
+         _ __ ___   ___   __| | ___| | |_ ___  ___| |_   |  \| | |  __ 
+        | '_ ` _ \ / _ \ / _` |/ _ \ | __/ _ \/ __| __|  | . ` | | |_ |
+        | | | | | | (_) | (_| |  __/ | ||  __/\__ \ |_   | |\  | |__| |
+        |_| |_| |_|\___/ \__,_|\___|_|\__\___||___/\__|  |_| \_|\_____|
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7 released on 17.03.2021 by The Exelixis Lab.
+Written by Diego Darriba.
+Contributors: Tomas Flouri, Alexey Kozlov, Benoit Morel, David Posada, 
+              Alexandros Stamatakis.
+Latest version: https://github.com/ddarriba/modeltest
+--------------------------------------------------------------------------------
+
+Physical cores: 32
+Logical cores:  64
+Memory:         1.01e+03GB
+Extensions:     AVX
+
+WARNING: MSA has not enough sites to infer reliable results
+Creating new checkpoint file: /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.ckp
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta
+  Tree:       Maximum likelihood
+    file:           -
+  #taxa:            112
+  #sites:           6311
+  #patterns:        4457
+  Max. thread mem:  244 MB
+
+Output:
+  Log:           /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.log
+  Starting tree: /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.tree
+  Results:       /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          4/32
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+modeltest-ng was called as follows: 
+>> modeltest-ng -d nt -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -t ml -p 4 
+
+
+Partition 1/1
+
+    2/88   GTR+I+G4       0h:03:16   0h:03:16         -172838.8669  0.6257  0.0758
+    4/88   TIM3+I+G4      0h:03:17   0h:03:17         -173141.5198  0.6115  0.0701
+    5/88   TIM2+I+G4      0h:04:18   0h:04:18         -172943.6241  0.6257  0.0742
+    3/88   TVM+I+G4       0h:05:01   0h:05:01         -172845.5440  0.6078  0.0707
+    7/88   TPM3uf+I+G4    0h:02:51   0h:06:08         -173156.2829  0.6073  0.0712
+    6/88   TIM1+I+G4      0h:03:41   0h:06:57         -173242.1724  0.6111  0.0696
+    8/88   TrN+I+G4       0h:03:26   0h:07:44         -173245.2059  0.6110  0.0696
+    9/88   TPM1uf+I+G4    0h:02:50   0h:07:51         -173252.7599  0.6069  0.0697
+   10/88   TPM2uf+I+G4    0h:03:05   0h:09:13         -172947.0202  0.6073  0.0696
+   11/88   SYM+I+G4       0h:03:14   0h:10:11         -173608.0519  0.6529  0.0677
+   13/88   HKY+I+G4       0h:02:48   0h:10:39         -173255.7661  0.6069  0.0697
+   12/88   TVMef+I+G4     0h:04:33   0h:12:17         -174181.9813  0.6180  0.0646
+   14/88   TIM2ef+I+G4    0h:03:10   0h:12:23         -173631.2937  0.6525  0.0673
+   15/88   TIM1ef+I+G4    0h:02:26   0h:12:37         -173885.7610  0.6538  0.0674
+   16/88   TIM3ef+I+G4    0h:02:37   0h:13:16         -173916.6623  0.6523  0.0677
+   17/88   F81+I+G4       0h:03:52   0h:16:09         -181516.0634  0.5984  0.0556
+   18/88   TPM3+I+G4      0h:03:59   0h:16:22         -174462.7410  0.6189  0.0642
+   19/88   TPM2+I+G4      0h:04:19   0h:16:56         -174205.7959  0.6177  0.0640
+   20/88   TPM1+I+G4      0h:04:23   0h:17:39         -174480.4710  0.6186  0.0634
+   21/88   TrNef+I+G4     0h:02:24   0h:18:33         -173887.2835  0.6538  0.0674
+   22/88   K80+I+G4       0h:04:10   0h:20:32         -174481.8692  0.6186  0.0634
+   23/88   JC+I+G4        0h:03:54   0h:20:50         -185024.7580  0.6357  0.0565
+   24/88   GTR+G4         0h:03:16   0h:20:55         -172882.2053  0.5068       -
+   25/88   TVM+G4         0h:04:26   0h:22:59         -172889.4851  0.5068       -
+   26/88   TIM3+G4        0h:02:29   0h:23:01         -173185.4286  0.5068       -
+   28/88   TIM1+G4        0h:03:35   0h:24:30         -173278.2461  0.5068       -
+   29/88   TPM3uf+G4      0h:02:36   0h:25:35         -173197.9230  0.5068       -
+   27/88   TIM2+G4        0h:04:49   0h:25:39         -172980.7753  0.5068       -
+   30/88   TrN+G4         0h:03:23   0h:26:24         -173281.3339  0.5068       -
+   31/88   TPM1uf+G4      0h:03:08   0h:27:38         -173288.8013  0.5068       -
+   32/88   TPM2uf+G4      0h:02:32   0h:28:07         -172985.5622  0.5068       -
+   33/88   SYM+G4         0h:03:52   0h:29:31         -173643.0095  0.5350       -
+   34/88   TVMef+G4       0h:03:36   0h:30:00         -174212.5534  0.5337       -
+   35/88   HKY+G4         0h:03:07   0h:30:45         -173291.6920  0.5068       -
+   36/88   TIM2ef+G4      0h:02:51   0h:30:58         -173664.3492  0.5350       -
+   38/88   TIM3ef+G4      0h:02:06   0h:32:06         -173902.1445  0.5350       -
+   37/88   TIM1ef+G4      0h:02:36   0h:32:07         -173917.8130  0.5350       -
+   40/88   TPM3+G4        0h:02:47   0h:33:45         -174498.5211  0.5332       -
+   39/88   F81+G4         0h:03:16   0h:34:01         -181528.5259  0.5068       -
+   41/88   TPM2+G4        0h:03:33   0h:35:39         -174234.1124  0.5339       -
+   43/88   TrNef+G4       0h:02:34   0h:36:19         -173919.2656  0.5350       -
+   42/88   TPM1+G4        0h:04:16   0h:36:23         -174507.1471  0.5337       -
+   47/88   TVM+I          0h:01:41   0h:38:04         -189376.3482       -  0.1172
+   46/88   GTR+I          0h:01:50   0h:38:09         -188685.9140       -  0.1172
+   44/88   K80+G4         0h:04:10   0h:38:11         -174508.4820  0.5337       -
+   45/88   JC+G4          0h:03:20   0h:38:59         -185061.9303  0.5350       -
+   48/88   TIM3+I         0h:01:16   0h:39:20         -188816.5383       -  0.1172
+   49/88   TIM2+I         0h:01:42   0h:39:51         -188757.6160       -  0.1172
+   50/88   TIM1+I         0h:01:42   0h:39:53         -188889.3903       -  0.1172
+   52/88   TrN+I          0h:01:24   0h:40:44         -188896.8505       -  0.1172
+   51/88   TPM3uf+I       0h:02:16   0h:41:15         -189522.8385       -  0.1172
+   53/88   TPM1uf+I       0h:01:32   0h:41:23         -189551.4830       -  0.1172
+   54/88   TPM2uf+I       0h:02:35   0h:42:28         -189406.6248       -  0.1172
+   55/88   SYM+I          0h:01:45   0h:42:29         -189023.9430       -  0.1172
+   56/88   TVMef+I        0h:01:33   0h:42:48         -190336.7762       -  0.1172
+   57/88   HKY+I          0h:01:32   0h:42:55         -189557.9062       -  0.1172
+   59/88   TIM1ef+I       0h:01:19   0h:43:48         -189217.1236       -  0.1172
+   58/88   TIM2ef+I       0h:01:26   0h:43:54         -189048.9271       -  0.1172
+   61/88   F81+I          0h:01:18   0h:44:13         -198049.2399       -  0.1172
+   60/88   TIM3ef+I       0h:01:32   0h:44:20         -189204.1674       -  0.1172
+   62/88   TPM3+I         0h:01:29   0h:45:17         -190578.2218       -  0.1172
+   63/88   TPM2+I         0h:01:25   0h:45:19         -190355.6007       -  0.1172
+   65/88   TrNef+I        0h:01:18   0h:45:38         -189220.4928       -  0.1172
+   64/88   TPM1+I         0h:01:48   0h:46:01         -190583.0842       -  0.1172
+   68/88   GTR            0h:00:34   0h:46:12         -193258.7948       -       -
+   70/88   TIM3           0h:00:24   0h:46:36         -193467.7619       -       -
+   71/88   TIM2           0h:00:32   0h:47:08         -193271.0054       -       -
+   66/88   K80+I          0h:02:01   0h:47:18         -190587.0408       -  0.1172
+   67/88   JC+I           0h:02:04   0h:47:23         -200213.3043       -  0.1172
+   72/88   TIM1           0h:00:26   0h:47:34         -193471.5032       -       -
+   74/88   TrN            0h:00:23   0h:47:46         -193476.4122       -       -
+   73/88   TPM3uf         0h:00:32   0h:47:50         -194252.7400       -       -
+   69/88   TVM            0h:01:57   0h:47:58         -193851.0037       -       -
+   75/88   TPM1uf         0h:00:30   0h:48:04         -194249.1278       -       -
+   76/88   TPM2uf         0h:00:26   0h:48:12         -194111.8233       -       -
+   77/88   SYM            0h:00:38   0h:48:28         -193452.9360       -       -
+   79/88   HKY            0h:00:31   0h:48:35         -194253.1917       -       -
+   78/88   TVMef          0h:00:39   0h:48:37         -194877.5501       -       -
+   80/88   TIM2ef         0h:00:37   0h:48:49         -193461.1227       -       -
+   81/88   TIM1ef         0h:00:30   0h:48:58         -193648.3081       -       -
+   82/88   TIM3ef         0h:00:29   0h:49:04         -193651.1071       -       -
+   83/88   F81            0h:00:33   0h:49:10         -202653.3383       -       -
+   84/88   TPM3           0h:00:29   0h:49:18         -195106.6478       -       -
+   86/88   TPM1           0h:00:24   0h:49:28         -195103.8770       -       -
+   85/88   TPM2           0h:00:31   0h:49:29         -194912.6161       -       -
+   87/88   TrNef          0h:00:29   0h:49:39         -193651.1251       -       -
+   88/88   K80            0h:00:27   0h:49:45         -195106.8855       -       -
+   89/88   JC             0h:00:30   0h:49:58         -204513.9963       -       -
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:49:58
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -172838.8669    347698.9952         0.0000    0.9091
+       2  TVM+I+G4           9   -172845.5440    347703.5994         4.6042    0.0909
+       3  GTR+G4             9   -172882.2053    347776.9219        77.9267    0.0000
+       4  TVM+G4             8   -172889.4851    347782.7315        83.7363    0.0000
+       5  TPM2uf+I+G4        7   -172947.0202    347889.0516       190.0564    0.0000
+       6  TIM2+I+G4          8   -172943.6241    347891.0094       192.0142    0.0000
+       7  TIM2+G4            7   -172980.7753    347956.5618       257.5666    0.0000
+       8  TPM2uf+G4          6   -172985.5622    347957.3856       258.3904    0.0000
+       9  TIM3+I+G4          8   -173141.5198    348286.8009       587.8057    0.0000
+      10  TPM3uf+I+G4        7   -173156.2829    348307.5770       608.5818    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -172838.8669
+Frequencies:        0.1851 0.3526 0.2116 0.2507
+Subst. Rates:       1.4092 6.3726 2.2651 0.6898 7.2722 1.0000 
+Inv. sites prop:    0.0758
+Gamma shape:        0.6257
+Score:              347698.9952
+Weight:             0.9091
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5068
+Alpha-P.Inv:        0.6240
+P.Inv-Alpha:        0.0753
+Frequencies:        0.1846 0.3532 0.2110 0.2512 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTR+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -172838.8669    346139.7338         0.0000    0.9966
+       2  TVM+I+G4           9   -172845.5440    346151.0880        11.3542    0.0034
+       3  GTR+G4             9   -172882.2053    346224.4105        84.6767    0.0000
+       4  TVM+G4             8   -172889.4851    346236.9702        97.2364    0.0000
+       5  TIM2+I+G4          8   -172943.6241    346345.2481       205.5143    0.0000
+       6  TPM2uf+I+G4        7   -172947.0202    346350.0404       210.3066    0.0000
+       7  TIM2+G4            7   -172980.7753    346417.5505       277.8167    0.0000
+       8  TPM2uf+G4          6   -172985.5622    346425.1244       285.3906    0.0000
+       9  TIM3+I+G4          8   -173141.5198    346741.0396       601.3058    0.0000
+      10  TPM3uf+I+G4        7   -173156.2829    346768.5657       628.8319    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -172838.8669
+Frequencies:        0.1851 0.3526 0.2116 0.2507
+Subst. Rates:       1.4092 6.3726 2.2651 0.6898 7.2722 1.0000 
+Inv. sites prop:    0.0758
+Gamma shape:        0.6257
+Score:              346139.7338
+Weight:             0.9966
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5068
+Alpha-P.Inv:        0.6256
+P.Inv-Alpha:        0.0757
+Frequencies:        0.1851 0.3526 0.2116 0.2507 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -172838.8669    346156.7338         0.0000    0.9966
+       2  TVM+I+G4           9   -172845.5440    346168.0880        11.3542    0.0034
+       3  GTR+G4             9   -172882.2053    346241.4105        84.6767    0.0000
+       4  TVM+G4             8   -172889.4851    346253.9702        97.2364    0.0000
+       5  TIM2+I+G4          8   -172943.6241    346362.2481       205.5143    0.0000
+       6  TPM2uf+I+G4        7   -172947.0202    346367.0404       210.3066    0.0000
+       7  TIM2+G4            7   -172980.7753    346434.5505       277.8167    0.0000
+       8  TPM2uf+G4          6   -172985.5622    346442.1244       285.3906    0.0000
+       9  TIM3+I+G4          8   -173141.5198    346758.0396       601.3058    0.0000
+      10  TPM3uf+I+G4        7   -173156.2829    346785.5657       628.8319    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -172838.8669
+Frequencies:        0.1851 0.3526 0.2116 0.2507
+Subst. Rates:       1.4092 6.3726 2.2651 0.6898 7.2722 1.0000 
+Inv. sites prop:    0.0758
+Gamma shape:        0.6257
+Score:              346156.7338
+Weight:             0.9966
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5068
+Alpha-P.Inv:        0.6256
+P.Inv-Alpha:        0.0757
+Frequencies:        0.1851 0.3526 0.2116 0.2507 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta -m GTR+I+G4
+
+There are 47 different topologies
+Topologies written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.topos
+
+topo_id   models_count   bic_support   aic_support   aicc_support
+-----------------------------------------------------------------
+      1              1       0.90905       0.99659       0.99659
+      2              1       0.09095       0.00341       0.00341
+     14              2       0.00000       0.00000       0.00000
+      4              4       0.00000       0.00000       0.00000
+      3              2       0.00000       0.00000       0.00000
+      6              1       0.00000       0.00000       0.00000
+     16              1       0.00000       0.00000       0.00000
+      5              5       0.00000       0.00000       0.00000
+      7              1       0.00000       0.00000       0.00000
+     15              2       0.00000       0.00000       0.00000
+     38              2       0.00000       0.00000       0.00000
+     30              1       0.00000       0.00000       0.00000
+     31              1       0.00000       0.00000       0.00000
+     32              2       0.00000       0.00000       0.00000
+     33              1       0.00000       0.00000       0.00000
+     34              1       0.00000       0.00000       0.00000
+     35              2       0.00000       0.00000       0.00000
+     36              1       0.00000       0.00000       0.00000
+     37              1       0.00000       0.00000       0.00000
+     44              1       0.00000       0.00000       0.00000
+     39              3       0.00000       0.00000       0.00000
+     40              1       0.00000       0.00000       0.00000
+     41              2       0.00000       0.00000       0.00000
+     46              1       0.00000       0.00000       0.00000
+     47              1       0.00000       0.00000       0.00000
+     45              3       0.00000       0.00000       0.00000
+     42              1       0.00000       0.00000       0.00000
+     43              3       0.00000       0.00000       0.00000
+     20              1       0.00000       0.00000       0.00000
+      8              9       0.00000       0.00000       0.00000
+      9              6       0.00000       0.00000       0.00000
+     10              1       0.00000       0.00000       0.00000
+     11              1       0.00000       0.00000       0.00000
+     12              1       0.00000       0.00000       0.00000
+     13              1       0.00000       0.00000       0.00000
+     17              1       0.00000       0.00000       0.00000
+     18              1       0.00000       0.00000       0.00000
+     19              2       0.00000       0.00000       0.00000
+     29              2       0.00000       0.00000       0.00000
+     21              4       0.00000       0.00000       0.00000
+     22              1       0.00000       0.00000       0.00000
+     23              2       0.00000       0.00000       0.00000
+     24              2       0.00000       0.00000       0.00000
+     25              1       0.00000       0.00000       0.00000
+     26              1       0.00000       0.00000       0.00000
+     27              2       0.00000       0.00000       0.00000
+     28              1       0.00000       0.00000       0.00000
+
+extended majority-rule consensus: ((((KC424638,JQ692069)[1.00000],((((MN807751,(NC_011829,GQ249161)[1.00000])[1.00000],(KC414936,(KC424640,KC424639)[1.00000])[1.00000])[1.00000],(((((MK962330,MK962321)[1.00000],(MK962334,MK962333)[1.00000])[1.00000],(MK962332,JX177612)[1.00000])[1.00000],(MK962323,(MK962335,MK962320)[1.00000])[1.00000])[1.00000],(MK962327,((MK962331,MK962329)[1.00000],((MK962325,(MK962328,MK962322)[1.00000])[1.00000],(MK962326,MK962324)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],((MT211964,MF506730)[1.00000],(((KY234500,(MT125683,(KJ452348,(MT125684,MT125682)[1.00000])[1.00000])[1.00000])[1.00000],((NC_016769,(KM051987,(KF539763,(KC204684,JX401523)[1.00000])[1.00000])[1.00000])[1.00000],(KY234499,(KF695124,(NC_027054,KP144318)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(LC210621,KM977675)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(MZ334483,LT898428)[1.00000])[1.00000],GU292559,(MT125685,(OK315318,((MT584793,(NC_023422,MN604700)[1.00000])[1.00000],((((KT325852,(KJ641691,KJ641686)[1.00000])[1.00000],(KJ934637,(OP287812,(((NC_001918,AB040749)[1.00000],(DQ028632,(MT766372,FJ890523)[1.00000])[1.00000])[1.00000],((MN116647,((MF947433,(MF947431,MF947430)[1.00000])[1.00000],(MF947434,(MF947440,(MF947429,((MF947438,MF947437)[1.00000],((MF947439,MF947432)[1.00000],(MF947435,MF947436)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],((((MF598159,(MK671315,MK671314)[1.00000])[1.00000],(KM091960,(KJ958930,KF831027)[1.00000])[1.00000])[1.00000],((MH747478,((KM068048,(KM068051,(KM068050,KM068049)[1.00000])[1.00000])[1.00000],(MN337880,KC161964)[1.00000])[1.00000])[1.00000],(JN088541,(KF924623,(JQ911763,(NC_034971,MN449341)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(NC_015936,(OM140655,KY855436)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[0.90905],(NC_026314,(NC_027919,(NC_027918,MW296158)[1.00000])[1.00000])[0.90905])[1.00000],(GU245693,((ON075056,((ON075054,ON075051)[1.00000],((ON075053,(ON075055,MZ603734)[1.00000])[1.00000],(ON075052,ON075050)[1.00000])[1.00000])[1.00000])[1.00000],(KY407744,(MN336260,(NC_004421,MW605074)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000]);
+strict consensus: ((((KC424638,JQ692069)[1.00000],((((MN807751,(NC_011829,GQ249161)[1.00000])[1.00000],(KC414936,(KC424640,KC424639)[1.00000])[1.00000])[1.00000],(((((MK962330,MK962321)[1.00000],(MK962334,MK962333)[1.00000])[1.00000],(MK962332,JX177612)[1.00000])[1.00000],(MK962323,(MK962335,MK962320)[1.00000])[1.00000])[1.00000],(MK962327,((MK962331,MK962329)[1.00000],((MK962325,(MK962328,MK962322)[1.00000])[1.00000],(MK962326,MK962324)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],((MT211964,MF506730)[1.00000],(((KY234500,(MT125683,(KJ452348,(MT125684,MT125682)[1.00000])[1.00000])[1.00000])[1.00000],((NC_016769,(KM051987,(KF539763,(KC204684,JX401523)[1.00000])[1.00000])[1.00000])[1.00000],(KY234499,(KF695124,(NC_027054,KP144318)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(LC210621,KM977675)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(MZ334483,LT898428)[1.00000])[1.00000],GU292559,(MT125685,(OK315318,((MT584793,(NC_023422,MN604700)[1.00000])[1.00000],((NC_026314,(KJ934637,(OP287812,(((NC_001918,AB040749)[1.00000],(DQ028632,(MT766372,FJ890523)[1.00000])[1.00000])[1.00000],((MN116647,((MF947433,(MF947431,MF947430)[1.00000])[1.00000],(MF947434,(MF947440,(MF947429,((MF947438,MF947437)[1.00000],((MF947439,MF947432)[1.00000],(MF947435,MF947436)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],((((MF598159,(MK671315,MK671314)[1.00000])[1.00000],(KM091960,(KJ958930,KF831027)[1.00000])[1.00000])[1.00000],((MH747478,((KM068048,(KM068051,(KM068050,KM068049)[1.00000])[1.00000])[1.00000],(MN337880,KC161964)[1.00000])[1.00000])[1.00000],(JN088541,(KF924623,(JQ911763,(NC_034971,MN449341)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(NC_015936,(OM140655,KY855436)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000],(NC_027919,(NC_027918,MW296158)[1.00000])[1.00000],(KT325852,(KJ641691,KJ641686)[1.00000])[1.00000])[1.00000],(GU245693,((ON075056,((ON075054,ON075051)[1.00000],((ON075053,(ON075055,MZ603734)[1.00000])[1.00000],(ON075052,ON075050)[1.00000])[1.00000])[1.00000])[1.00000],(KY407744,(MN336260,(NC_004421,MW605074)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000]);
+
+Summary:
+
+Partition 1/1:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC            GTR+I+G4   347698.9952        0.9091
+       AIC            GTR+I+G4   346139.7338        0.9966
+      AICc            GTR+I+G4   346156.7338        0.9966
+
+Execution results written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.out
+Starting tree written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig3_MLTree/1_MSA/results/Kobuvirus/MAFFT/KobuvirusRabovirusOutgroup_MSA_WithLuSequences_Extraction_Renamed_16DEC2024.fasta.tree

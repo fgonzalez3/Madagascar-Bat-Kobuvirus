@@ -1,0 +1,353 @@
+                             _      _ _            _      _   _  _____ 
+                            | |    | | |          | |    | \ | |/ ____|
+         _ __ ___   ___   __| | ___| | |_ ___  ___| |_   |  \| | |  __ 
+        | '_ ` _ \ / _ \ / _` |/ _ \ | __/ _ \/ __| __|  | . ` | | |_ |
+        | | | | | | (_) | (_| |  __/ | ||  __/\__ \ |_   | |\  | |__| |
+        |_| |_| |_|\___/ \__,_|\___|_|\__\___||___/\__|  |_| \_|\_____|
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7 released on 17.03.2021 by The Exelixis Lab.
+Written by Diego Darriba.
+Contributors: Tomas Flouri, Alexey Kozlov, Benoit Morel, David Posada, 
+              Alexandros Stamatakis.
+Latest version: https://github.com/ddarriba/modeltest
+--------------------------------------------------------------------------------
+
+Physical cores: 32
+Logical cores:  64
+Memory:         1.01e+03GB
+Extensions:     AVX
+
+WARNING: MSA has not enough sites to infer reliable results
+Creating new checkpoint file: /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.ckp
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta
+  Tree:       Maximum likelihood
+    file:           -
+  #taxa:            46
+  #sites:           6652
+  #patterns:        4662
+  Max. thread mem:  103 MB
+
+Output:
+  Log:           /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.log
+  Starting tree: /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.tree
+  Results:       /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          4/32
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+modeltest-ng was called as follows: 
+>> modeltest-ng -d nt -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -t ml -p 4 
+
+
+Partition 1/1
+
+    2/88   GTR+I+G4       0h:01:07   0h:01:07         -126685.4154  0.6473  0.0610
+    3/88   TVM+I+G4       0h:01:25   0h:01:25         -126697.4317  0.6473  0.0620
+    5/88   TIM2+I+G4      0h:01:37   0h:01:37         -126706.1092  0.6473  0.0589
+    4/88   TIM3+I+G4      0h:01:54   0h:01:54         -126852.4570  0.6473  0.0592
+    6/88   TIM1+I+G4      0h:01:18   0h:02:25         -126873.1311  0.6473  0.0573
+    7/88   TPM3uf+I+G4    0h:01:11   0h:02:36         -126874.1471  0.6473  0.0607
+    8/88   TrN+I+G4       0h:01:02   0h:02:39         -126874.0574  0.6473  0.0573
+    9/88   TPM1uf+I+G4    0h:01:14   0h:03:08         -126892.4216  0.6473  0.0590
+   12/88   TVMef+I+G4     0h:01:01   0h:03:40         -127537.6282  0.6872  0.0564
+   10/88   TPM2uf+I+G4    0h:01:35   0h:04:00         -126720.2277  0.6473  0.0599
+   11/88   SYM+I+G4       0h:01:35   0h:04:11         -127171.1534  0.6916  0.0572
+   13/88   HKY+I+G4       0h:01:05   0h:04:13         -126893.2855  0.6473  0.0590
+   14/88   TIM2ef+I+G4    0h:00:50   0h:04:30         -127182.7353  0.6909  0.0571
+   15/88   TIM1ef+I+G4    0h:00:52   0h:04:52         -127317.6301  0.6992  0.0590
+   16/88   TIM3ef+I+G4    0h:00:51   0h:05:02         -127318.1935  0.6991  0.0589
+   17/88   F81+I+G4       0h:01:11   0h:05:24         -130675.0434  0.5826  0.0278
+   18/88   TPM3+I+G4      0h:01:10   0h:05:40         -127678.7849  0.6917  0.0575
+   19/88   TPM2+I+G4      0h:01:00   0h:05:52         -127542.6124  0.6866  0.0562
+   20/88   TPM1+I+G4      0h:01:10   0h:06:12         -127678.3261  0.6916  0.0574
+   21/88   TrNef+I+G4     0h:00:51   0h:06:15         -127318.1836  0.6990  0.0589
+   22/88   K80+I+G4       0h:01:09   0h:06:49         -127678.7687  0.6916  0.0574
+   23/88   JC+I+G4        0h:01:02   0h:06:54         -132455.0896  0.6901  0.0532
+   25/88   TVM+G4         0h:01:07   0h:07:22         -126699.3385  0.5352       -
+   24/88   GTR+G4         0h:01:23   0h:07:35         -126689.8725  0.5350       -
+   26/88   TIM3+G4        0h:01:07   0h:07:56         -126860.2633  0.5350       -
+   27/88   TIM2+G4        0h:01:31   0h:08:25         -126713.9265  0.5350       -
+   29/88   TPM3uf+G4      0h:00:54   0h:08:29         -126876.5712  0.5350       -
+   28/88   TIM1+G4        0h:01:10   0h:08:32         -126879.1439  0.5350       -
+   30/88   TrN+G4         0h:01:06   0h:09:02         -126879.9627  0.5350       -
+   33/88   SYM+G4         0h:00:49   0h:09:21         -127190.4999  0.5631       -
+   32/88   TPM2uf+G4      0h:00:52   0h:09:21         -126719.5997  0.5350       -
+   31/88   TPM1uf+G4      0h:01:21   0h:09:46         -126893.0683  0.5350       -
+   34/88   TVMef+G4       0h:00:51   0h:09:53         -127547.9057  0.5631       -
+   36/88   TIM2ef+G4      0h:00:48   0h:10:09         -127193.5671  0.5631       -
+   35/88   HKY+G4         0h:00:54   0h:10:15         -126893.8396  0.5350       -
+   37/88   TIM1ef+G4      0h:00:56   0h:10:42         -127330.1228  0.5913       -
+   38/88   TIM3ef+G4      0h:00:56   0h:10:49         -127330.5177  0.5913       -
+   39/88   F81+G4         0h:00:46   0h:10:55         -130675.7640  0.5362       -
+   40/88   TPM3+G4        0h:01:01   0h:11:16         -127691.1498  0.5631       -
+   41/88   TPM2+G4        0h:00:51   0h:11:33         -127552.7566  0.5631       -
+   43/88   TrNef+G4       0h:00:54   0h:11:49         -127330.6223  0.5913       -
+   42/88   TPM1+G4        0h:01:00   0h:11:49         -127690.7299  0.5631       -
+   46/88   GTR+I          0h:00:06   0h:11:55         -134449.4148       -  0.1309
+   47/88   TVM+I          0h:00:07   0h:11:56         -134801.7755       -  0.1309
+   48/88   TIM3+I         0h:00:07   0h:12:02         -134511.1648       -  0.1309
+   50/88   TIM1+I         0h:00:08   0h:12:10         -134514.7510       -  0.1309
+   44/88   K80+G4         0h:00:58   0h:12:14         -127691.1570  0.5631       -
+   52/88   TrN+I          0h:00:07   0h:12:21         -134517.1105       -  0.1309
+   49/88   TIM2+I         0h:00:30   0h:12:26         -134430.4393       -  0.1309
+   54/88   TPM2uf+I       0h:00:07   0h:12:33         -134808.1633       -  0.1309
+   45/88   JC+G4          0h:01:03   0h:12:36         -132466.1311  0.5631       -
+   56/88   TVMef+I        0h:00:08   0h:12:44         -135199.5364       -  0.1309
+   55/88   SYM+I          0h:00:11   0h:12:44         -134522.5757       -  0.1309
+   57/88   HKY+I          0h:00:05   0h:12:49         -134879.2675       -  0.1309
+   58/88   TIM2ef+I       0h:00:11   0h:12:55         -134528.5616       -  0.1309
+   53/88   TPM1uf+I       0h:00:35   0h:12:56         -134832.6920       -  0.1309
+   51/88   TPM3uf+I       0h:00:48   0h:12:58         -134834.0039       -  0.1309
+   59/88   TIM1ef+I       0h:00:10   0h:12:59         -134606.0439       -  0.1309
+   61/88   F81+I          0h:00:06   0h:13:02         -138729.1190       -  0.1309
+   60/88   TIM3ef+I       0h:00:10   0h:13:05         -134607.1474       -  0.1309
+   63/88   TPM2+I         0h:00:08   0h:13:07         -135206.6989       -  0.1309
+   62/88   TPM3+I         0h:00:09   0h:13:07         -135297.5487       -  0.1309
+   64/88   TPM1+I         0h:00:09   0h:13:11         -135297.1217       -  0.1309
+   67/88   JC+I           0h:00:06   0h:13:13         -139636.7024       -  0.1309
+   65/88   TrNef+I        0h:00:09   0h:13:14         -134607.3082       -  0.1309
+   66/88   K80+I          0h:00:08   0h:13:15         -135298.3981       -  0.1309
+   71/88   TIM2           0h:00:25   0h:13:40         -137751.4566       -       -
+   68/88   GTR            0h:00:30   0h:13:41         -137729.2675       -       -
+   70/88   TIM3           0h:00:29   0h:13:43         -137812.0606       -       -
+   72/88   TIM1           0h:00:09   0h:13:49         -137831.3324       -       -
+   73/88   TPM3uf         0h:00:09   0h:13:50         -138186.8695       -       -
+   69/88   TVM            0h:00:38   0h:13:51         -138079.7511       -       -
+   74/88   TrN            0h:00:09   0h:13:52         -137832.8665       -       -
+   75/88   TPM1uf         0h:00:10   0h:13:59         -138215.3161       -       -
+   78/88   TVMef          0h:00:09   0h:14:01         -138462.9522       -       -
+   77/88   SYM            0h:00:13   0h:14:04         -137746.2280       -       -
+   80/88   TIM2ef         0h:00:11   0h:14:12         -137782.1088       -       -
+   81/88   TIM1ef         0h:00:09   0h:14:13         -137866.8473       -       -
+   76/88   TPM2uf         0h:00:28   0h:14:18         -138115.3106       -       -
+   83/88   F81            0h:00:06   0h:14:19         -141960.3517       -       -
+   79/88   HKY            0h:00:20   0h:14:19         -138204.5069       -       -
+   82/88   TIM3ef         0h:00:11   0h:14:23         -137847.6318       -       -
+   86/88   TPM1           0h:00:08   0h:14:27         -138598.5269       -       -
+   84/88   TPM3           0h:00:10   0h:14:28         -138572.5850       -       -
+   85/88   TPM2           0h:00:09   0h:14:28         -138495.1107       -       -
+   87/88   TrNef          0h:00:09   0h:14:32         -137867.6007       -       -
+   89/88   JC             0h:00:06   0h:14:34         -142812.8648       -       -
+   88/88   K80            0h:00:08   0h:14:35         -138599.2959       -       -
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:14:35
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -126685.4154    254242.2955         0.0000    0.5122
+       2  GTR+G4             9   -126689.8725    254242.4070         0.1115    0.4845
+       3  TVM+G4             8   -126699.3385    254252.5362        10.2407    0.0031
+       4  TVM+I+G4           9   -126697.4317    254257.5254        15.2299    0.0003
+       5  TIM2+I+G4          8   -126706.1092    254266.0776        23.7821    0.0000
+       6  TIM2+G4            7   -126713.9265    254272.9095        30.6140    0.0000
+       7  TPM2uf+G4          6   -126719.5997    254275.4534        33.1579    0.0000
+       8  TPM2uf+I+G4        7   -126720.2277    254285.5119        43.2164    0.0000
+       9  TIM3+I+G4          8   -126852.4570    254558.7732       316.4778    0.0000
+      10  TIM3+G4            7   -126860.2633    254565.5831       323.2877    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -126685.4154
+Frequencies:        0.1937 0.3378 0.2170 0.2516
+Subst. Rates:       1.5315 4.7521 2.0406 0.8664 5.7146 1.0000 
+Inv. sites prop:    0.0610
+Gamma shape:        0.6473
+Score:              254242.2955
+Weight:             0.5122
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.4875
+Gamma-Inv:          0.5125
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5350
+Alpha-P.Inv:        0.6473
+P.Inv-Alpha:        0.0610
+Frequencies:        0.1936 0.3377 0.2164 0.2524 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTR+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -126685.4154    253568.8309         0.0000    0.9694
+       2  GTR+G4             9   -126689.8725    253575.7451         6.9142    0.0306
+       3  TVM+I+G4           9   -126697.4317    253590.8635        22.0326    0.0000
+       4  TVM+G4             8   -126699.3385    253592.6769        23.8460    0.0000
+       5  TIM2+I+G4          8   -126706.1092    253606.2183        37.3874    0.0000
+       6  TIM2+G4            7   -126713.9265    253619.8529        51.0220    0.0000
+       7  TPM2uf+G4          6   -126719.5997    253629.1995        60.3686    0.0000
+       8  TPM2uf+I+G4        7   -126720.2277    253632.4553        63.6245    0.0000
+       9  TIM3+I+G4          8   -126852.4570    253898.9140       330.0831    0.0000
+      10  TIM3+G4            7   -126860.2633    253912.5265       343.6957    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -126685.4154
+Frequencies:        0.1937 0.3378 0.2170 0.2516
+Subst. Rates:       1.5315 4.7521 2.0406 0.8664 5.7146 1.0000 
+Inv. sites prop:    0.0610
+Gamma shape:        0.6473
+Score:              253568.8309
+Weight:             0.9694
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0306
+Gamma-Inv:          0.9694
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5350
+Alpha-P.Inv:        0.6473
+P.Inv-Alpha:        0.0610
+Frequencies:        0.1937 0.3377 0.2169 0.2516 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -126685.4154    253571.8309         0.0000    0.9506
+       2  GTR+G4             9   -126689.8725    253577.7451         5.9142    0.0494
+       3  TVM+I+G4           9   -126697.4317    253592.8635        21.0326    0.0000
+       4  TVM+G4             8   -126699.3385    253594.6769        22.8460    0.0000
+       5  TIM2+I+G4          8   -126706.1092    253608.2183        36.3874    0.0000
+       6  TIM2+G4            7   -126713.9265    253621.8529        50.0220    0.0000
+       7  TPM2uf+G4          6   -126719.5997    253631.1995        59.3686    0.0000
+       8  TPM2uf+I+G4        7   -126720.2277    253634.4553        62.6245    0.0000
+       9  TIM3+I+G4          8   -126852.4570    253900.9140       329.0831    0.0000
+      10  TIM3+G4            7   -126860.2633    253914.5265       342.6957    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -126685.4154
+Frequencies:        0.1937 0.3378 0.2170 0.2516
+Subst. Rates:       1.5315 4.7521 2.0406 0.8664 5.7146 1.0000 
+Inv. sites prop:    0.0610
+Gamma shape:        0.6473
+Score:              253571.8309
+Weight:             0.9506
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0494
+Gamma-Inv:          0.9506
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.5350
+Alpha-P.Inv:        0.6473
+P.Inv-Alpha:        0.0610
+Frequencies:        0.1937 0.3377 0.2169 0.2517 
+
+Commands:
+  > phyml  -i /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta --model GTR+I+G4
+  > paup -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta
+  > iqtree -s /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta -m GTR+I+G4
+
+There are 35 different topologies
+Topologies written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.topos
+
+topo_id   models_count   bic_support   aic_support   aicc_support
+-----------------------------------------------------------------
+      1              1       0.51223       0.96942       0.95056
+      3             11       0.48445       0.03056       0.04940
+     12              2       0.00306       0.00001       0.00001
+      2              2       0.00025       0.00002       0.00003
+      4              1       0.00000       0.00000       0.00000
+      5              4       0.00000       0.00000       0.00000
+      7              1       0.00000       0.00000       0.00000
+     14              1       0.00000       0.00000       0.00000
+     13              1       0.00000       0.00000       0.00000
+      8              3       0.00000       0.00000       0.00000
+     15              3       0.00000       0.00000       0.00000
+     34              1       0.00000       0.00000       0.00000
+     33              1       0.00000       0.00000       0.00000
+     32              1       0.00000       0.00000       0.00000
+     35              1       0.00000       0.00000       0.00000
+     31              2       0.00000       0.00000       0.00000
+     30              2       0.00000       0.00000       0.00000
+     29              8       0.00000       0.00000       0.00000
+     28              5       0.00000       0.00000       0.00000
+     27              1       0.00000       0.00000       0.00000
+     26              2       0.00000       0.00000       0.00000
+     25              3       0.00000       0.00000       0.00000
+     24              5       0.00000       0.00000       0.00000
+     23              2       0.00000       0.00000       0.00000
+     22              2       0.00000       0.00000       0.00000
+     21              1       0.00000       0.00000       0.00000
+     20              3       0.00000       0.00000       0.00000
+     19              4       0.00000       0.00000       0.00000
+     18              1       0.00000       0.00000       0.00000
+     17              3       0.00000       0.00000       0.00000
+     16              1       0.00000       0.00000       0.00000
+     11              1       0.00000       0.00000       0.00000
+     10              3       0.00000       0.00000       0.00000
+      9              1       0.00000       0.00000       0.00000
+      6              4       0.00000       0.00000       0.00000
+
+extended majority-rule consensus: (((KF695124 Porcine kobuvirus isolate ch-kobu/2008/China, complete genome,(MT125682 Porcine kobuvirus isolate swine/JX-1/2013/China, complete genome,KF539763 Porcine kobuvirus isolate swKoV CH441, complete genome)[1.00000])[0.51248],(LC210621 Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014,KM977675 Porcine kobuvirus isolate OH/RV50/2011, complete genome)[1.00000])[0.51223],((KY234500 Porcine kobuvirus isolate JXJC2015, complete genome,(NC_023422 Caprine kobuvirus isolate 12Q108, complete genome,((GU245693 Aichivirus B3 strain sheep/TB3/HUN/2009, complete genome,(ON075050 Bovine kobuvirus isolate BKV1/2021/CHN, complete genome,MN336260 Bovine kobuvirus strain IL35164, complete genome)[1.00000])[1.00000],((NC_027919.1 |Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN,(NC_027918.1 |Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN genomic RNA, complete genome, strain: Kagoshima-2-24-KoV/2015/JPN,MW296158.1 |Ovine kobuvirus isolate SKoV-China/SWUN/AB18/2019, complete genome)[1.00000])[1.00000],(NC_026314 Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome,((KT325852 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome,(KJ641691 |Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds,KJ641686 |Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds)[1.00000])[1.00000],(KJ934637 Kobuvirus SZAL6-KoV/2011/HUN, complete genome,(OP287812,((FJ890523 Aichi virus isolate Chshc7, complete genome,AB040749 Aichi virus genomic RNA, complete genome)[1.00000],(((NC_015936 Mouse kobuvirus M-5/USA/2010, complete genome,(OM140655 Marmot kobuvirus strain MCKV/XJ3/CHN/2016, complete genome,KY855436 Marmot kobuvirus strain HT9, complete genome)[1.00000])[1.00000],(MK671314.1 |Feline kobuvirus isolate FKV/18CC0503, complete genome,(KM068051.1 |Canine kobuvirus 1 isolate B103 polyprotein mRNA, complete cds,JQ911763 Canine kobuvirus CH-1, complete genome)[1.00000])[1.00000])[1.00000],(MN116647 Aichivirus A strain rat08/rAiA/HUN, complete genome,(MF947435.1 Kobuvirus sp. strain 16715x70 polyprotein gene, partial cds,MF947430.1 Kobuvirus sp. strain 16715x23 polyprotein gene, partial cds)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[0.51248],(MF506730 Porcine kobuvirus isolate OH/RV11/2011, complete genome,(GQ249161 Porcine kobuvirus swine/K-30-HUN/2008/HUN, complete genome,(((MT125685 Porcine kobuvirus isolate swine/HBYT/2018/China, complete genome,LT898428 Porcine kobuvirus isolate PKV_GER_L00919-K17_14-02_2014 genome assembly, complete genome: monopartite)[0.51529],(KC424640 Porcine kobuvirus isolate GS-2/2012/CH, complete genome,JQ692069 Porcine kobuvirus strain WUH1, complete genome)[0.51529])[1.00000],(((MK962332 Porcine kobuvirus strain KobuV/Pig-wt/ESP/C375/2017, complete genome,MK962324 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P437/2017, complete genome)[1.00000],(MK962327 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome,MK962322 Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome)[1.00000])[0.51529],(MK962331 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P284/2017, complete genome,(MK962321 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P393/2017, complete genome,MK962320 Porcine kobuvirus strain KobuV/Pig-wt/ESP/C247/2017, complete genome)[1.00000])[0.99975])[1.00000])[1.00000])[1.00000])[0.51223])[0.51223],(KY234499 Porcine kobuvirus isolate JXAT2015, complete genome,(NC_027054 Porcine kobuvirus isolate JS-02a-CHN/2014/China, complete genome,NC_016769 Porcine kobuvirus SH-W-CHN/2010/China, complete genome)[1.00000])[0.99974]);
+strict consensus: ((LC210621 Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014,KM977675 Porcine kobuvirus isolate OH/RV50/2011, complete genome)[1.00000],NC_027054 Porcine kobuvirus isolate JS-02a-CHN/2014/China, complete genome,NC_016769 Porcine kobuvirus SH-W-CHN/2010/China, complete genome,MT125685 Porcine kobuvirus isolate swine/HBYT/2018/China, complete genome,MF506730 Porcine kobuvirus isolate OH/RV11/2011, complete genome,LT898428 Porcine kobuvirus isolate PKV_GER_L00919-K17_14-02_2014 genome assembly, complete genome: monopartite,KY234500 Porcine kobuvirus isolate JXJC2015, complete genome,KY234499 Porcine kobuvirus isolate JXAT2015, complete genome,KF695124 Porcine kobuvirus isolate ch-kobu/2008/China, complete genome,KC424640 Porcine kobuvirus isolate GS-2/2012/CH, complete genome,JQ692069 Porcine kobuvirus strain WUH1, complete genome,GQ249161 Porcine kobuvirus swine/K-30-HUN/2008/HUN, complete genome,(MT125682 Porcine kobuvirus isolate swine/JX-1/2013/China, complete genome,KF539763 Porcine kobuvirus isolate swKoV CH441, complete genome)[1.00000],(MK962331 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P284/2017, complete genome,(MK962332 Porcine kobuvirus strain KobuV/Pig-wt/ESP/C375/2017, complete genome,MK962324 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P437/2017, complete genome)[1.00000],(MK962327 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome,MK962322 Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome)[1.00000],(MK962321 Porcine kobuvirus strain KobuV/Pig-wt/ESP/P393/2017, complete genome,MK962320 Porcine kobuvirus strain KobuV/Pig-wt/ESP/C247/2017, complete genome)[1.00000])[1.00000],(NC_023422 Caprine kobuvirus isolate 12Q108, complete genome,((GU245693 Aichivirus B3 strain sheep/TB3/HUN/2009, complete genome,(ON075050 Bovine kobuvirus isolate BKV1/2021/CHN, complete genome,MN336260 Bovine kobuvirus strain IL35164, complete genome)[1.00000])[1.00000],((NC_027919.1 |Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN,(NC_027918.1 |Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN genomic RNA, complete genome, strain: Kagoshima-2-24-KoV/2015/JPN,MW296158.1 |Ovine kobuvirus isolate SKoV-China/SWUN/AB18/2019, complete genome)[1.00000])[1.00000],(NC_026314 Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome,((KT325852 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome,(KJ641691 |Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds,KJ641686 |Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds)[1.00000])[1.00000],(KJ934637 Kobuvirus SZAL6-KoV/2011/HUN, complete genome,(OP287812,((FJ890523 Aichi virus isolate Chshc7, complete genome,AB040749 Aichi virus genomic RNA, complete genome)[1.00000],(((NC_015936 Mouse kobuvirus M-5/USA/2010, complete genome,(OM140655 Marmot kobuvirus strain MCKV/XJ3/CHN/2016, complete genome,KY855436 Marmot kobuvirus strain HT9, complete genome)[1.00000])[1.00000],(MK671314.1 |Feline kobuvirus isolate FKV/18CC0503, complete genome,(KM068051.1 |Canine kobuvirus 1 isolate B103 polyprotein mRNA, complete cds,JQ911763 Canine kobuvirus CH-1, complete genome)[1.00000])[1.00000])[1.00000],(MN116647 Aichivirus A strain rat08/rAiA/HUN, complete genome,(MF947435.1 Kobuvirus sp. strain 16715x70 polyprotein gene, partial cds,MF947430.1 Kobuvirus sp. strain 16715x23 polyprotein gene, partial cds)[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000])[1.00000]);
+
+Summary:
+
+Partition 1/1:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC            GTR+I+G4   254242.2955        0.5122
+       AIC            GTR+I+G4   253568.8309        0.9694
+      AICc            GTR+I+G4   253571.8309        0.9506
+
+Execution results written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.out
+Starting tree written to /vast/palmer/scratch/turner/flg9/BrookLab/GitHub/Fig4_Bayesian/1_MSA/results/MAFFT/BEASTMSALuSequences18DEC2024Extraction.fasta.tree
