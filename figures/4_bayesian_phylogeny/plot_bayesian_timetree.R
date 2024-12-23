@@ -16,7 +16,7 @@ library(dplyr)
 
 # load data --------------------------------------------------------------------
 
-beast_tree <- read.beast(file = "data/Kobuvirus.MCC.tree")
+beast_tree <- read.beast(file = "data/KobuvirusLuSequencesBeast.MCMC.tree")
 
 #beast_tree <- drop.tip(beast_tree, "NC_026314_2011-01-15")
 
@@ -36,23 +36,25 @@ treedat$beast_name <-treedat$tip_name
 treedat$accession_num <- sapply(strsplit(treedat$tip_name, "_"), function(x) x[[1]])
 
 # and rename some of them
-treedat$accession_num[treedat$accession_num=="NC"] <- c("NC_004421", "NC_015936", 
+treedat$accession_num[treedat$accession_num=="NC"] <- c("NC_015936", "NC_016769", 
+                                                        "NC_023422", 
                                                         "NC_026314", 
-                                                        "NC_027054", 
+                                                        "NC_027054",
                                                         "NC_027918", "NC_027919")
 
 # tree metadata ----------------------------------------------------------------
 
 # load the manual tree data that i created 
 # this will be used to create new tip labels for the tree
-dat <- read.csv(file = "data/BEAST_Metadata.csv", 
+dat <- read.csv(file = "data/BEAST_Metadata_LuSequences18DEC2024.csv", 
                 header = T, stringsAsFactors = F)
 
 # and omit any na 
 dat<-na.omit(dat)
 
 # change collection date to a more readable format 
-dat$collection_date <- as.Date(dat$collection_date)
+dat$collection_date <- as.Date(dat$collection_date, format = "%m/%d/%y")
+#dat$collection_date <- as.Date(dat$collection_date)
 
 # visualize with some new elements 
 mrsd.dat <- max(dat$collection_date) # our most recent sequence
@@ -70,14 +72,23 @@ min_time <- min(node.sub$nodetime)
 max_time <- max(node.sub$nodetime)
 
 # label nodes based on posterior values 
-beast_tree@data$posterior[beast_tree@data$posterior<0.9] <- 0
-beast_tree@data$posterior[beast_tree@data$posterior>=0.9] <- 1
-beast_tree@data$posterior <- round(beast_tree@data$posterior, 2)
-beast_tree@data$posterior <- as.character(beast_tree@data$posterior)
-beast_tree@data$posterior[beast_tree@data$posterior=="0"] <- "<0.9"
-beast_tree@data$posterior[beast_tree@data$posterior=="1"] <- "=>0.9"
-beast_tree@data$posterior <- factor(beast_tree@data$posterior, levels= c("<0.9", "=>0.9"))
-posfilz <- c('<0.9'="white", '=>0.9'="black")
+#beast_tree@data$posterior[beast_tree@data$posterior<0.9] <- 0
+#beast_tree@data$posterior[beast_tree@data$posterior>=0.9] <- 1
+#beast_tree@data$posterior <- round(beast_tree@data$posterior, 2)
+#beast_tree@data$posterior <- as.character(beast_tree@data$posterior)
+#beast_tree@data$posterior[beast_tree@data$posterior=="0"] <- "<0.9"
+#beast_tree@data$posterior[beast_tree@data$posterior=="1"] <- "=>0.9"
+#beast_tree@data$posterior <- factor(beast_tree@data$posterior, levels= c("<0.9", "=>0.9"))
+#posfilz <- c('<0.9'="white", '=>0.9'="black")
+
+# normalize the posterior values to a range between 0 and 1
+beast_tree@data$posterior <- as.numeric(beast_tree@data$posterior)
+min_posterior <- min(beast_tree@data$posterior, na.rm = TRUE)
+max_posterior <- max(beast_tree@data$posterior, na.rm = TRUE)
+beast_tree@data$posterior <- (beast_tree@data$posterior - min_posterior) / (max_posterior - min_posterior)
+
+# Create a grayscale color mapping
+posfilz <- gray(seq(0, 1, by = 0.1))
 
 # date nodes of interest -------------------------------------------------------
 
@@ -90,6 +101,10 @@ nodeKobuVs <- MRCA(beast_tree, which(beast_tree@phylo$tip.label == "OP287812_201
 nodeKJ934637 <- MRCA(beast_tree, which(beast_tree@phylo$tip.label == "OP287812_2018-07-27"), 
                      which(beast_tree@phylo$tip.label == "KJ934637_2011-07-15"))
 
+nodeLuSeqs <- MRCA(beast_tree, which(beast_tree@phylo$tip.label == "MF947435_2014-06-11"), 
+                     which(beast_tree@phylo$tip.label == "MN116647_2018-07-15"))
+
+
 # check we are identifying the right nodes 
 p1 <- p1 + geom_point(data=subset(p1$data, node == nodeOP287812), aes(x=x, y=y), color='blue', size=3)
 p1 <- p1 + geom_point(data=subset(p1$data, node == nodeKobuVs), aes(x=x, y=y), color='red', size=3)
@@ -99,11 +114,11 @@ p1
 # find date that OP87812 branches off 
 op287812.date <- round(node.sub$nodetime[nodeOP287812],0) # works fine
 recent.age <- year(mrsd.dat) + yday(mrsd.dat)/365 # works fine 
-op287812.mean <- round(recent.age - tree.dat$height[51],0) # works after adjustment
+op287812.mean <- round(recent.age - tree.dat$height[52],0) # works after adjustment
 
 # upper and lower confidence intervals for this date 
-op287812.uci <- round(recent.age - tree.dat$height_0.95_HPD[51][[1]][1],0)
-op287812.lci <- round(recent.age - tree.dat$height_0.95_HPD[51][[1]][2],0)
+op287812.uci <- round(recent.age - tree.dat$height_0.95_HPD[52][[1]][1],0)
+op287812.lci <- round(recent.age - tree.dat$height_0.95_HPD[52][[1]][2],0)
 
 # format the date for the node
 op287812.date <- paste0("~", op287812.mean, "\n[", op287812.lci, "-", op287812.uci, "]")
@@ -128,11 +143,11 @@ list(
 # find date that kobuvirus clade originates 
 KobuClade.date <- round(node.sub$nodetime[nodeKobuVs],0) # works fine
 recent.age <- year(mrsd.dat) + yday(mrsd.dat)/365 # works fine
-KobuClade.mean <- round(recent.age - tree.dat$height[47],0) # works fine after adjustment
+KobuClade.mean <- round(recent.age - tree.dat$height[48],0) # works fine after adjustment
 
 # upper and lower confidence intervals for this date 
-KobuClade.uci <- round(recent.age - tree.dat$height_0.95_HPD[47][[1]][1],0)
-KobuClade.lci <- round(recent.age - tree.dat$height_0.95_HPD[47][[1]][2],0)
+KobuClade.uci <- round(recent.age - tree.dat$height_0.95_HPD[48][[1]][1],0)
+KobuClade.lci <- round(recent.age - tree.dat$height_0.95_HPD[48][[1]][2],0)
 
 # format the date for the node
 KobuClade.date <- paste0("~", KobuClade.mean, "\n[", KobuClade.lci, "-", KobuClade.uci, "]")
@@ -145,11 +160,11 @@ new.nodel.lab[nodeKobuVs] <- KobuClade.date
 # lastly find date that avian kobuvirus branches off
 nodeKJ934637.date <- round(node.sub$nodetime[nodeKJ934637],0) # works fine
 recent.age <- year(mrsd.dat) + yday(mrsd.dat)/365 # works fine
-KJ934637.mean <- round(recent.age - tree.dat$height[50],0) # works fine after adjustment
+KJ934637.mean <- round(recent.age - tree.dat$height[51],0) # works fine after adjustment
 
 # upper and lower confidence intervals for this date 
-KJ934637.uci <- round(recent.age - tree.dat$height_0.95_HPD[50][[1]][1],0)
-KJ934637.lci <- round(recent.age - tree.dat$height_0.95_HPD[50][[1]][2],0)
+KJ934637.uci <- round(recent.age - tree.dat$height_0.95_HPD[51][[1]][1],0)
+KJ934637.lci <- round(recent.age - tree.dat$height_0.95_HPD[51][[1]][2],0)
 
 # format the date for the node
 KJ934637.date <- paste0("~", KJ934637.mean, "\n[", KJ934637.lci, "-", KJ934637.uci, "]")
@@ -220,9 +235,9 @@ p3 <- ggtree(beast_tree, mrsd=mrsd.dat, size=.8) %<+% dat.sub +
         plot.margin = unit(c(2, 20, 2, 3), "lines"),  # Increase plot margins
         legend.title = element_blank(), 
         legend.text = element_text(size=14)) +
-  scale_x_continuous(breaks = c(-20000, -15000, -10000, -5000, 0, 2020), 
-                     labels = c("20000 BCE", "15000 BCE", "10000 BCE", 
-                                "5000 BCE", "0", "2020")) +
+  scale_x_continuous(breaks = c(1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000), 
+                     labels = c("1300","1400", "1500", "1600", "1700", 
+                                "1800", "1900", "2000")) +
   #scale_x_continuous(
   #      breaks = round(seq(min_time, max_time, by  = 2000), 0)) + 
   #scale_x_continuous(breaks = breaks, labels = labels) + 
@@ -236,39 +251,29 @@ p3 <- ggtree(beast_tree, mrsd=mrsd.dat, size=.8) %<+% dat.sub +
 p3
 
 p3 <- ggtree(beast_tree, mrsd=mrsd.dat, size=.8) %<+% dat.sub +
-  #geom_range(range = 'height_0.95_HPD', color = "red", alpha = .6, size = 0.5) + 
   geom_tippoint(aes(color=title), size=4) + 
-  #geom_text2(aes(label=round(as.numeric(posterior), 2), 
-  #  subset=as.numeric(posterior)> 0.9, 
-  # x=branch), vjust=0) + 
-  #geom_nodelab(aes(label=new.nodel.lab), size=4, nudge_x = -1000, nudge_y = 1.2, 
-  #color="firebrick", fontface=2, geom="label", fill="white") +
-  scale_fill_manual(values = posfilz) + 
   geom_nodepoint(aes(fill = posterior), shape = 21, color = "black", size = 2, stroke = .1) +
+  scale_fill_gradient(low = "white", high = "black", breaks = seq(0, 1, by = 0.2), labels = seq(0, 1, by = 0.2),
+                      guide = guide_colorbar(direction = "vertical")) + 
   theme_tree2() +
   theme(axis.text.x = element_text(size = 14),
         axis.title.x = element_text(size=14),  
-        legend.position = c(.06, .81), 
-        plot.margin = unit(c(2, 22, 2, 3), "lines"),  # Increase plot margins
+        legend.position = c(.6, .6), 
+        plot.margin = unit(c(2, 22, 2, 3), "lines"),  
         legend.title = element_blank(), 
         legend.text = element_text(size=14)) +
-  scale_x_continuous(breaks = c(-4000, -2000, 0, 2020), 
-                     labels = c("4000 BCE", "2000 BCE", 
-                                "0", "2020")) +
-  #scale_x_continuous(
-  #      breaks = round(seq(min_time, max_time, by  = 2000), 0)) + 
-  #scale_x_continuous(breaks = breaks, labels = labels) + 
+  scale_x_continuous(breaks = c(-611, 1200, 1400, 1600, 1800, 2000), 
+                     labels = c("611 BCE","1200","1400", "1600", "1800", "2000" 
+                                )) +
   ggnewscale::new_scale_fill() +
   xlab("Divergence Times") +
-  geom_tiplab(geom = "label", label.size = 0, 
-              alpha=.3, show.legend=F, size=4.5) + 
-  #scale_fill_manual(values=colz2) +
-  coord_cartesian(clip = "off", xlim = c(-4000, 2020)) #+ ggtitle("Kobuvirus Types")
+  geom_tiplab(geom = "label", label.size = 0, alpha=.3, show.legend=F, size=4.5) + 
+  coord_cartesian(clip = "off")
 
 p3
 
 # now save plot and export to adobe 
-ggsave(file = paste0("Fig3BayesianTree.png"),
+ggsave(file = paste0("Fig4BayesianTreeCopy.png"),
        plot = p3, 
        units="mm",  
        width=150, 

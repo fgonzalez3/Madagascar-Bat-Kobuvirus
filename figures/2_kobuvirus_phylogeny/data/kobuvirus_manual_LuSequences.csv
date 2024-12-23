@@ -1,0 +1,117 @@
+﻿Accession_Number ,Species,Sequence_Type,Nuc_Completeness,Geo_Location,Host,Collection_Date,Year,Description ,host
+NC_001918,Aichivirus A,RefSeq,complete,,Homo sapiens,,,"Aichi virus, complete genome",Human Kobuvirus
+AB040749,Aichivirus A,GenBank,complete,,Homo sapiens,,,"Aichi virus genomic RNA, complete genome",Human Kobuvirus
+NC_004421,Aichivirus B,RefSeq,complete,,Bos taurus,,,"Aichivirus B genomic RNA, complete genome, strain:U-1",Bovine Kobuvirus
+DQ028632,Aichivirus A,GenBank,complete,Brazil,Homo sapiens,,,"Aichi virus isolate Goiania/GO/03/01/Brazil, complete genome",Human Kobuvirus
+NC_011829,Aichivirus C,RefSeq,complete,Hungary,Sus scrofa,2007,2007,"Porcine kobuvirus swine/S-1-HUN/2007/Hungary, complete genome",Porcine Kobuvirus
+FJ890523,Aichivirus A,GenBank,complete,China,Homo sapiens,2008,2008,"Aichi virus isolate Chshc7, complete genome",Human Kobuvirus
+GQ249161,Aichivirus C,GenBank,complete,Hungary,Sus scrofa,2008,2008,"Porcine kobuvirus swine/K-30-HUN/2008/HUN, complete genome",Porcine Kobuvirus
+GU292559,Aichivirus C,GenBank,complete,China,Sus scrofa,2008,2008,"Kobuvirus pig/JY-2010a/CHN isolate Y-1-CHI, complete genome",Porcine Kobuvirus
+GU245693,Aichivirus B,GenBank,complete,Hungary,Ovis aries,2009,2009,"Aichivirus B3 strain sheep/TB3/HUN/2009, complete genome",Ovine Kobuvirus
+JN088541,Aichivirus A,GenBank,complete,USA,Canis lupus familiaris,2010,2010,"Canine kobuvirus US-PC0082, complete genome",Canid Kobuvirus
+NC_016769,Aichivirus C,RefSeq,complete,China,Sus scrofa,2010-12,2010,"Porcine kobuvirus SH-W-CHN/2010/China, complete genome",Porcine Kobuvirus
+JQ692069,Aichivirus C,GenBank,complete,China,Sus scrofa,2011-06,2011,"Porcine kobuvirus strain WUH1, complete genome",Porcine Kobuvirus
+NC_015936,Aichivirus A,RefSeq,complete,USA,Peromyscus crinitus,2010,2010,"Mouse kobuvirus M-5/USA/2010, complete genome",Rodent Kobuvirus
+JX177612,Aichivirus C,GenBank,complete,Hungary,Sus scrofa,2011-04,2011,"Porcine kobuvirus strain WB-1-HUN/2011/HUN, complete genome",Porcine Kobuvirus
+JQ898342,Aichivirus A,GenBank,complete,Nepal,,8/14/09,2009,"Kobuvirus sewage Kathmandu isolate KoV-SewKTM, complete genome",Human Kobuvirus
+JX401523,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-04,2012,"Porcine kobuvirus isolate CH/HNXX-4/2012, complete genome",Porcine Kobuvirus
+KC204684,Aichivirus C,GenBank,complete,China,Sus scrofa,2011,2011,"Porcine kobuvirus isolate XX, complete genome",Porcine Kobuvirus
+KC161964,Aichivirus A,GenBank,complete,United Kingdom,Canis lupus familiaris,2008,2008,"Canine kobuvirus strain UK003, complete genome",Canid Kobuvirus
+KC424638,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-08,2012,"Porcine kobuvirus isolate K-4/2012/CH, complete genome",Porcine Kobuvirus
+KC424639,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-08,2012,"Porcine kobuvirus isolate GS-1/2012/CH, complete genome",Porcine Kobuvirus
+KC424640,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-08,2012,"Porcine kobuvirus isolate GS-2/2012/CH, complete genome",Porcine Kobuvirus
+KF539763,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-06,2012,"Porcine kobuvirus isolate swKoV CH441, complete genome",Porcine Kobuvirus
+KF695124,Aichivirus C,GenBank,complete,China,Sus scrofa,12/5/08,2008,"Porcine kobuvirus isolate ch-kobu/2008/China, complete genome",Porcine Kobuvirus
+NC_023422,Aichivirus C,RefSeq,complete,South Korea,Capra hircus,2012,2012,"Caprine kobuvirus isolate 12Q108, complete genome",Caprine Kobuvirus
+KF924623,Aichivirus A,GenBank,complete,South Korea,Canis lupus familiaris,2012,2012,"Canine kobuvirus 1 isolate 12D049, complete genome",Canid Kobuvirus
+KF831027,Aichivirus A,GenBank,complete,South Korea,Feliformia,2011,2011,"Feline kobuvirus strain FK-13, complete genome",Feline Kobuvirus
+JQ911763,Aichivirus A,GenBank,complete,China,Canis lupus familiaris,2011,2011,"Canine kobuvirus CH-1, complete genome",Canid Kobuvirus
+KJ452348,Aichivirus C,GenBank,complete,China,Sus scrofa,2012,2012,"Porcine kobuvirus isolate CH/DX/2012, complete genome",Porcine Kobuvirus
+KJ934637,Aichivirus A,GenBank,complete,Hungary,Coracias garrulus,2011-07,2011,"Kobuvirus SZAL6-KoV/2011/HUN, complete genome",Avian Kobuvirus
+KJ958930,Aichivirus A,GenBank,complete,South Korea,Feliformia,2012,2012,"Feline kobuvirus isolate 12D240, complete genome",Feline Kobuvirus
+KM091960,Aichivirus A,GenBank,complete,Italy,Felis catus,2013-03,2013,"Feline kobuvirus strain FeKoV/TE/52/IT/13, complete genome",Feline Kobuvirus
+NC_026314,Rabovirus A,RefSeq,complete,Germany,Rattus norvegicus,2011-01,2011,"rat-borne virus, RaBoV-A",Rodent Rabovirus
+KM977675,Aichivirus C,GenBank,complete,USA,Sus scrofa,2011-06,2011,"Porcine kobuvirus isolate OH/RV50/2011, complete genome",Porcine Kobuvirus
+KM068048,Aichivirus A,GenBank,complete,Tanzania,Canis lupus familiaris,1/20/03,2003,"Canine kobuvirus 1 isolate DD2 polyprotein mRNA, complete cds",Canid Kobuvirus
+KM068049,Aichivirus A,GenBank,complete,Tanzania,Canis adustus,11/20/10,2010,"Canine kobuvirus 1 isolate 82 polyprotein mRNA, complete cds",Canid Kobuvirus
+KM068050,Aichivirus A,GenBank,complete,Tanzania,Canis aureus,1/13/11,2011,"Canine kobuvirus 1 isolate 75 polyprotein mRNA, complete cds",Canid Kobuvirus
+KM068051,Aichivirus A,GenBank,complete,Tanzania,Crocuta crocuta,3/2/10,2010,"Canine kobuvirus 1 isolate B103 polyprotein mRNA, complete cds",Canid Kobuvirus
+KP144318,Aichivirus C,GenBank,complete,China,Sus scrofa domesticus,2013,2013,"Porcine kobuvirus JS-01-CHN/2013/China, complete genome",Porcine Kobuvirus
+NC_027054,Aichivirus C,RefSeq,complete,China,Sus scrofa,2014,2014,"Porcine kobuvirus isolate JS-02a-CHN/2014/China, complete genome",Porcine Kobuvirus
+KM051987,Aichivirus C,GenBank,complete,China,Sus scrofa,2014-03,2014,"Porcine kobuvirus strain CH/KB-1/2014, complete genome",Porcine Kobuvirus
+NC_027918,Aichivirus D,RefSeq,complete,Japan,Bos taurus,2/2/15,2015,"Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN genomic RNA, complete genome, strain: Kagoshima-2-24-KoV/2015/JPN",Bovine Kobuvirus
+NC_027919,Aichivirus D,RefSeq,complete,Japan,Bos taurus,2014-11,2014,"Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN",Bovine Kobuvirus
+KT325852,Aichivirus E,GenBank,complete,Hungary,Oryctolagus cuniculus,2013-04,2013,"Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome",Rabbit Kobuvirus
+KY234499,Aichivirus C,GenBank,complete,China,Sus scrofa,2015,2015,"Porcine kobuvirus isolate JXAT2015, complete genome",Porcine Kobuvirus
+KY234500,Aichivirus C,GenBank,complete,China,Sus scrofa,2015,2015,"Porcine kobuvirus isolate JXJC2015, complete genome",Porcine Kobuvirus
+KC414936,Aichivirus C,GenBank,complete,China,Sus scrofa,2012-08,2012,"Porcine kobuvirus isolate K-11/2012/CH, complete genome",Porcine Kobuvirus
+LC210621,Aichivirus C,GenBank,complete,Japan,Sus scrofa,4/13/14,2014,"Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014",Porcine Kobuvirus
+NC_034971,Aichivirus A,RefSeq,complete,China,Canis lupus familiaris,2015-09,2015,"Canine kobuvirus isolate SMCD-59, complete genome",Canid Kobuvirus
+KY407744,Aichivirus B,GenBank,complete,Egypt,Bos taurus,2014,2014,"Bovine kobuvirus strain BKoV/EGY-1, complete genome",Bovine Kobuvirus
+LT898428,Aichivirus C,GenBank,complete,Germany,Sus scrofa,11/3/14,2014,"Porcine kobuvirus isolate PKV_GER_L00919-K17_14-02_2014 genome assembly, complete genome: monopartite",Porcine Kobuvirus
+KY855436,Aichivirus A,GenBank,complete,China,Marmota himalayana,2013,2013,"Marmot kobuvirus strain HT9, complete genome",Rodent Kobuvirus
+MF506730,Aichivirus C,GenBank,complete,USA,Sus scrofa,4/13/11,2011,"Porcine kobuvirus isolate OH/RV11/2011, complete genome",Porcine Kobuvirus
+MF598159,Aichivirus A,GenBank,complete,China,Felis catus,2017,2017,"Feline kobuvirus strain WHJ-1, complete genome",Feline Kobuvirus
+MH747478,Aichivirus A,GenBank,complete,Brazil,Canis lupus familiaris,2016,2016,"Canine kobuvirus strain CaKoV-26, complete genome",Canid Kobuvirus
+MN116647,Aichivirus A,GenBank,complete,Hungary,Rattus norvegicus,2018,2018,"Aichivirus A strain rat08/rAiA/HUN, complete genome",Rodent Kobuvirus
+MK671314,Aichivirus A,GenBank,complete,China,Felis catus,2018,2018,"Feline kobuvirus isolate FKV/18CC0503, complete genome",Feline Kobuvirus
+MK671315,Aichivirus A,GenBank,complete,China,Felis catus,2018,2018,"Feline kobuvirus isolate FKV/18CC0718, complete genome",Feline Kobuvirus
+MN449341,Aichivirus A,GenBank,complete,China,Canis lupus familiaris,2019-04,2019,"Canine kobuvirus isolate CaKoV AH-1/CHN/2019, complete genome",Canid Kobuvirus
+MK962320,Aichivirus C,GenBank,complete,Spain,Sus scrofa,5/22/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/C247/2017, complete genome",Porcine Kobuvirus
+MK962321,Aichivirus C,GenBank,complete,Spain,Sus scrofa,7/4/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P393/2017, complete genome",Porcine Kobuvirus
+MK962322,Aichivirus C,GenBank,complete,Spain,Sus scrofa,3/16/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome",Porcine Kobuvirus
+MK962323,Aichivirus C,GenBank,complete,Spain,Sus scrofa,3/7/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P37/2017, complete genome",Porcine Kobuvirus
+MK962324,Aichivirus C,GenBank,complete,Spain,Sus scrofa,9/18/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P437/2017, complete genome",Porcine Kobuvirus
+MK962325,Aichivirus C,GenBank,complete,Spain,Sus scrofa,2/27/18,2018,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/VT25C/2017, complete genome",Porcine Kobuvirus
+MK962326,Aichivirus C,GenBank,complete,Spain,Sus scrofa,7/10/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/C429/2017, complete genome",Porcine Kobuvirus
+MK962327,Aichivirus C,GenBank,complete,Spain,Sus scrofa,5/24/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome",Porcine Kobuvirus
+MK962328,Aichivirus C,GenBank,complete,Spain,Sus scrofa,6/1/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/B304/2017, complete genome",Porcine Kobuvirus
+MK962329,Aichivirus C,GenBank,complete,Spain,Sus scrofa,11/1/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P2B/2017, complete genome",Porcine Kobuvirus
+MK962330,Aichivirus C,GenBank,complete,Spain,Sus scrofa,9/22/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P452/2017, complete genome",Porcine Kobuvirus
+MK962331,Aichivirus C,GenBank,complete,Spain,Sus scrofa,5/30/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P284/2017, complete genome",Porcine Kobuvirus
+MK962332,Aichivirus C,GenBank,complete,Spain,Sus scrofa,7/4/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/C375/2017, complete genome",Porcine Kobuvirus
+MK962333,Aichivirus C,GenBank,complete,Spain,Sus scrofa,11/2/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/P461/2017, complete genome",Porcine Kobuvirus
+MK962334,Aichivirus C,GenBank,complete,Spain,Sus scrofa,2/14/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC14/2017, complete genome",Porcine Kobuvirus
+MK962335,Aichivirus C,GenBank,complete,Spain,Sus scrofa,1/25/17,2017,"Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC8/2017, complete genome",Porcine Kobuvirus
+MN336260,Aichivirus B,GenBank,complete,USA,Bos taurus,2019,2019,"Bovine kobuvirus strain IL35164, complete genome",Bovine Kobuvirus
+MN337880,Aichivirus A,GenBank,complete,Germany,Vulpes vulpes,4/13/16,2016,"Canine kobuvirus strain S272/16, complete genome",Canid Kobuvirus
+MN807751,Aichivirus C,GenBank,complete,Hungary,Sus scrofa domesticus,2013-01,2013,"Porcine kobuvirus strain SZ1M-F/PKV/HUN/2013, complete genome",Porcine Kobuvirus
+MT211964,Aichivirus C,GenBank,complete,Mexico,Sus scrofa,1/17/18,2018,"Porcine kobuvirus isolate EdoMex/2018/205, complete genome",Porcine Kobuvirus
+MN604700,Aichivirus C,GenBank,complete,USA,,2017-12,2017,"Caprine kobuvirus isolate MN1/2018, complete genome",Caprine Kobuvirus
+MT584793,Aichivirus C,GenBank,complete,China,Capra hircus,1/1/19,2019,"Caprine kobuvirus isolate CKoV-China/SWUN/F11/2019, complete genome",Caprine Kobuvirus
+MT125682,Aichivirus C,GenBank,complete,China,Sus scrofa,12/15/13,2013,"Porcine kobuvirus isolate swine/JX-1/2013/China, complete genome",Porcine Kobuvirus
+MT125683,Aichivirus C,GenBank,complete,China,Sus scrofa,12/15/13,2013,"Porcine kobuvirus isolate swine/JX-2/2013/China, complete genome",Porcine Kobuvirus
+MT125684,Aichivirus C,GenBank,complete,China,Sus scrofa,12/15/13,2013,"Porcine kobuvirus isolate swine/JX-3/2013/China, complete genome",Porcine Kobuvirus
+MT125685,Aichivirus C,GenBank,complete,China,Sus scrofa,11/9/18,2018,"Porcine kobuvirus isolate swine/HBYT/2018/China, complete genome",Porcine Kobuvirus
+MW296158,Aichivirus D,GenBank,complete,China,Ovis aries,1/1/19,2019,"Ovine kobuvirus isolate SKoV-China/SWUN/AB18/2019, complete genome",Ovine Kobuvirus
+MZ334483,Aichivirus C,GenBank,complete,Germany,Sus scrofa,2018,2018,"Porcine kobuvirus strain FoPro-213.14/GER/2018, complete genome",Porcine Kobuvirus
+MZ603734,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKoV/CN/HB-SJZ/2021, complete genome",Bovine Kobuvirus
+MW605074,Aichivirus B,GenBank,complete,Canada,Bos taurus,2020,2020,"Bovine kobuvirus strain 1043507, complete genome",Bovine Kobuvirus
+OM140655,Aichivirus A,GenBank,complete,China,Marmota caudata,2016,2016,"Marmot kobuvirus strain MCKV/XJ3/CHN/2016, complete genome",Rodent Kobuvirus
+ON075050,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV1/2021/CHN, complete genome",Bovine Kobuvirus
+ON075051,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV2/2021/CHN, complete genome",Bovine Kobuvirus
+ON075052,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV3/2021/CHN, complete genome",Bovine Kobuvirus
+ON075053,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV4/2021/CHN, complete genome",Bovine Kobuvirus
+ON075054,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV6/2021/CHN, complete genome",Bovine Kobuvirus
+ON075055,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV7/2021/CHN, complete genome",Bovine Kobuvirus
+ON075056,Aichivirus B,GenBank,complete,China,Bos taurus,2021,2021,"Bovine kobuvirus isolate BKV8/2021/CHN, complete genome",Bovine Kobuvirus
+OK315318,Aichivirus C,GenBank,complete,China,Sus scrofa,2020,2020,"Porcine kobuvirus isolate Wuhan2020, complete genome",Porcine Kobuvirus
+KJ641686,Aichivirus F,GenBank,partial,China,Myotis ricketti,2010-10,2010,"Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds",Bat Kobuvirus
+KJ641691,Aichivirus F,GenBank,partial,China,Miniopterus fuliginosus,2012-12,2012,"Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds",Bat Kobuvirus
+OP287812,Aichivirus A,,,Madagascar,Eidolon dupreanum,7/27/18,2018,,Bat Kobuvirus
+MN602325,Bat picornavirus,,,Italy,Pipistrellus pipistrellus,2017,2017,,Bat Picornavirus
+MF352427,Miniopterus picornavirus 2,,,China,Miniopterus schreibersii,2012,2012,,Bat Picornavirus
+MT766372,Aichivirus A,,,China,,8/12/18,2018,Sewage,Human Kobuvirus
+OR082796,Aichivirus A,,partial,Madagascar,,2018,2018,,Bat Kobuvirus
+MF947429,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947430,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947431,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947432,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947433,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,17-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947434,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947435,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947436,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947437,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,6-Feb-15,2015,Bat Kobuvirus,Bat Kobuvirus
+MF947438,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,18-Sep-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947439,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,11-Jun-14,2014,Bat Kobuvirus,Bat Kobuvirus
+MF947440,Aichivirus A,,partial,Vietnam,Scotophilus kuhlii,16-Sep-14,2014,Bat Kobuvirus,Bat Kobuvirus

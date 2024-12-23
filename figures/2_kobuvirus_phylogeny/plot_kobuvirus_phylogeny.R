@@ -19,7 +19,7 @@ library(aptheme)
 # tree data --------------------------------------------------------------------
 
 # load tree
-final.kobu <-  read.tree(file = paste0("data/T3.raxml.supportFBP"))
+final.kobu <-  read.tree(file = paste0("data/KobuvirusLuSequences.raxml.supportFBP"))
 final.kobu$tip.label <- gsub("NC(\\d+)", "NC_\\1", final.kobu$tip.label)
 
 # root it using a rabovirus as an outgroup
@@ -30,7 +30,7 @@ p <- ggtree(final.rooted.kobu) +
   geom_nodelab(aes(label=label), size=1, nudge_x=-0.01, nudge_y=0.25) +
   geom_tiplab(align= FALSE, linetype="dotted", linesize = 0.1, size = 2.5) + geom_point(colour='red')
 
-final.rooted.kobu <- drop.tip(final.rooted.kobu, c('MN602325', 'MF352427'))
+#final.rooted.kobu <- drop.tip(final.rooted.kobu, c('MN602325', 'MF352427'))
 
 # shorten outgroup branch length 
 outgroup_index <- which(final.rooted.kobu$tip.label == 'NC_026314')
@@ -42,7 +42,7 @@ p <- ggtree(final.rooted.kobu) +
   geom_nodelab(aes(label=label), size=1, nudge_x=-0.01, nudge_y=0.25) +
   geom_tiplab(align= FALSE, linetype="dotted", linesize = 0.1, size = 2.5) + geom_point(colour='red')
 
-final.rooted.kobu <- drop.tip(final.rooted.kobu, c('MN602325', 'MF352427'))
+#final.rooted.kobu <- drop.tip(final.rooted.kobu, c('MN602325', 'MF352427'))
 
 p
 
@@ -50,10 +50,10 @@ p
 
 # load manual tree csv for kobuvirus 
 # and fill in for NA values 
-kobu.manual <- read.csv(file=paste0('data/kobuvirus_manual.csv'), 
+kobu.manual <- read.csv(file=paste0('data/kobuvirus_manual_LuSequences.csv'), 
                         header=T, stringsAsFactors = F)
 
-kobu.manual <- read.csv(file=paste0('data/kobuvirus_manual.csv'), 
+kobu.manual <- read.csv(file=paste0('data/kobuvirus_manual_LuSequences.csv'), 
                         header=T, stringsAsFactors = F, na = "")
 
 kobu.manual[is.na(kobu.manual)] = "NA"
@@ -76,7 +76,6 @@ unique(kobu.manual$host)
 C =c("Avian Kobuvirus","Bat Kobuvirus","Bovine Kobuvirus","Canid Kobuvirus",
      "Caprine Kobuvirus","Feline Kobuvirus","Human Kobuvirus","Ovine Kobuvirus",
      "Porcine Kobuvirus","Rabbit Kobuvirus",
-     #"Rabovirus", 
      "Rodent Kobuvirus",
      "Rodent Rabovirus")
 
@@ -90,15 +89,25 @@ p <- ggtree(final.rooted.kobu) %<+% kobu.manual +
 p
 
 # categorize node labels based on a threshold
-final.rooted.kobu$node.label[final.rooted.kobu$node.label < 90] <- 0
-final.rooted.kobu$node.label[final.rooted.kobu$node.label >= 90] <- 1
-final.rooted.kobu$node.label <- as.character(final.rooted.kobu$node.label)
-final.rooted.kobu$node.label[final.rooted.kobu$node.label == "0"] <- "<90"
-final.rooted.kobu$node.label[final.rooted.kobu$node.label == "1"] <- ">=90"
-final.rooted.kobu$node.label <- factor(final.rooted.kobu$node.label, levels = c("<90", ">=90"))
+#final.rooted.kobu$node.label[final.rooted.kobu$node.label < 90] <- 0
+#final.rooted.kobu$node.label[final.rooted.kobu$node.label >= 90] <- 1
+#final.rooted.kobu$node.label <- as.character(final.rooted.kobu$node.label)
+#final.rooted.kobu$node.label[final.rooted.kobu$node.label == "0"] <- "<90"
+#final.rooted.kobu$node.label[final.rooted.kobu$node.label == "1"] <- ">=90"
+#final.rooted.kobu$node.label <- factor(final.rooted.kobu$node.label, levels = c("<90", ">=90"))
+
+# normalize the node labels to a range between 0 and 1
+final.rooted.kobu$node.label <- as.numeric(final.rooted.kobu$node.label)
+
+min_val <- min(final.rooted.kobu$node.label, na.rm = TRUE)
+max_val <- max(final.rooted.kobu$node.label, na.rm = TRUE)
+final.rooted.kobu$node.label <- (final.rooted.kobu$node.label - min_val) / (max_val - min_val) * 100
+
+# create a grayscale color mapping
+#grayscale_colors <- gray(seq(0, 1, length.out = 100))
 
 # create a color mapping
-posfilz <- c('<90' = "white", '>=90' = "black")
+#posfilz <- c('<90' = "white", '>=90' = "black")
 
 # extract the node labels and ensure they are correctly aligned with the nodes in the tree
 node_labels <- data.frame(node = (Ntip(final.rooted.kobu) + 1):(Ntip(final.rooted.kobu) + Nnode(final.rooted.kobu)),
@@ -171,6 +180,20 @@ p <- ggtree(final.rooted.kobu) %<+% tree_data %<+% kobux +
   new_scale_fill() +
   geom_nodepoint(aes(fill = node_label), shape = 21, size = 1, color = "black") + 
   scale_fill_manual(values=posfilz) + 
+  new_scale_fill() + 
+  geom_treescale(y = 5, x = 20, fontsize = 4, offset = 1, color = "black", width = 0.5) + 
+  geom_tiplab(geom="label", label.size = 0, alpha=.3, size=2.8, show.legend=F) +
+  xlim(c(0,30)) +
+  theme(legend.position = c(0.7, 0.5), legend.title = element_blank())
+
+p
+
+p <- ggtree(final.rooted.kobu) %<+% tree_data %<+% kobux +
+  geom_tippoint(aes(color=host, fill=host), size=2) +
+  new_scale_fill() +
+  geom_nodepoint(aes(fill = node_label), shape = 21, size = 1, color = "black") + 
+  scale_fill_gradient(low = "white", high = "black", breaks = seq(0, 100, by = 20), labels = seq(0, 100, by = 20),
+                      guide = guide_colorbar(direction = "horizontal")) + 
   new_scale_fill() + 
   geom_treescale(y = 5, x = 20, fontsize = 4, offset = 1, color = "black", width = 0.5) + 
   geom_tiplab(geom="label", label.size = 0, alpha=.3, size=2.8, show.legend=F) +
