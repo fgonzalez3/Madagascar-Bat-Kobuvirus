@@ -11,3 +11,5 @@ Sub-directories within this repo contain pipeline directions and are split as su
 
 This workflow broadly followed the Brook lab's [Mada-Bat-CoV pipeline](https://github.com/brooklabteam/Mada-Bat-CoV)
 
+The preprint can be found [here](https://www.biorxiv.org/content/10.1101/2024.12.24.630179v1)
+
