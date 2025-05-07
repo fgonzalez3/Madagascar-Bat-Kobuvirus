@@ -14,3 +14,5 @@ pipelines/BayesianTree/1_MSA/seqs/BeastSequencesLu18DEC2024.fasta
 pipelines/MLTree/1_MSA/seqs/*
 pipelines/MLTree/3_BuildTree/.snakemake/
 figures/3_picornavirus_phylogeny/.gitignore
+pipelines/CheckV/envs/CheckV_V1.yaml
+pipelines/CheckV/seqs/
