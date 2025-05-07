@@ -1,0 +1,17 @@
+contig_id	contig_length	total_genes	viral_genes	host_genes	provirus	proviral_length	host_length	region_types	region_lengths	region_coords_bp	region_coords_genes	region_viral_genes	region_host_genes
+OQ818322	8379	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+OP287812	8263	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_473_length_1358_cov_1.917114_RR034B_076_(reversed)	1358	1	0	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_156_length_8190_cov_13.881991_RR034B_165	8190	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_84_length_3651_cov_5.922970_RR034B_074_(reversed)	3651	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_25_length_1304_cov_2.604484_RR034B_055	1304	1	0	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_23_length_1536_cov_2.580689_RR034B_155_(reversed)	1536	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_4_length_8214_cov_141.531193_RR034B_056_(reversed)	8214	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_3_length_8245_cov_7.753968_RR034B_086_(reversed)	8245	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_2_length_8212_cov_5.615790_RR034B_089_(reversed)	8212	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_2_length_8201_cov_5.360054_RR034B_057	8201	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_2_length_8195_cov_26.562285_RR034B_053_(reversed)	8195	1	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_1_length_8256_cov_128.267163_RR034B_050	8256	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_1_length_8256_cov_9.006341_RR034B_051	8256	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+NODE_1_length_8222_cov_43.047263_RR034B_073_(reversed)	8222	2	1	0	No	NA	NA	NA	NA	NA	NA	NA	NA
+OR082796	2077	1	0	0	No	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,17 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+OQ818322	8379	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+OP287812	8263	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_473_length_1358_cov_1.917114_RR034B_076_(reversed)	1358	No	NA	1	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+NODE_156_length_8190_cov_13.881991_RR034B_165	8190	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_84_length_3651_cov_5.922970_RR034B_074_(reversed)	3651	No	NA	1	1	0	Low-quality	Genome-fragment	36.86	HMM-based (lower-bound)	0.0	1.0	
+NODE_25_length_1304_cov_2.604484_RR034B_055	1304	No	NA	1	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+NODE_23_length_1536_cov_2.580689_RR034B_155_(reversed)	1536	No	NA	1	1	0	Low-quality	Genome-fragment	36.91	HMM-based (lower-bound)	0.0	1.0	
+NODE_4_length_8214_cov_141.531193_RR034B_056_(reversed)	8214	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_3_length_8245_cov_7.753968_RR034B_086_(reversed)	8245	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_2_length_8212_cov_5.615790_RR034B_089_(reversed)	8212	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_2_length_8201_cov_5.360054_RR034B_057	8201	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_2_length_8195_cov_26.562285_RR034B_053_(reversed)	8195	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_1_length_8256_cov_128.267163_RR034B_050	8256	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_1_length_8256_cov_9.006341_RR034B_051	8256	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+NODE_1_length_8222_cov_43.047263_RR034B_073_(reversed)	8222	No	NA	2	1	0	High-quality	High-quality	100.0	AAI-based (high-confidence)	0.0	1.0	
+OR082796	2077	No	NA	1	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
