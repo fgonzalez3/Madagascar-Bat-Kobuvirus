@@ -16,3 +16,4 @@ pipelines/MLTree/3_BuildTree/.snakemake/
 figures/3_picornavirus_phylogeny/.gitignore
 pipelines/CheckV/envs/CheckV_V1.yaml
 pipelines/CheckV/seqs/
+pipelines/.DS_Store
