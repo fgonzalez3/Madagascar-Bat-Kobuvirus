@@ -1,259 +1,288 @@
-sample_name,sample_type,nucleotide_type,collection_date,collection_location,host_genus_species
-RR034B_001_fecRa_S16,feces,RNA,4/18/18,"California, USA",Asio madagascariensis
-RR034B_002_fecRa_S18,feces,RNA,2/23/18,"California, USA",Pteropus rufus
-RR034B_003_fecRa_S20,feces,RNA,2/23/18,"California, USA",Pteropus rufus
-RR034B_004_fecRa_S22,feces,RNA,2/23/18,"California, USA",Pteropus rufus
-RR034B_008_fecRa_S26,feces,RNA,2/25/18,"California, USA",Pteropus rufus
-RR034B_009_fecRa_S46,feces,RNA,2/25/18,"California, USA",Pteropus rufus
-RR034B_013_fecRa_S54,feces,RNA,2/28/18,"California, USA",Pteropus rufus
-RR034B_014_fecRa_S56,feces,RNA,3/1/18,"California, USA",Pteropus rufus
-RR034B_015_fecRa_S72,feces,RNA,3/1/18,"California, USA",Pteropus rufus
-RR034B_016_fecRa_S74,feces,RNA,3/1/18,"California, USA",Pteropus rufus
-RR034B_017_fecRa_S76,feces,RNA,3/2/18,"California, USA",Pteropus rufus
-RR034B_019_fecRa_S80,feces,RNA,4/16/18,"California, USA",Pteropus rufus
-RR034B_020_fecRa_S82,feces,RNA,4/16/18,"California, USA",Pteropus rufus
-RR034B_021_fecRa_S84,feces,RNA,4/17/18,"California, USA",Pteropus rufus
-RR034B_022_fecRa_S100,feces,RNA,4/17/18,"California, USA",Pteropus rufus
-RR034B_023_fecRa_S102,feces,RNA,4/17/18,"California, USA",Pteropus rufus
-RR034B_024_fecRa_S104,feces,RNA,4/18/18,"California, USA",Pteropus rufus
-RR034B_025_fecRa_S106,feces,RNA,4/19/18,"California, USA",Pteropus rufus
-RR034B_026_fecRa_S108,feces,RNA,4/21/18,"California, USA",Pteropus rufus
-RR034B_028_fecRa_S112,feces,RNA,8/5/18,"California, USA",Pteropus rufus
-RR034B_029_fecRa_S130,feces,RNA,8/6/18,"California, USA",Pteropus rufus
-RR034B_030_fecRa_S132,feces,RNA,8/7/18,"California, USA",Pteropus rufus
-RR034B_031_fecRa_S134,feces,RNA,8/7/18,"California, USA",Pteropus rufus
-RR034B_033_fecRa_S138,feces,RNA,8/7/18,"California, USA",Pteropus rufus
-RR034B_035_fecRa_S156,feces,RNA,12/21/18,"California, USA",Pteropus rufus
-RR034B_037_fecRa_S162,feces,RNA,1/6/19,"California, USA",Pteropus rufus
-RR034B_039_fecRa_S166,feces,RNA,1/7/19,"California, USA",Pteropus rufus
-RR034B_040_fecRa_S168,feces,RNA,2/14/18,"AngavoBe, Madagascar",Eidolon dupreanum
-RR034B_043_fecRa_S188,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_044_fecRa_S190,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_045_fecRa_S192,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_046_fecRa_S194,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_047_fecRa_S196,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_048_fecRa_S12,feces,RNA,2/14/18,"California, USA",Eidolon dupreanum
-RR034B_049_fecRa_S14,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_050_fecRa_S16,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_051_fecRa_S18,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_052_fecRa_S20,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_053_fecRa_S22,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_054_fecRa_S24,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_055_fecRa_S40,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_056_fecRa_S44,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_057_fecRa_S46,feces,RNA,4/9/18,"California, USA",Eidolon dupreanum
-RR034B_058_fecRa_S48,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_059_fecRa_S50,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_060_fecRa_S52,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_061_fecRa_S68,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_062_fecRa_S70,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_063_fecRa_S72,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_064_fecRa_S74,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_066_fecRa_S78,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_067_fecRa_S80,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_068_fecRa_S96,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_069_fecRa_S98,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_070_fecRa_S100,feces,RNA,7/27/18,"California, USA",Eidolon dupreanum
-RR034B_071_fecRa_S102,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_072_fecRa_S104,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_073_fecRa_S106,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_074_fecRa_S108,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_075_fecRa_S2,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_076_fecRa_S4,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_078_fecRa_S10,feces,RNA,9/9/18,"California, USA",Eidolon dupreanum
-RR034B_079_fecRa_S12,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_080_fecRa_S14,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_082_fecRa_S32,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_083_fecRa_S34,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_084_fecRa_S36,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_085_fecRa_S38,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_086_fecRa_S40,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_087_fecRa_S42,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_088_fecRa_S58,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_089_fecRa_S60,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_090_fecRa_S62,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_091_fecRa_S64,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_093_fecRa_S68,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_094_fecRa_S70,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_095_fecRa_S86,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_096_fecRa_S88,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_097_fecRa_S90,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_098_fecRa_S92,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_099_fecRa_S96,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_100_fecRa_S98,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_101_fecRa_S114,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_102_fecRa_S118,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_103_fecRa_S120,feces,RNA,2/15/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_104_fecRa_S122,feces,RNA,2/16/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_105_fecRa_S124,feces,RNA,2/16/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_106_fecRa_S126,feces,RNA,2/16/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_108_fecRa_S144,feces,RNA,2/16/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_109_fecRa_S146,feces,RNA,2/16/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_110_fecRa_S148,feces,RNA,4/9/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_111_fecRa_S150,feces,RNA,4/9/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_112_fecRa_S152,feces,RNA,4/9/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_113_fecRa_S154,feces,RNA,4/9/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_114_fecRa_S170,feces,RNA,4/9/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_115_fecRa_S172,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_116_fecRa_S174,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_118_fecRa_S178,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_120_fecRa_S182,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_121_fecRa_S198,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_122_fecRa_S2,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_123_fecRa_S4,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_124_fecRa_S6,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_125_fecRa_S8,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_126_fecRa_S10,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_127_fecRa_S26,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_128_fecRa_S28,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_129_fecRa_S30,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_130_fecRa_S32,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_131_fecRa_S34,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_132_fecRa_S36,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_133_fecRa_S38,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_134_fecRa_S54,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_135_fecRa_S56,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_136_fecRa_S58,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_137_fecRa_S60,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_138_fecRa_S62,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_139_fecRa_S64,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_140_fecRa_S66,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_141_fecRa_S82,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_142_fecRa_S84,feces,RNA,4/10/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_143_fecRa_S86,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_145_fecRa_S90,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_146_fecRa_S92,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_147_fecRa_S94,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_148_fecRa_S15,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_149_fecRa_S19,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_151_fecRa_S23,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_152_fecRa_S25,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_153_fecRa_S27,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_155_fecRa_S47,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_156_fecRa_S49,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_157_fecRa_S51,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_158_fecRa_S53,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_159_fecRa_S55,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_160_fecRa_S71,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_161_fecRa_S73,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_162_fecRa_S77,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_163_fecRa_S79,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_164_fecRa_S81,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_165_fecRa_S83,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_166_fecRa_S99,feces,RNA,7/27/18,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_167_fecRa_S101,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_168_fecRa_S103,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_169_fecRa_S105,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_171_fecRa_S109,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_172_fecRa_S111,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_173_fecRa_S127,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_174_fecRa_S129,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_175_fecRa_S131,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_176_fecRa_S133,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_178_fecRa_S137,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_179_fecRa_S139,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_180_fecRa_S155,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_181_fecRa_S157,feces,RNA,1/6/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_183_fecRa_S161,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_184_fecRa_S163,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_185_fecRa_S165,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_186_fecRa_S167,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_187_fecRa_S183,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_188_fecRa_S185,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_189_fecRa_S187,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_190_fecRa_S189,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_191_fecRa_S191,feces,RNA,1/7/19,"Angavokely, Antananarivo, Analamanga, Madagascar",Eidolon dupreanum
-RR034B_194_fecRa_S11,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_195_fecRa_S13,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_196_fecRa_S15,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_197_fecRa_S17,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_198_fecRa_S19,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_199_fecRa_S21,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_200_fecRa_S23,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_201_fecRa_S39,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_202_fecRa_S41,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_203_fecRa_S43,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_204_fecRa_S45,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_205_fecRa_S47,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_206_fecRa_S49,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_208_fecRa_S67,feces,RNA,2/18/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_210_fecRa_S71,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_211_fecRa_S73,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_213_fecRa_S79,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_214_fecRa_S77,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_215_fecRa_S95,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_216_fecRa_S97,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_217_fecRa_S99,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_218_fecRa_S101,feces,RNA,2/19/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_220_fecRa_S103,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_221_fecRa_S105,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_223_fecRa_S1,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_224_fecRa_S3,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_225_fecRa_S5,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_226_fecRa_S9,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_227_fecRa_S107,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_228_fecRa_S11,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_229_fecRa_S13,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_230_fecRa_S29,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_231_fecRa_S31,feces,RNA,4/13/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_232_fecRa_S33,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_233_fecRa_S35,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_234_fecRa_S37,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034A_235_fecRa_S39,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_235_fecRb_S65,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_236_fecRa_S41,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_237_fecRa_S57,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034A_239_fecRa_S61,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_239_fecRb_S63,feces,RNA,4/14/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_242_fecRa_S67,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_243_fecRa_S69,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_244_fecRa_S85,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_246_fecRa_S89,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_247_fecRa_S91,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_248_fecRa_S93,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_249_fecRa_S95,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_2500_fecRa_S8,feces,RNA,19-Aug,"Data, South Sulawesi, Indonesia",Not applicable
-RR034B_250_fecRa_S97,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_251_fecRa_S113,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_252_fecRa_S115,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_253_fecRa_S117,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_254_fecRa_S119,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_256_fecRa_S123,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_257_fecRa_S125,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_259_fecRa_S143,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_260_fecRa_S145,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_261_fecRa_S147,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_262_fecRa_S149,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_263_fecRa_S151,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_264_fecRa_S153,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_266_fecRa_S171,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_267_fecRa_S173,feces,RNA,7/29/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_268_fecRa_S175,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_269_fecRa_S177,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_270_fecRa_S179,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_271_fecRa_S181,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_272_fecRa_S197,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_274_fecRa_S1,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_275_fecRa_S3,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_276_fecRa_S5,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_277_fecRa_S7,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_278_fecRa_S9,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_279_fecRa_S25,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_280_fecRa_S27,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_281_fecRa_S29,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_282_fecRa_S31,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_283_fecRa_S33,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_284_fecRa_S35,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_285_fecRa_S37,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_286_fecRa_S53,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_287_fecRa_S55,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_288_fecRa_S59,feces,RNA,9/11/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_289_fecRa_S61,feces,RNA,9/12/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_290_fecRa_S63,feces,RNA,9/12/18,"Maromizaha, Analamanga, Madagascar",Rousettus madagascariensis
-RR034B_291_fecRa_S65,feces,RNA,12/13/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_292_fecRa_S81,feces,RNA,12/13/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_293_fecRa_S83,feces,RNA,12/14/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_294_fecRa_S85,feces,RNA,12/16/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_295_fecRa_S87,feces,RNA,12/17/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_296_fecRa_S91,feces,RNA,12/18/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
-RR034B_297_fecRa_S93,feces,RNA,12/18/18,"Mahialambo, Sofia, Madagascar",Pteropus rufus
+﻿sampleid,sample_type,CoV,czb_id,roost_site,latitude_s,longitude_e,collection_date,species,bat_sex,unique_tag_id,recap,bat_age_class,young_of_year
+AMB122,feces,0,RR034B_002_fecRa,Ambakoana,-18.513,48.1665,2/23/18,Pteropus rufus,male,442,no,A,no
+AMB123,feces,0,RR034B_003_fecRa,Ambakoana,-18.513,48.1665,2/23/18,Pteropus rufus,male,500,no,A,no
+AMB124,feces,1,RR034B_004_fecRa,Ambakoana,-18.513,48.1665,2/23/18,Pteropus rufus,female,1333,no,NL,yes
+AMB126,feces,0,RR034B_006_fecRa,Ambakoana,-18.513,48.1665,2/24/18,Pteropus rufus,male,1335,no,A,no
+AMB127,feces,0,RR034B_007_fecRa,Ambakoana,-18.513,48.1665,2/24/18,Pteropus rufus,female,1336,no,NL,yes
+AMB128,feces,0,RR034B_008_fecRa,Ambakoana,-18.513,48.1665,2/25/18,Pteropus rufus,female,1337,no,NL,yes
+AMB128,feces,0,RR034B_008_fecRb,Ambakoana,-18.513,48.1665,2/25/18,Pteropus rufus,female,1337,no,NL,yes
+AMB129,feces,0,RR034B_009_fecRa,Ambakoana,-18.513,48.1665,2/25/18,Pteropus rufus,male,1338,no,A,no
+AMB130,feces,1,RR034B_010_fecRa,Ambakoana,-18.513,48.1665,2/26/18,Pteropus rufus,female,1339,no,NL,no
+AMB131,feces,0,RR034B_011_fecRa,Ambakoana,-18.513,48.1665,2/27/18,Pteropus rufus,female,1340,no,NL,no
+AMB132,feces,0,RR034B_012_fecRa,Ambakoana,-18.513,48.1665,2/28/18,Pteropus rufus,male,1341,no,A,no
+AMB133,feces,0,RR034B_013_fecRa,Ambakoana,-18.513,48.1665,2/28/18,Pteropus rufus,male,1342,no,J,yes
+AMB134,feces,0,RR034B_014_fecRa,Ambakoana,-18.513,48.1665,3/1/18,Pteropus rufus,male,1343,no,A,no
+AMB135,feces,0,RR034B_015_fecRa,Ambakoana,-18.513,48.1665,3/1/18,Pteropus rufus,male,1344,no,A,no
+AMB137,feces,1,RR034B_016_fecRa,Ambakoana,-18.513,48.1665,3/1/18,Pteropus rufus,female,1346,no,J,yes
+AMB138,feces,0,RR034B_017_fecRa,Ambakoana,-18.513,48.1665,3/2/18,Pteropus rufus,male,1347,no,A,no
+AMB139,feces,0,RR034B_018_fecRa,Ambakoana,-18.513,48.1665,3/2/18,Pteropus rufus,male,1348,no,A,no
+AMB140,feces,0,RR034B_019_fecRa,Ambakoana,-18.513,48.1665,4/16/18,Pteropus rufus,female,1349,no,J,yes
+AMB141,feces,0,RR034B_020_fecRa,Ambakoana,-18.513,48.1665,4/16/18,Pteropus rufus,male,1350,no,A,no
+AMB142,feces,1,RR034B_021_fecRa,Ambakoana,-18.513,48.1665,4/17/18,Pteropus rufus,male,1351,no,J,yes
+AMB143,feces,0,RR034B_022_fecRa,Ambakoana,-18.513,48.1665,4/17/18,Pteropus rufus,male,1352,no,A,no
+AMB144,feces,0,RR034B_023_fecRa,Ambakoana,-18.513,48.1665,4/17/18,Pteropus rufus,male,1353,no,J,yes
+AMB145,feces,0,RR034B_024_fecRa,Ambakoana,-18.513,48.1665,4/18/18,Pteropus rufus,male,1354,no,A,no
+AMB146,feces,0,RR034B_025_fecRa,Ambakoana,-18.513,48.1665,4/19/18,Pteropus rufus,male,1355,no,J,yes
+AMB147,feces,0,RR034B_026_fecRa,Ambakoana,-18.513,48.1665,4/21/18,Pteropus rufus,male,1356,no,A,no
+AMB149,feces,0,RR034B_028_fecRa,Ambakoana,-18.513,48.1665,8/5/18,Pteropus rufus,female,1359,no,NL,no
+AMB150,feces,0,RR034B_029_fecRa,Ambakoana,-18.513,48.1665,8/6/18,Pteropus rufus,male,1360,no,A,no
+AMB151,feces,0,RR034B_030_fecRa,Ambakoana,-18.513,48.1665,8/7/18,Pteropus rufus,male,1361,no,A,no
+AMB152,feces,0,RR034B_031_fecRa,Ambakoana,-18.513,48.1665,8/7/18,Pteropus rufus,male,1362,no,A,no
+AMB153,feces,0,RR034B_032_fecRa,Ambakoana,-18.513,48.1665,8/7/18,Pteropus rufus,male,1363,no,J,yes
+AMB154,feces,0,RR034B_033_fecRa,Ambakoana,-18.513,48.1665,8/7/18,Pteropus rufus,female,1364,no,J,yes
+AMB155,feces,0,RR034B_034_fecRa,Ambakoana,-18.513,48.1665,8/8/18,Pteropus rufus,female,1365,no,NL,no
+AMB156,feces,0,RR034B_035_fecRa,Ambakoana,-18.513,48.1665,12/21/18,Pteropus rufus,female,1372,no,L,no
+AMB157,feces,0,RR034B_036_fecRa,Ambakoana,-18.513,48.1665,12/24/18,Pteropus rufus,male,1373,no,A,no
+AMB158,feces,0,RR034B_037_fecRa,Ambakoana,-18.513,48.1665,1/6/19,Pteropus rufus,male,1374,no,A,no
+AMB159,feces,0,RR034B_038_fecRa,Ambakoana,-18.513,48.1665,1/6/19,Pteropus rufus,female,1375,no,A,no
+AMB160,feces,0,RR034B_039_fecRa,Ambakoana,-18.513,48.1665,1/7/19,Pteropus rufus,female,1376,no,A,no
+ANGB125,feces,0,RR034B_040_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,male,1100,no,A,no
+ANGB127,feces,1,RR034B_042_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,male,1098,no,A,no
+ANGB128,feces,0,RR034B_043_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,male,1097,no,A,no
+ANGB129,feces,0,RR034B_044_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,female,1096,no,NL,no
+ANGB130,feces,0,RR034B_045_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,female,,no,NL,no
+ANGB131,feces,0,RR034B_046_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,female,,no,NL,no
+ANGB132,feces,0,RR034B_047_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,male,,no,A,no
+ANGB133,feces,0,RR034B_048_fecRa,AngavoBe,-18.944,47.9491,2/14/18,Eidolon dupreanum,female,1095,no,NL,no
+ANGB134,feces,0,RR034B_049_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1064,no,NL,no
+ANGB135,feces,0,RR034B_050_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1063,no,NL,no
+ANGB136,feces,0,RR034B_051_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1062,no,NL,no
+ANGB137,feces,0,RR034B_052_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1061,no,NL,no
+ANGB138,feces,0,RR034B_053_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1060,no,NL,no
+ANGB139,feces,0,RR034B_054_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1059,no,NL,no
+ANGB140,feces,1,RR034B_055_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1058,no,NL,no
+ANGB141,feces,0,RR034B_056_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,female,1057,no,NL,no
+ANGB142,feces,0,RR034B_057_fecRa,AngavoBe,-18.944,47.9491,4/9/18,Eidolon dupreanum,male,1056,no,A,no
+ANGB143,feces,0,RR034B_058_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,951,no,NL,no
+ANGB144,feces,0,RR034B_059_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,952,no,NL,no
+ANGB145,feces,0,RR034B_060_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,953,no,NL,no
+ANGB146,feces,1,RR034B_061_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,male,954,no,J,yes
+ANGB147,feces,0,RR034B_062_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,955,no,NL,no
+ANGB148,feces,0,RR034B_063_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,956,no,NL,no
+ANGB149,feces,0,RR034B_064_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,957,yes,NL,no
+ANGB150,feces,0,RR034B_065_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,958,no,NL,no
+ANGB151,feces,1,RR034B_066_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,959,no,NL,no
+ANGB152,feces,0,RR034B_067_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,960,no,NL,no
+ANGB153,feces,0,RR034B_068_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,961,no,NL,no
+ANGB154,feces,0,RR034B_069_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,962,no,NL,no
+ANGB155,feces,0,RR034B_070_fecRa,AngavoBe,-18.944,47.9491,7/27/18,Eidolon dupreanum,female,963,no,NL,no
+ANGB156,feces,0,RR034B_071_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,male,9.56E+13,yes,A,no
+ANGB157,feces,0,RR034B_072_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,male,1024,yes,A,no
+ANGB158,feces,0,RR034B_073_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,female,1023,no,P,no
+ANGB159,feces,0,RR034B_074_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,female,1022,no,P,no
+ANGB160,feces,0,RR034B_075_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,male,1021,no,A,no
+ANGB161,feces,0,RR034B_076_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,male,1020,yes,A,no
+ANGB163,feces,0,RR034B_078_fecRa,AngavoBe,-18.944,47.9491,9/9/18,Eidolon dupreanum,male,1018,no,A,no
+KEL148,feces,0,RR034B_079_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1093,no,A,no
+KEL150,feces,0,RR034B_080_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1092,no,NL,no
+KEL151,feces,0,RR034B_081_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1091,no,NL,no
+KEL152,feces,0,RR034B_082_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1090,no,NL,no
+KEL153,feces,0,RR034B_083_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1089,no,NL,no
+KEL154,feces,0,RR034B_084_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1088,no,NL,no
+KEL155,feces,0,RR034B_085_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1087,no,NL,no
+KEL156,feces,0,RR034B_086_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1086_969,yes,A,no
+KEL157,feces,0,RR034B_087_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1085,no,NL,no
+KEL158,feces,0,RR034B_088_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1084,no,J,yes
+KEL159,feces,1,RR034B_089_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1083,no,J,yes
+KEL160,feces,0,RR034B_090_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1082,no,NL,no
+KEL161,feces,0,RR034B_091_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1081,no,A,no
+KEL162,feces,0,RR034B_092_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1080,no,NL,no
+KEL163,feces,0,RR034B_093_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1079,no,NL,no
+KEL164,feces,1,RR034B_094_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1078,no,J,yes
+KEL165,feces,0,RR034B_095_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1077,no,NL,no
+KEL166,feces,1,RR034B_096_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1075,no,J,yes
+KEL167,feces,0,RR034B_097_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1074,no,NL,no
+KEL168,feces,0,RR034B_098_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1073,no,NL,no
+KEL169,feces,0,RR034B_099_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1072,no,J,yes
+KEL170,feces,0,RR034B_100_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,1070,no,NL,no
+KEL171,feces,0,RR034B_101_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,male,1071,no,J,yes
+KEL172,feces,0,RR034B_102_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,,no,NL,no
+KEL173,feces,0,RR034B_103_fecRa,AngavoKely,-18.9327,47.7578,2/15/18,Eidolon dupreanum,female,,no,NL,no
+KEL174,feces,0,RR034B_104_fecRa,AngavoKely,-18.9327,47.7578,2/16/18,Eidolon dupreanum,female,1069,no,NL,no
+KEL175,feces,0,RR034B_105_fecRa,AngavoKely,-18.9327,47.7578,2/16/18,Eidolon dupreanum,female,1068,no,NL,no
+KEL176,feces,0,RR034B_106_fecRa,AngavoKely,-18.9327,47.7578,2/16/18,Eidolon dupreanum,female,1067,yes,NL,no
+KEL178,feces,0,RR034B_108_fecRa,AngavoKely,-18.9327,47.7578,2/16/18,Eidolon dupreanum,female,1065,no,NL,no
+KEL179,feces,0,RR034B_109_fecRa,AngavoKely,-18.9327,47.7578,2/16/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL180,feces,1,RR034B_110_fecRa,AngavoKely,-18.9327,47.7578,4/9/18,Eidolon dupreanum,female,1055,no,NL,no
+KEL181,feces,0,RR034B_111_fecRa,AngavoKely,-18.9327,47.7578,4/9/18,Eidolon dupreanum,male,1054,no,A,no
+KEL182,feces,0,RR034B_112_fecRa,AngavoKely,-18.9327,47.7578,4/9/18,Eidolon dupreanum,female,1053,no,NL,no
+KEL234,urine,1,RR034B_506_uaRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,985,no,A,no
+KEL184,urine,1,RR034B_352_uaRa,AngavoKely,-18.9327,47.7578,4/9/18,Eidolon dupreanum,female,1050,no,NL,no
+KEL185,feces,0,RR034B_115_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1049,no,NL,no
+KEL186,feces,0,RR034B_116_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1048,no,NL,no
+KEL188,feces,0,RR034B_118_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1046,no,NL,no
+KEL189,feces,0,RR034B_119_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,244,yes,NL,no
+KEL190,feces,0,RR034B_120_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1045,no,NL,no
+KEL191,feces,0,RR034B_121_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1044,no,NL,no
+KEL192,feces,0,RR034B_122_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1043,no,NL,no
+KEL193,feces,1,RR034B_123_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1042,no,J,yes
+KEL194,feces,0,RR034B_124_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1041,no,NL,no
+KEL195,feces,1,RR034B_125_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL196,feces,0,RR034B_126_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1040,no,NL,no
+KEL197,feces,0,RR034B_127_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1039,no,NL,no
+KEL198,feces,0,RR034B_128_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL199,feces,0,RR034B_129_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1037,no,NL,no
+KEL200,feces,1,RR034B_130_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1036,no,NL,no
+KEL201,feces,0,RR034B_131_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1035,no,NL,no
+KEL202,feces,0,RR034B_132_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1034,no,NL,no
+KEL203,feces,0,RR034B_133_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1033,no,NL,no
+KEL204,feces,0,RR034B_134_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1032,yes,NL,no
+KEL205,feces,0,RR034B_135_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1031,no,NL,no
+KEL206,feces,0,RR034B_136_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1030,yes,J,yes
+KEL207,feces,0,RR034B_137_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1029,no,NL,no
+KEL208,feces,0,RR034B_138_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,799,yes,NL,no
+KEL209,feces,0,RR034B_139_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1028,no,NL,no
+KEL210,feces,0,RR034B_140_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1027,no,NL,no
+KEL211,feces,0,RR034B_141_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1026,no,NL,no
+KEL212,feces,0,RR034B_142_fecRa,AngavoKely,-18.9327,47.7578,4/10/18,Eidolon dupreanum,female,1025,no,NL,no
+KEL213,feces,0,RR034B_143_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,964_1609,yes,A,no
+KEL215,feces,0,RR034B_145_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,967,no,J,yes
+KEL216,feces,0,RR034B_146_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,968,no,NL,no
+KEL217,feces,0,RR034B_147_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,1086_969,yes,A,no
+KEL218,feces,0,RR034B_148_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,970,no,NL,no
+KEL219,feces,1,RR034B_149_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,971,no,A,no
+KEL220,feces,0,RR034B_150_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,972,no,A,no
+KEL221,feces,0,RR034B_151_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,973,no,J,yes
+KEL222,feces,0,RR034B_152_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,974,no,NL,no
+KEL223,feces,0,RR034B_153_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,975,no,A,no
+KEL224,feces,0,RR034B_154_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL225,feces,0,RR034B_155_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,977,yes,A,no
+KEL226,feces,0,RR034B_156_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL227,feces,0,RR034B_157_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,978,no,NL,no
+KEL228,feces,0,RR034B_158_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,979,no,J,yes
+KEL229,feces,0,RR034B_159_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,980,no,A,no
+KEL230,feces,0,RR034B_160_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,981,yes,A,no
+KEL231,feces,0,RR034B_161_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL232,feces,0,RR034B_162_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,983,no,A,no
+KEL233,feces,0,RR034B_163_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,984,no,A,no
+KEL234,feces,0,RR034B_164_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,985,no,A,no
+KEL236,feces,0,RR034B_165_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,male,987,no,J,yes
+KEL238,feces,0,RR034B_166_fecRa,AngavoKely,-18.9327,47.7578,7/27/18,Eidolon dupreanum,female,989,no,NL,no
+KEL239,feces,0,RR034B_167_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,1606,no,A,no
+KEL240,feces,0,RR034B_168_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,1602,NA,A,no
+KEL241,feces,0,RR034B_169_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,957,yes,NL,no
+KEL243,feces,0,RR034B_171_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,964_1609,yes,A,no
+KEL244,feces,1,RR034B_172_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,1621,no,NL,no
+KEL245,feces,0,RR034B_173_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,1607,yes,A,no
+KEL246,feces,0,RR034B_174_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,1604_1,no,A,no
+KEL247,feces,0,RR034B_175_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,1622,no,NL,no
+KEL248,feces,1,RR034B_176_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL249,feces,0,RR034B_177_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,1614_1,NA,A,no
+KEL250,feces,0,RR034B_178_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,1616,yes,A,no
+KEL251,feces,1,RR034B_179_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,female,1610_1,no,NL,no
+KEL252,feces,0,RR034B_180_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,354,yes,A,no
+KEL253,feces,0,RR034B_181_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,,no,A,no
+KEL254,feces,0,RR034B_182_fecRa,AngavoKely,-18.9327,47.7578,1/6/19,Eidolon dupreanum,male,,no,A,no
+KEL266,feces,0,RR034B_183_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,female,1611,no,NL,no
+KEL267,feces,0,RR034B_184_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,347,yes,A,no
+KEL268,feces,0,RR034B_185_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,9.56E+14,yes,A,no
+KEL269,feces,0,RR034B_186_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,332,yes,A,no
+KEL270,feces,0,RR034B_187_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,female,1605,no,NL,no
+KEL271,feces,0,RR034B_188_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,female,,no,NL,no
+KEL272,feces,0,RR034B_189_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,1620,no,A,no
+KEL273,feces,1,RR034B_190_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,977,yes,A,no
+KEL274,feces,0,RR034B_191_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,female,1603,no,NL,no
+KEL275,feces,0,RR034B_192_fecRa,AngavoKely,-18.9327,47.7578,1/7/19,Eidolon dupreanum,male,9.56E+14,yes,A,no
+MIZ135,feces,0,RR034B_193_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M1,no,J,yes
+MIZ136,feces,0,RR034B_194_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M2,no,L,no
+MIZ137,feces,0,RR034B_195_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,NA,no,J,no
+MIZ138,feces,0,RR034B_196_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M3,yes,NL,no
+MIZ140,feces,0,RR034B_197_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M5,no,L,no
+MIZ141,feces,0,RR034B_198_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,male,M6,no,J,yes
+MIZ142,feces,0,RR034B_199_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,male,M7,no,A,no
+MIZ143,feces,0,RR034B_200_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M8,no,NL,no
+MIZ145,feces,0,RR034B_201_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M10,no,L,no
+MIZ146,feces,0,RR034B_202_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,male,M11,no,A,no
+MIZ147,feces,0,RR034B_203_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M12,no,NL,no
+MIZ148,feces,0,RR034B_204_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,male,M13,no,A,no
+MIZ149,feces,0,RR034B_205_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M14,no,NL,no
+MIZ150,feces,0,RR034B_206_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M15,no,NL,no
+MIZ151,feces,0,RR034B_207_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,male,M16,no,A,no
+MIZ152,feces,0,RR034B_208_fecRa,Maromizaha,-18.9623,48.4525,2/18/18,Rousettus madagascariensis,female,M17,no,NL,no
+MIZ153,feces,0,RR034B_209_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,male,M18,no,J,yes
+MIZ154,feces,0,RR034B_210_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,NA,no,L,no
+MIZ155,feces,0,RR034B_211_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M19,no,L,no
+MIZ156,feces,0,RR034B_212_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M20,no,J,yes
+MIZ158,feces,0,RR034B_213_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M22,no,J,yes
+MIZ159,feces,0,RR034B_214_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M23,no,L,no
+MIZ160,feces,0,RR034B_215_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M24,no,J,yes
+MIZ161,feces,0,RR034B_216_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M26,no,NL,no
+MIZ162,feces,0,RR034B_217_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,M25,no,NL,no
+MIZ163,feces,0,RR034B_218_fecRa,Maromizaha,-18.9623,48.4525,2/19/18,Rousettus madagascariensis,female,NA,no,NL,no
+MIZ165,feces,1,RR034B_220_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,female,,no,NL,no
+MIZ167,feces,0,RR034B_221_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,female,M3,yes,NL,no
+MIZ169,feces,0,RR034B_223_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,A,no
+MIZ170,feces,0,RR034B_224_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,A,no
+MIZ171,feces,0,RR034B_225_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,A,no
+MIZ172,feces,0,RR034B_226_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,A,no
+MIZ173,feces,0,RR034B_227_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,female,,no,NL,no
+MIZ174,feces,0,RR034B_228_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,A,no
+MIZ175,feces,0,RR034B_229_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,female,,no,NL,no
+MIZ176,feces,0,RR034B_230_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,male,,no,J,yes
+MIZ177,feces,0,RR034B_231_fecRa,Maromizaha,-18.9623,48.4525,4/13/18,Rousettus madagascariensis,female,,no,NL,no
+MIZ178,feces,1,RR034B_232_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ179,feces,0,RR034B_233_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ180,feces,0,RR034B_234_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ181,feces,0,RR034B_235_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ181,feces,0,RR034B_235_fecRb,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ183,feces,0,RR034B_236_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ184,feces,0,RR034B_237_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,female,,no,NL,no
+MIZ185,feces,0,RR034B_238_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ186,feces,1,RR034B_239_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ186,feces,1,RR034B_239_fecRa,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ186,feces,1,RR034B_239_fecRb,Maromizaha,-18.9623,48.4525,4/14/18,Rousettus madagascariensis,male,,no,A,no
+MIZ188,feces,1,RR034B_242_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M30,no,A,no
+MIZ189,feces,0,RR034B_243_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M31,no,NL,no
+MIZ190,feces,1,RR034B_244_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M32,no,A,no
+MIZ192,feces,0,RR034B_246_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M34,no,NL,no
+MIZ193,feces,0,RR034B_247_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M35,no,J,yes
+MIZ194,feces,0,RR034B_248_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M36,no,NL,no
+MIZ195,feces,0,RR034B_249_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M37,no,NL,no
+MIZ196,feces,0,RR034B_250_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M38,no,A,no
+MIZ197,feces,0,RR034B_251_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M39,no,NL,no
+MIZ198,feces,0,RR034B_252_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M40,no,A,no
+MIZ199,feces,0,RR034B_253_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M41,no,NL,no
+MIZ200,feces,0,RR034B_254_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M42,no,A,no
+MIZ201,feces,0,RR034B_255_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M43,no,NL,no
+MIZ202,feces,0,RR034B_256_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M44,no,NL,no
+MIZ203,feces,0,RR034B_257_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M45,no,NL,no
+MIZ204,feces,0,RR034B_258_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M46,no,A,no
+MIZ205,feces,0,RR034B_259_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M47,no,A,no
+MIZ206,feces,0,RR034B_260_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M48,no,A,no
+MIZ207,feces,0,RR034B_261_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M49,no,NL,no
+MIZ208,feces,0,RR034B_262_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M50,no,A,no
+MIZ209,feces,0,RR034B_263_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M51,no,A,no
+MIZ210,feces,0,RR034B_264_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M52,no,A,no
+MIZ211,feces,0,RR034B_265_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M53,no,A,no
+MIZ212,feces,0,RR034B_266_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,female,M54,no,NL,no
+MIZ213,feces,0,RR034B_267_fecRa,Maromizaha,-18.9623,48.4525,7/29/18,Rousettus madagascariensis,male,M56,no,A,no
+MIZ214,feces,0,RR034B_268_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M57,no,A,no
+MIZ215,feces,0,RR034B_269_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M58,no,A,no
+MIZ218,feces,0,RR034B_270_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M61,no,A,no
+MIZ219,feces,0,RR034B_271_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M62,no,A,no
+MIZ220,feces,0,RR034B_272_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M63,no,A,no
+MIZ221,feces,0,RR034B_273_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M64,no,A,no
+MIZ222,feces,0,RR034B_274_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M65,no,NL,no
+MIZ223,feces,0,RR034B_275_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M66,no,NL,no
+MIZ226,feces,0,RR034B_276_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M69,no,A,no
+MIZ227,feces,0,RR034B_277_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M70,no,P,no
+MIZ228,feces,0,RR034B_278_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M71,no,P,no
+MIZ229,feces,0,RR034B_279_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M72,no,NL,no
+MIZ230,feces,0,RR034B_280_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M73,no,A,no
+MIZ231,feces,0,RR034B_281_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M74,no,J,yes
+MIZ232,feces,0,RR034B_282_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M75,no,J,yes
+MIZ233,feces,0,RR034B_283_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M76,no,J,yes
+MIZ234,feces,0,RR034B_284_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M77,no,J,yes
+MIZ235,feces,0,RR034B_285_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M78,no,A,no
+MIZ238,feces,0,RR034B_286_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,female,M81,no,NL,no
+MIZ239,feces,0,RR034B_287_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M82,no,A,no
+MIZ240,feces,1,RR034B_288_fecRa,Maromizaha,-18.9623,48.4525,9/11/18,Rousettus madagascariensis,male,M83,no,A,no
+MIZ242,feces,0,RR034B_289_fecRa,Maromizaha,-18.9623,48.4525,9/12/18,Rousettus madagascariensis,male,M85,no,A,no
+MIZ243,feces,0,RR034B_290_fecRa,Maromizaha,-18.9623,48.4525,9/12/18,Rousettus madagascariensis,male,M86,no,J,yes
+MLB001,feces,0,RR034B_291_fecRa,Mahialambo,-18.1102,48.2098,12/13/18,Pteropus rufus,female,1366,no,L,no
+MLB002,feces,0,RR034B_292_fecRa,Mahialambo,-18.1102,48.2098,12/13/18,Pteropus rufus,male,,no,J,yes
+MLB003,feces,0,RR034B_293_fecRa,Mahialambo,-18.1102,48.2098,12/14/18,Pteropus rufus,male,,no,J,yes
+MLB004,feces,0,RR034B_294_fecRa,Mahialambo,-18.1102,48.2098,12/16/18,Pteropus rufus,female,1367,no,NL,no
+MLB005,feces,0,RR034B_295_fecRa,Mahialambo,-18.1102,48.2098,12/17/18,Pteropus rufus,male,1368,no,A,no
+MLB006,feces,0,RR034B_296_fecRa,Mahialambo,-18.1102,48.2098,12/18/18,Pteropus rufus,female,1371,no,L,no
+MLB007,feces,0,RR034B_297_fecRa,Mahialambo,-18.1102,48.2098,12/18/18,Pteropus rufus,female,,no,J,yes
