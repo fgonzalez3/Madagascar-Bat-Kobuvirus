@@ -1,0 +1,3 @@
+nucl_seqs: "NCBI_seqs/NCBI_Kobuvirus_Sequences_NT_26OCT2021_FLG.fasta"
+prot_seqs: "NCBI_seqs/NCBI_Kobuvirus_Sequences_AA_26OCT2021_FLG.fasta"
+fecseqs: "CZID_seqs/CombinedRenamed_BatFeces_NTSeqs_02NOV2021_FLG.fasta"
