@@ -23,3 +23,4 @@ pipelines/BLAST/NCBI_seqs/NCBI_Kobuvirus_Sequences_NT_26OCT2021_FLG.fasta
 results/ML_Trees/Kobuvirus/KobuvirusLuSequencesMadaSequences_Extraction_18APR2025_FLG.fasta
 results/ML_Trees/Kobuvirus/KobuvirusLuSequencesMadaSequences_Extraction_Renamed_29APR2025_FLG.fasta
 supplemental/NCBI_Submission/*
+pipelines/BLAST/CZID_seqs/renamed_bat_feces/*
