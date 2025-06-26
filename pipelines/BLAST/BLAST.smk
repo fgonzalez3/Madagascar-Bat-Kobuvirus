@@ -118,9 +118,9 @@ rule blast_init_parse:
         out_aa2="results/BLAST_parse/Kobuviruses_fecal_100len100bit_aa.txt"
     shell:
         """
-        cat {input.BLASTn_parse} | awk -F'\\t' '($4>99 && $5<0.0001)' > {output.out_nt1}
+        cat {input.BLASTn_parse} | awk -F'\\t' '($4>99 && $5<0.00001)' > {output.out_nt1}
         cat {input.BLASTn_parse} | awk -F'\\t' '($4>99 && $6>99)' > {output.out_nt2}
-        cat {input.BLASTx_parse} | awk -F'\\t' '($4>99 && $5<0.0001)' > {output.out_aa1}
+        cat {input.BLASTx_parse} | awk -F'\\t' '($4>99 && $5<0.00001)' > {output.out_aa1}
         cat {input.BLASTx_parse} | awk -F'\\t' '($4>99 && $6>99)' > {output.out_aa2}
         """
 
