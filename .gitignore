@@ -17,3 +17,9 @@ figures/3_picornavirus_phylogeny/.gitignore
 pipelines/CheckV/envs/CheckV_V1.yaml
 pipelines/CheckV/seqs/
 pipelines/.DS_Store
+figures/PLOS_Figure_Versions/*
+pipelines/BLAST/NCBI_seqs/NCBI_Kobuvirus_Sequences_AA_26OCT2021_FLG.fasta
+pipelines/BLAST/NCBI_seqs/NCBI_Kobuvirus_Sequences_NT_26OCT2021_FLG.fasta
+results/ML_Trees/Kobuvirus/KobuvirusLuSequencesMadaSequences_Extraction_18APR2025_FLG.fasta
+results/ML_Trees/Kobuvirus/KobuvirusLuSequencesMadaSequences_Extraction_Renamed_29APR2025_FLG.fasta
+supplemental/NCBI_Submission/*
