@@ -1,4 +1,4 @@
-configfile: "config/ref_free_BLAST.yaml"
+configfile: "config/NCBI_BLAST.yaml"
 
 rule all:
     input:
