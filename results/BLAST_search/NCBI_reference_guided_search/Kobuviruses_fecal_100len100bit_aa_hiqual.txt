@@ -1,311 +1,338 @@
-RR034A_235_NODE_165_length_7800_cov_27.553648	141	28.370	497	3.52e-39	157	0	OR951219.1	|MAG: Bat kobuvirus isolate HI2018 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	180	25.496	706	1.85e-40	162	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	188	25.967	724	5.14e-40	160	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034A_235_NODE_165_length_7800_cov_27.553648	190	25.886	734	2.30e-42	168	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034A_235_NODE_165_length_7800_cov_27.553648	192	26.158	734	3.23e-42	167	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	192	26.158	734	3.27e-42	167	0	OM069757.1	|Murine kobuvirus 1 isolate SZ144 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	192	26.158	734	3.27e-42	167	0	OM069763.1	|Murine kobuvirus 1 isolate SZ-FI6 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	192	26.158	734	3.43e-42	167	0	OM069747.1	|Murine kobuvirus 1 isolate SZ203 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	202	25.864	781	2.64e-46	181	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	225	25.539	881	6.13e-46	180	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034A_235_NODE_165_length_7800_cov_27.553648	309	26.433	1169	6.95e-95	341	0	OM069763.1	|Murine kobuvirus 1 isolate SZ-FI6 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	309	26.433	1169	8.09e-95	341	0	OM069757.1	|Murine kobuvirus 1 isolate SZ144 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	310	26.518	1169	6.38e-95	341	0	OM069747.1	|Murine kobuvirus 1 isolate SZ203 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	311	26.604	1169	8.58e-95	341	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	312	26.486	1178	9.67e-96	344	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034A_235_NODE_165_length_7800_cov_27.553648	312	26.689	1169	2.99e-95	342	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034A_235_NODE_165_length_7800_cov_27.553648	313	26.570	1178	1.57e-96	346	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	315	26.969	1168	1.42e-96	346	0	OR951219.1	|MAG: Bat kobuvirus isolate HI2018 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	324	27.411	1182	1.25e-94	340	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034A_235_NODE_165_length_7800_cov_27.553648	326	27.935	1167	7.28e-95	341	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_029_NODE_84_length_7982_cov_390.097641	158	23.867	662	1.24e-35	146	0	LC055961.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_029_NODE_84_length_7982_cov_390.097641	158	23.867	662	1.24e-35	146	0	NC_027919.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_029_NODE_84_length_7982_cov_390.097641	171	26.845	637	6.68e-37	150	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	173	25.479	679	5.87e-31	130	0	KF695124.1	|Porcine kobuvirus isolate ch-kobu/2008/China, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	177	26.859	659	2.37e-39	158	0	MK201776.1	|Canine kobuvirus strain CU_53 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	178	27.259	653	6.73e-39	157	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	178	27.259	653	6.73e-39	157	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	180	27.273	660	3.00e-40	161	0	KC161964.1	|Canine kobuvirus strain UK003, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	182	27.492	662	1.64e-39	159	0	MK201779.1	|Canine kobuvirus strain CU_716 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	182	27.492	662	2.29e-39	158	0	MK201777.1	|Canine kobuvirus strain CU_101 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	185	36.706	504	9.00e-83	301	0	MK201777.1	|Canine kobuvirus strain CU_101 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	185	36.706	504	9.55e-83	301	0	MK201776.1	|Canine kobuvirus strain CU_53 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	186	36.905	504	9.39e-83	301	0	MK201779.1	|Canine kobuvirus strain CU_716 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	187	37.103	504	4.38e-83	302	0	KC161964.1	|Canine kobuvirus strain UK003, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	307	26.580	1155	1.32e-88	320	0	LC055961.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_029_NODE_84_length_7982_cov_390.097641	307	26.580	1155	1.32e-88	320	0	NC_027919.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_029_NODE_84_length_7982_cov_390.097641	308	27.329	1127	1.10e-91	330	0	KF695124.1	|Porcine kobuvirus isolate ch-kobu/2008/China, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	317	28.228	1123	1.94e-103	369	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	332	29.355	1131	1.83e-109	389	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	332	29.355	1131	1.83e-109	389	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_029_NODE_84_length_7982_cov_390.097641	80	32.129	249	5.58e-27	117	0	MK201779.1	|Canine kobuvirus strain CU_716 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	80	32.129	249	5.63e-27	117	0	MK201776.1	|Canine kobuvirus strain CU_53 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	80	32.129	249	5.92e-27	117	0	MK201777.1	|Canine kobuvirus strain CU_101 polyprotein gene, complete cds
-RR034B_029_NODE_84_length_7982_cov_390.097641	80	32.129	249	6.16e-27	117	0	KC161964.1	|Canine kobuvirus strain UK003, complete genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	286	68.095	420	2.75e-159	506	0	OM069755.1	|Murine kobuvirus 1 isolate SZ157 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	2.18e-159	506	0	MN648601.1	|Rat kobuvirus GZ85, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	7.83e-160	507	0	MW292480.1	|Murine kobuvirus 1 isolate MuKV/YN27/CHN polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	327	52.320	625	2.23e-159	506	0	OM480538.1	|Coypu kobuvirus strain HuN-F1 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	334	53.440	625	2.39e-165	523	0	OM140655.1	|Marmot kobuvirus strain MCKV/XJ3/CHN/2016, complete genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	356	57.235	622	0.0	569	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	358	57.464	623	0.0	575	0	OM069763.1	|Murine kobuvirus 1 isolate SZ-FI6 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	369	55.322	667	0.0	570	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	379	54.848	691	0.0	581	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	670	99.112	676	0.0	1266	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_079_NODE_3_length_7329_cov_16.102695	120	26.549	452	5.55e-26	114	0	KT325852.1	|Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome
-RR034B_079_NODE_3_length_7329_cov_16.102695	131	28.294	463	6.00e-26	114	0	KJ641686.1	|Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds
-RR034B_079_NODE_3_length_7329_cov_16.102695	132	28.266	467	3.54e-26	115	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_079_NODE_3_length_7329_cov_16.102695	132	28.633	461	7.60e-27	117	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_079_NODE_3_length_7329_cov_16.102695	133	28.726	463	1.39e-26	116	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_079_NODE_3_length_7329_cov_16.102695	134	28.694	467	9.98e-26	113	0	MW292481.1	|Murine kobuvirus 1 isolate MuKV/XM86/CHN polyprotein gene, complete cds
-RR034B_079_NODE_3_length_7329_cov_16.102695	137	29.718	461	4.34e-26	114	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_079_NODE_3_length_7329_cov_16.102695	137	29.718	461	4.34e-26	114	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_079_NODE_3_length_7329_cov_16.102695	138	29.299	471	4.52e-28	121	0	OP376931.1	|Caprine kobuvirus isolate CKoV-China/SWUN/B12/2022, complete genome
-RR034B_079_NODE_3_length_7329_cov_16.102695	293	26.021	1126	4.66e-38	154	0	ON168739.1	|Bovine kobuvirus isolate BKV11/2021/CHN, complete genome
-RR034B_079_NODE_3_length_7329_cov_16.102695	85	32.075	265	5.23e-22	101	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_079_NODE_3_length_7329_cov_16.102695	89	33.585	265	2.22e-23	105	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_079_NODE_3_length_7329_cov_16.102695	89	33.585	265	3.62e-23	105	0	KJ641686.1	|Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds
-RR034B_079_NODE_4_length_5785_cov_5.578010	103	27.034	381	8.04e-26	113	0	MK201779.1	|Canine kobuvirus strain CU_716 polyprotein gene, complete cds
-RR034B_079_NODE_4_length_5785_cov_5.578010	71	33.178	214	1.00e-25	113	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	8.46e-26	113	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	8.46e-26	113	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_079_NODE_4_length_5785_cov_5.578010	77	31.301	246	7.72e-26	113	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_079_NODE_4_length_5785_cov_5.578010	91	31.271	291	1.13e-25	112	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_079_NODE_4_length_5785_cov_5.578010	92	31.615	291	1.14e-25	112	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_079_NODE_4_length_5785_cov_5.578010	92	31.615	291	1.16e-25	112	0	MK671315.1	|Feline kobuvirus isolate FKV/18CC0718, complete genome
-RR034B_079_NODE_4_length_5785_cov_5.578010	92	31.615	291	1.37e-25	112	0	MK671314.1	|Feline kobuvirus isolate FKV/18CC0503, complete genome
-RR034B_079_NODE_4_length_5785_cov_5.578010	92	31.615	291	1.53e-25	112	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_079_NODE_80_length_1559_cov_4.970745	152	29.746	511	1.88e-40	153	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	154	30.078	512	2.16e-40	153	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_079_NODE_80_length_1559_cov_4.970745	154	30.137	511	4.30e-41	155	0	MF062447.1	|Porcine kobuvirus isolate Guangxi/G9/2012/CH polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	30.948	517	3.16e-41	155	0	MW292481.1	|Murine kobuvirus 1 isolate MuKV/XM86/CHN polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	1.18e-40	154	0	OM049040.1	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	1.49e-40	153	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	1.54e-40	153	0	OM069763.1	|Murine kobuvirus 1 isolate SZ-FI6 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	2.31e-40	153	0	OM069745.1	|Murine kobuvirus 1 isolate SZ227 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	2.31e-40	153	0	OM069755.1	|Murine kobuvirus 1 isolate SZ157 polyprotein gene, complete cds
-RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.068	515	2.84e-40	152	0	OM069747.1	|Murine kobuvirus 1 isolate SZ203 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	183	25.630	714	6.31e-39	157	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_094_NODE_3_length_7085_cov_4.126031	186	26.087	713	1.27e-42	169	0	KJ641686.1	|Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	195	24.684	790	2.46e-43	171	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	196	24.810	790	3.15e-43	171	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	196	24.873	788	1.21e-43	172	0	OM049040.1	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	196	24.873	788	7.82e-44	173	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	196	24.905	787	1.27e-43	172	0	MN648601.1	|Rat kobuvirus GZ85, partial genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	198	25.095	789	6.57e-44	173	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	209	26.692	783	2.79e-50	194	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	210	24.793	847	2.93e-29	125	0	KT325852.1	|Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	308	30.495	1010	3.66e-103	368	0	KT325852.1	|Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	313	27.076	1156	7.14e-99	353	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	314	27.376	1147	3.52e-100	358	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	314	27.400	1146	1.10e-99	356	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	315	27.463	1147	1.41e-100	359	0	OM049040.1	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	315	27.463	1147	8.39e-100	357	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	317	27.613	1148	2.25e-100	358	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	317	27.637	1147	2.77e-99	355	0	MN648601.1	|Rat kobuvirus GZ85, partial genome
-RR034B_094_NODE_3_length_7085_cov_4.126031	326	28.799	1132	1.52e-105	375	0	KJ641686.1	|Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds
-RR034B_094_NODE_3_length_7085_cov_4.126031	327	28.887	1132	1.01e-105	376	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_145_NODE_4_length_8263_cov_106.105872	1889	78.122	2418	0.0	3689	0	OM069757.1	|Murine kobuvirus 1 isolate SZ144 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1890	78.067	2421	0.0	3686	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	1896	77.356	2451	0.0	3695	0	OM069755.1	|Murine kobuvirus 1 isolate SZ157 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1897	77.429	2450	0.0	3687	0	OM069747.1	|Murine kobuvirus 1 isolate SZ203 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1899	77.479	2451	0.0	3692	0	OM069745.1	|Murine kobuvirus 1 isolate SZ227 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1957	73.849	2650	0.0	3723	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1970	73.234	2690	0.0	3750	0	OM069763.1	|Murine kobuvirus 1 isolate SZ-FI6 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1973	73.318	2691	0.0	3754	0	OM049041.1	|Murine kobuvirus 1 isolate SZ-CL6 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1986	72.192	2751	0.0	3736	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	2721	99.488	2735	0.0	5219	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_163_NODE_204_length_7685_cov_6.419135	132	27.966	472	5.80e-35	144	0	JN387133.1	|Kobuvirus dog/AN211D/USA/2009 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	135	26.627	507	4.59e-39	157	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_163_NODE_204_length_7685_cov_6.419135	136	28.452	478	2.20e-41	165	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	137	28.661	478	7.30e-42	166	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	138	28.870	478	2.41e-42	168	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	147	28.655	513	2.51e-42	168	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	147	28.767	511	4.78e-44	174	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	149	28.008	532	3.09e-42	167	0	OP093968.1	|Canine kobuvirus strain CaKoV/PK04/2019/BRA, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	149	29.331	508	3.07e-43	171	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	167	28.067	595	2.24e-45	178	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	319	26.965	1183	5.30e-95	341	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_163_NODE_204_length_7685_cov_6.419135	324	27.296	1187	2.59e-92	332	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	332	25.736	1290	8.88e-93	334	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	338	26.161	1292	5.36e-93	335	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	342	26.227	1304	5.21e-94	338	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	342	26.369	1297	6.71e-93	334	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	343	26.610	1289	9.48e-93	334	0	JN387133.1	|Kobuvirus dog/AN211D/USA/2009 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	344	26.543	1296	3.43e-94	338	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	346	26.718	1295	3.79e-93	335	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_163_NODE_204_length_7685_cov_6.419135	348	26.914	1293	2.71e-92	332	0	OP093968.1	|Canine kobuvirus strain CaKoV/PK04/2019/BRA, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	135	29.221	462	1.98e-40	162	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	147	27.736	530	7.50e-39	157	0	OP093966.1	|Canine kobuvirus strain CaKoV/PK02/2019/BRA, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	147	27.736	530	7.89e-39	156	0	OP093968.1	|Canine kobuvirus strain CaKoV/PK04/2019/BRA, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	147	27.736	530	8.87e-39	156	0	KC161964.1	|Canine kobuvirus strain UK003, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	173	26.212	660	3.78e-40	161	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	183	26.255	697	1.70e-41	165	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	183	26.255	697	7.21e-41	163	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	185	25.412	728	7.62e-42	166	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_189_NODE_1_length_7751_cov_15.700754	187	26.154	715	1.39e-43	172	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	202	24.908	811	1.36e-44	176	0	KY234499.1	|Porcine kobuvirus isolate JXAT2015, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	322	26.678	1207	3.31e-95	342	0	KC161964.1	|Canine kobuvirus strain UK003, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	326	27.258	1196	3.83e-99	355	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	327	27.341	1196	1.82e-95	343	0	KY234499.1	|Porcine kobuvirus isolate JXAT2015, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	340	25.915	1312	6.58e-95	341	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	343	26.203	1309	1.10e-95	343	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	343	26.203	1309	2.01e-96	346	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_189_NODE_1_length_7751_cov_15.700754	344	26.280	1309	3.17e-97	348	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	349	25.909	1347	3.92e-95	342	0	OP093966.1	|Canine kobuvirus strain CaKoV/PK02/2019/BRA, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	349	25.909	1347	3.92e-95	342	0	OP093968.1	|Canine kobuvirus strain CaKoV/PK04/2019/BRA, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	358	25.961	1379	5.44e-97	348	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	9.47e-28	112	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	9.47e-28	112	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	67	33.668	199	2.36e-27	111	0	MF062435.1	|Porcine kobuvirus isolate Guangxi/G1/2012/CH polyprotein gene, complete cds
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	1.02e-27	112	0	OM274025.1	|Porcine kobuvirus isolate AH-32 polyprotein gene, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	1.46e-27	111	0	KF695124.1	|Porcine kobuvirus isolate ch-kobu/2008/China, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	1.65e-27	111	0	KM977675.1	|Porcine kobuvirus isolate OH/RV50/2011, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	2.12e-27	111	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	7.29e-28	112	0	LC210621.1	|Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014
-RR034B_190_NODE_884_length_1177_cov_2.594474	68	34.171	199	8.33e-28	112	0	OP414039.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF163/con/PicV6, complete cds
-RR034B_190_NODE_884_length_1177_cov_2.594474	70	35.000	200	2.71e-27	110	0	MF062440.1	|Porcine kobuvirus isolate Guangxi/G17/2013/CH polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	120	26.786	448	3.46e-39	157	0	MF062448.1	|Porcine kobuvirus isolate Guangxi/G8/2012/CH polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	125	24.225	516	1.34e-40	162	0	OP414050.1	|MAG: Porcine kobuvirus isolate PF95/con/PicV17 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	125	24.225	516	1.40e-40	162	0	OP414055.1	|MAG: Porcine kobuvirus isolate PF102/con/PicV22 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	126	24.466	515	3.80e-40	160	0	OP414059.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF161/con/PicV26, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	129	25.049	515	1.82e-40	162	0	LC210609.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu6-6/JPN/2014
-RR034B_244_NODE_40_length_7294_cov_100.356955	166	23.851	696	3.34e-41	164	0	OM274028.1	|Porcine kobuvirus isolate AH-75 polyprotein gene, complete genome
-RR034B_244_NODE_40_length_7294_cov_100.356955	166	23.851	696	9.32e-37	149	0	OP414039.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF163/con/PicV6, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	167	23.994	696	3.33e-41	164	0	LC210608.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu5-6/JPN/2014
-RR034B_244_NODE_40_length_7294_cov_100.356955	168	24.138	696	8.34e-41	163	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_244_NODE_40_length_7294_cov_100.356955	176	23.561	747	8.58e-41	163	0	OP414051.1	|MAG: Porcine kobuvirus isolate PF96/con/PicV18 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	314	27.739	1132	3.57e-98	352	0	OP414039.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF163/con/PicV6, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	316	27.817	1136	2.86e-96	345	0	LC210608.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu5-6/JPN/2014
-RR034B_244_NODE_40_length_7294_cov_100.356955	317	27.470	1154	3.35e-97	348	0	OM274028.1	|Porcine kobuvirus isolate AH-75 polyprotein gene, complete genome
-RR034B_244_NODE_40_length_7294_cov_100.356955	319	27.643	1154	2.09e-96	345	0	OP414059.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF161/con/PicV26, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	319	27.691	1152	6.67e-97	347	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_244_NODE_40_length_7294_cov_100.356955	319	27.933	1142	3.95e-96	345	0	OP414055.1	|MAG: Porcine kobuvirus isolate PF102/con/PicV22 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	319	28.106	1135	2.22e-96	345	0	OP414051.1	|MAG: Porcine kobuvirus isolate PF96/con/PicV18 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	320	28.194	1135	4.23e-96	345	0	OP414050.1	|MAG: Porcine kobuvirus isolate PF95/con/PicV17 polyprotein gene, complete cds
-RR034B_244_NODE_40_length_7294_cov_100.356955	323	27.941	1156	7.55e-96	344	0	LC210609.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu6-6/JPN/2014
-RR034B_244_NODE_40_length_7294_cov_100.356955	326	28.103	1160	4.06e-98	351	0	MF062448.1	|Porcine kobuvirus isolate Guangxi/G8/2012/CH polyprotein gene, complete cds
-RR034B_248_NODE_215_length_1028_cov_2.867420	67	33.333	201	9.39e-28	111	0	KT325852.1	|Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome
-RR034B_248_NODE_215_length_1028_cov_2.867420	77	32.489	237	3.20e-27	109	0	KJ641686.1	|Bat kobuvirus 1 isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds
-RR034B_248_NODE_215_length_1028_cov_2.867420	79	33.333	237	2.02e-29	115	0	OR951282.1	|MAG: Aichivirus F isolate GD2017_210_5247 polyprotein-like gene, complete sequence
-RR034B_248_NODE_215_length_1028_cov_2.867420	83	35.776	232	6.51e-35	132	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_257_NODE_5_length_8315_cov_53.152179	125	25.615	488	2.33e-29	125	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_257_NODE_5_length_8315_cov_53.152179	128	26.337	486	5.99e-30	127	0	JN630514.1	|Porcine kobuvirus SH-W-CHN/2010/China, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	128	26.337	486	5.99e-30	127	0	NC_016769.1	|Porcine kobuvirus SH-W-CHN/2010/China, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	131	26.955	486	3.92e-32	134	0	MG800803.1	|Porcine kobuvirus isolate Chgz1 polyprotein gene, complete cds
-RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	2.37e-32	135	0	LC210603.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu2-6/JPN/2014
-RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	4.79e-32	134	0	MK962331.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P284/2017, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	137	25.996	527	1.48e-31	132	0	LC210621.1	|Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014
-RR034B_257_NODE_5_length_8315_cov_53.152179	140	26.769	523	6.21e-31	130	0	JX177612.1	|Porcine kobuvirus strain WB-1-HUN/2011/HUN, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	142	27.048	525	2.09e-32	135	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	142	27.466	517	5.28e-30	127	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	342	28.983	1180	3.94e-106	378	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	348	29.668	1173	3.19e-106	378	0	JX177612.1	|Porcine kobuvirus strain WB-1-HUN/2011/HUN, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	355	28.491	1246	5.76e-106	377	0	MG800803.1	|Porcine kobuvirus isolate Chgz1 polyprotein gene, complete cds
-RR034B_257_NODE_5_length_8315_cov_53.152179	355	28.675	1238	1.86e-106	379	0	LC210603.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu2-6/JPN/2014
-RR034B_257_NODE_5_length_8315_cov_53.152179	357	28.675	1245	1.54e-106	379	0	LC210621.1	|Porcine kobuvirus genomic RNA, complete genome, strain: PoKoV/Tochigi-IO3/JPN/2014
-RR034B_257_NODE_5_length_8315_cov_53.152179	358	29.058	1232	2.35e-106	379	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	359	28.789	1247	4.14e-108	384	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_257_NODE_5_length_8315_cov_53.152179	359	28.998	1238	2.76e-106	379	0	JN630514.1	|Porcine kobuvirus SH-W-CHN/2010/China, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	359	28.998	1238	2.76e-106	379	0	NC_016769.1	|Porcine kobuvirus SH-W-CHN/2010/China, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	361	28.949	1247	7.56e-107	380	0	MK962331.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P284/2017, complete genome
-RR034B_259_NODE_68_length_7228_cov_12.546633	128	25.098	510	1.54e-43	172	0	OP414059.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF161/con/PicV26, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	175	24.718	708	3.03e-43	171	0	MF062448.1	|Porcine kobuvirus isolate Guangxi/G8/2012/CH polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	175	24.893	703	1.88e-44	175	0	MK962333.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P461/2017, complete genome
-RR034B_259_NODE_68_length_7228_cov_12.546633	175	25.000	700	1.06e-43	172	0	LC210609.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu6-6/JPN/2014
-RR034B_259_NODE_68_length_7228_cov_12.546633	176	25.036	703	4.49e-45	177	0	LC210608.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu5-6/JPN/2014
-RR034B_259_NODE_68_length_7228_cov_12.546633	177	25.178	703	2.81e-45	177	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_259_NODE_68_length_7228_cov_12.546633	191	25.066	762	1.61e-45	178	0	OP414055.1	|MAG: Porcine kobuvirus isolate PF102/con/PicV22 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	191	25.066	762	1.73e-45	178	0	OP414050.1	|MAG: Porcine kobuvirus isolate PF95/con/PicV17 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	191	25.066	762	1.87e-45	178	0	OP414051.1	|MAG: Porcine kobuvirus isolate PF96/con/PicV18 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	195	23.926	815	7.88e-41	163	0	OP414039.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF163/con/PicV6, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	310	27.409	1131	1.24e-94	340	0	OP414039.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF163/con/PicV6, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	315	27.320	1153	1.55e-94	339	0	OP414059.1	|MAG UNVERIFIED_ASMBLY: Porcine kobuvirus polyprotein gene strain PF161/con/PicV26, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	317	27.954	1134	3.59e-94	338	0	LC210608.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu5-6/JPN/2014
-RR034B_259_NODE_68_length_7228_cov_12.546633	318	27.532	1155	9.35e-94	337	0	MK962327.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P259/2017, complete genome
-RR034B_259_NODE_68_length_7228_cov_12.546633	318	27.749	1146	1.49e-93	336	0	OP414051.1	|MAG: Porcine kobuvirus isolate PF96/con/PicV18 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	319	27.836	1146	1.73e-93	336	0	OP414050.1	|MAG: Porcine kobuvirus isolate PF95/con/PicV17 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	321	27.768	1156	1.53e-93	336	0	MK962333.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/P461/2017, complete genome
-RR034B_259_NODE_68_length_7228_cov_12.546633	322	27.903	1154	1.31e-93	336	0	OP414055.1	|MAG: Porcine kobuvirus isolate PF102/con/PicV22 polyprotein gene, complete cds
-RR034B_259_NODE_68_length_7228_cov_12.546633	323	28.038	1152	4.65e-95	341	0	LC210609.1	|Porcine kobuvirus gene for polyprotein, complete cds, strain: PoKoV/Bu6-6/JPN/2014
-RR034B_259_NODE_68_length_7228_cov_12.546633	334	28.818	1159	1.31e-96	346	0	MF062448.1	|Porcine kobuvirus isolate Guangxi/G8/2012/CH polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	119	25.482	467	3.22e-32	135	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	120	25.696	467	6.68e-33	137	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	123	26.338	467	2.43e-33	138	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	130	25.896	502	3.91e-33	138	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	130	27.254	477	8.74e-41	163	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	132	26.453	499	6.35e-36	147	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_268_NODE_61_length_7807_cov_24.084623	133	26.233	507	6.93e-34	140	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	139	26.426	526	5.76e-34	140	0	LC055961.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_268_NODE_61_length_7807_cov_24.084623	139	26.426	526	5.76e-34	140	0	NC_027919.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_268_NODE_61_length_7807_cov_24.084623	214	26.002	823	2.42e-41	165	0	MK080265.1	|Bovine kobuvirus polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	341	28.369	1202	3.32e-95	342	0	MK080265.1	|Bovine kobuvirus polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	343	29.167	1176	6.15e-98	351	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_268_NODE_61_length_7807_cov_24.084623	344	29.302	1174	3.58e-99	355	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	353	28.016	1260	2.02e-95	343	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	354	28.641	1236	1.82e-95	343	0	LC055961.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_268_NODE_61_length_7807_cov_24.084623	354	28.641	1236	1.82e-95	343	0	NC_027919.1	|Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN
-RR034B_268_NODE_61_length_7807_cov_24.084623	358	28.413	1260	2.76e-95	342	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	362	28.571	1267	1.61e-96	346	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	362	28.662	1263	2.83e-96	345	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_268_NODE_61_length_7807_cov_24.084623	364	28.729	1267	1.86e-96	346	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	102	26.772	381	1.66e-32	135	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	103	27.034	381	8.32e-33	136	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	103	27.034	381	9.40e-33	136	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	111	27.139	409	4.64e-30	127	0	OP376931.1	|Caprine kobuvirus isolate CKoV-China/SWUN/B12/2022, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	121	29.017	417	9.01e-39	156	0	OM480538.1	|Coypu kobuvirus strain HuN-F1 polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	125	25.826	484	7.57e-35	143	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	130	25.641	507	1.37e-33	139	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	130	26.052	499	5.54e-35	144	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_268_NODE_77_length_7280_cov_4.481246	132	27.273	484	1.86e-40	162	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	132	27.673	477	1.80e-41	165	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	289	27.869	1037	2.69e-86	312	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	295	27.726	1064	2.48e-80	293	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_268_NODE_77_length_7280_cov_4.481246	302	28.330	1066	2.33e-80	293	0	OM480538.1	|Coypu kobuvirus strain HuN-F1 polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	306	26.725	1145	1.72e-81	296	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	307	28.826	1065	2.06e-80	293	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_268_NODE_77_length_7280_cov_4.481246	310	26.496	1170	1.29e-81	297	0	OP376931.1	|Caprine kobuvirus isolate CKoV-China/SWUN/B12/2022, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	311	26.650	1167	1.76e-80	293	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	311	29.202	1065	1.05e-81	297	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	325	28.139	1155	2.19e-80	293	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_268_NODE_77_length_7280_cov_4.481246	326	27.887	1169	1.32e-81	297	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	102	26.842	380	1.04e-31	133	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	103	27.105	380	4.45e-32	134	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	103	27.105	380	6.00e-32	134	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	121	29.017	417	1.31e-38	155	0	OM480538.1	|Coypu kobuvirus strain HuN-F1 polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	125	25.826	484	1.71e-34	142	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	130	25.641	507	1.44e-33	139	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	132	26.295	502	6.68e-35	144	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_288_NODE_100_length_7614_cov_7.535124	132	27.273	484	3.83e-40	161	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	133	27.883	477	4.80e-41	164	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	329	28.485	1155	2.85e-100	358	0	KJ641691.1	|Aichivirus F2 isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	338	29.013	1165	1.32e-100	360	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_288_NODE_100_length_7614_cov_7.535124	343	29.442	1165	1.21e-99	356	0	OM480538.1	|Coypu kobuvirus strain HuN-F1 polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	349	27.965	1248	6.61e-100	357	0	MF062436.1	|Porcine kobuvirus isolate Guangxi/G21/2014/CH polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	351	30.129	1165	2.31e-99	355	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	353	27.795	1270	1.44e-98	353	0	MK962322.1	|Porcine kobuvirus strain KobuV/Pig-wt/ESP/VC20B/2017, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	357	30.802	1159	5.83e-101	361	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	363	28.787	1261	2.24e-99	355	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_288_NODE_100_length_7614_cov_7.535124	367	29.035	1264	2.90e-100	358	0	KJ958930.1	|Feline kobuvirus isolate 12D240, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	367	29.266	1254	1.25e-99	356	0	MF175074.1	|Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	99	26.053	380	6.80e-31	130	0	MH159813.1	|Feline kobuvirus isolate 17CC0811 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	114	30.481	374	7.83e-39	156	0	OR951219.1	|MAG: Bat kobuvirus isolate HI2018 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	158	25.608	617	6.71e-40	160	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	162	26.689	607	4.00e-39	157	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_290_NODE_2_length_7714_cov_16.413370	165	26.274	628	8.26e-42	166	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	165	26.570	621	7.34e-41	163	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	177	26.657	664	8.84e-44	173	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	195	26.000	750	4.63e-43	171	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	196	26.029	753	9.28e-43	169	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	196	26.029	753	9.28e-43	169	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	226	25.595	883	1.03e-44	176	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	312	26.598	1173	5.59e-96	344	0	MN116647.1	|Aichivirus A strain rat08/rAiA/HUN, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	316	26.757	1181	1.02e-96	347	0	OP094599.1	|Bamboo rat kobuvirus isolate B45M02, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	317	26.842	1181	2.87e-97	348	0	OM451219.1	|MAG: Aichivirus A isolate GX-F2 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	318	27.041	1176	1.20e-96	347	0	ON595848.1	|MAG: Feline kobuvirus isolate FPV-1, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	319	27.103	1177	6.34e-96	344	0	MH159814.1	|Feline kobuvirus isolate 16JZ0605 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	320	27.327	1171	2.72e-97	348	0	OR951219.1	|MAG: Bat kobuvirus isolate HI2018 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	321	27.180	1181	1.87e-96	346	0	AB040749.1	|Aichi virus genomic RNA, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	321	27.180	1181	1.87e-96	346	0	NC_074775.1	|Aichi virus genomic RNA, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	324	27.411	1182	1.32e-96	347	0	OM451183.1	|MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds
-RR034B_290_NODE_2_length_7714_cov_16.413370	326	27.935	1167	2.55e-97	349	0	PP766456.1	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
+RR034B_029_NODE_116_length_5787_cov_329.337404	138	27.219	507	6.11e-22	100	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_029_NODE_84_length_7982_cov_390.097641	171	27.581	620	2.88e-39	158	0	ADN52312	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	171	27.581	620	3.13e-39	158	0	ADN52304	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	171	27.581	620	3.35e-39	158	0	ADN52306	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	171	27.581	620	3.61e-39	158	0	ADN52305	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	178	27.259	653	6.13e-39	157	0	BAB62889	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	178	27.259	653	6.13e-39	157	0	O91464	|RecName: Full=Genome polyprotein; Contains: RecName: Full=Leader protein; Short=L; Contains: RecName: Full=Capsid protein VP0; Contains: RecName: Full=Capsid protein VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; Contains: RecName: Full=Capsid protein VP1; AltName: Full=P1D; AltName: Full=Virion protein 1; Contains: RecName: Full=Protein 2A; Short=P2A; Contains: RecName: Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 2C; Short=P2C; Contains: RecName: Full=Protein 3A; Short=P3A; Contains: RecName: Full=VPg; Short=P3B; AltName: Full=Protein 3B; Contains: RecName: Full=Protein 3CD; Contains: RecName: Full=Protease 3C; AltName: Full=Picornain 3C; Short=P3C; Contains: RecName: Full=RNA-directed RNA polymerase; Short=RdRp; AltName: Full=3D polymerase; Short=3Dpol; AltName: Full=Protein 3D; Short=3D
+RR034B_029_NODE_84_length_7982_cov_390.097641	178	27.343	651	5.09e-40	161	0	AXR95008	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	179	27.412	653	2.58e-39	159	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	181	27.591	656	4.65e-39	158	0	AAV28657	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	181	27.761	652	9.25e-40	160	0	AFV70595	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	331	29.370	1127	3.18e-109	388	0	AXR95008	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	332	29.355	1131	1.69e-109	389	0	BAB62889	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	332	29.355	1131	1.69e-109	389	0	O91464	|RecName: Full=Genome polyprotein; Contains: RecName: Full=Leader protein; Short=L; Contains: RecName: Full=Capsid protein VP0; Contains: RecName: Full=Capsid protein VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; Contains: RecName: Full=Capsid protein VP1; AltName: Full=P1D; AltName: Full=Virion protein 1; Contains: RecName: Full=Protein 2A; Short=P2A; Contains: RecName: Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 2C; Short=P2C; Contains: RecName: Full=Protein 3A; Short=P3A; Contains: RecName: Full=VPg; Short=P3B; AltName: Full=Protein 3B; Contains: RecName: Full=Protein 3CD; Contains: RecName: Full=Protease 3C; AltName: Full=Picornain 3C; Short=P3C; Contains: RecName: Full=RNA-directed RNA polymerase; Short=RdRp; AltName: Full=3D polymerase; Short=3Dpol; AltName: Full=Protein 3D; Short=3D
+RR034B_029_NODE_84_length_7982_cov_390.097641	333	29.391	1133	1.09e-110	393	0	ADN52305	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	334	29.479	1133	4.25e-111	394	0	ADN52312	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	334	29.479	1133	4.40e-111	394	0	ADN52304	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	334	29.479	1133	4.71e-111	394	0	ADN52306	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	335	29.751	1126	2.36e-109	389	0	AAV28657	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	336	29.656	1133	1.17e-110	393	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_029_NODE_84_length_7982_cov_390.097641	336	29.656	1133	2.88e-110	391	0	AFV70595	|polyprotein [Aichi virus 1]
+RR034B_052_NODE_4_length_2077_cov_943.883284	278	65.721	423	8.46e-154	490	0	AEM05831	|polyprotein [Mouse kobuvirus M-5/USA/2010]
+RR034B_052_NODE_4_length_2077_cov_943.883284	278	65.721	423	8.46e-154	490	0	YP_004782207	|polyprotein [Mouse kobuvirus M-5/USA/2010]
+RR034B_052_NODE_4_length_2077_cov_943.883284	280	66.826	419	3.87e-154	491	0	QUJ18038	|polyprotein [Murine kobuvirus 1]
+RR034B_052_NODE_4_length_2077_cov_943.883284	283	67.542	419	6.20e-157	499	0	QUJ18039	|polyprotein [Murine kobuvirus 1]
+RR034B_052_NODE_4_length_2077_cov_943.883284	286	67.933	421	3.61e-158	502	0	QEA08638	|polyprotein [Aichivirus A]
+RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	1.08e-158	504	0	AWK02691	|polyprotein [Aichivirus A]
+RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	1.59e-159	506	0	QNG97307	|polyprotein, partial [Rat kobuvirus GZ85]
+RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	2.54e-159	505	0	QNG97306	|polyprotein, partial [Rat kobuvirus MM33]
+RR034B_052_NODE_4_length_2077_cov_943.883284	289	68.974	419	6.33e-160	507	0	QUJ18037	|polyprotein [Murine kobuvirus 1]
+RR034B_052_NODE_4_length_2077_cov_943.883284	370	99.196	373	0.0	654	0	AGL97808	|polyprotein, partial [Eidolon helvum kobuvirus]
+RR034B_079_NODE_3_length_7329_cov_16.102695	127	28.412	447	6.69e-34	134	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_079_NODE_3_length_7329_cov_16.102695	136	29.310	464	2.60e-27	119	0	AWF79099	|polyprotein [Aichivirus A]
+RR034B_079_NODE_3_length_7329_cov_16.102695	138	29.870	462	1.48e-27	120	0	AVH76468	|polyprotein [Kobuvirus sp.]
+RR034B_079_NODE_3_length_7329_cov_16.102695	138	29.870	462	3.76e-27	118	0	ACX33797	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_3_length_7329_cov_16.102695	146	28.684	509	4.84e-27	118	0	BAS53431	|polyprotein [Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN]
+RR034B_079_NODE_3_length_7329_cov_16.102695	146	28.684	509	4.84e-27	118	0	YP_009165594	|polyprotein [Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN]
+RR034B_079_NODE_3_length_7329_cov_16.102695	185	25.730	719	3.93e-41	164	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_079_NODE_3_length_7329_cov_16.102695	264	25.336	1042	1.14e-43	172	0	AVH76460	|polyprotein, partial [Kobuvirus sp.]
+RR034B_079_NODE_3_length_7329_cov_16.102695	275	25.416	1082	2.27e-46	181	0	AVH76458	|polyprotein, partial [Kobuvirus sp.]
+RR034B_079_NODE_3_length_7329_cov_16.102695	275	25.416	1082	4.14e-46	181	0	AVH76457	|polyprotein, partial [Kobuvirus sp.]
+RR034B_079_NODE_3_length_7329_cov_16.102695	89	33.086	269	4.00e-22	102	0	AVH76468	|polyprotein [Kobuvirus sp.]
+RR034B_079_NODE_3_length_7329_cov_16.102695	89	33.086	269	4.77e-22	101	0	ACX33797	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_3_length_7329_cov_16.102695	89	33.086	269	5.27e-22	101	0	AWF79099	|polyprotein [Aichivirus A]
+RR034B_079_NODE_4_length_5785_cov_5.578010	103	26.684	386	8.65e-27	116	0	BAO02684	|polyprotein, partial [Kobuvirus sewage Aichi]
+RR034B_079_NODE_4_length_5785_cov_5.578010	103	27.034	381	1.10e-25	113	0	AZS64125	|polyprotein [Canine kobuvirus]
+RR034B_079_NODE_4_length_5785_cov_5.578010	69	33.014	209	4.75e-26	108	0	NP_859024	|2C [Aichivirus B]
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.14e-25	113	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.14e-25	113	0	AFV70595	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.14e-25	113	0	BAA31356	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.14e-25	113	0	BAB62889	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.14e-25	113	0	O91464	|RecName: Full=Genome polyprotein; Contains: RecName: Full=Leader protein; Short=L; Contains: RecName: Full=Capsid protein VP0; Contains: RecName: Full=Capsid protein VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; Contains: RecName: Full=Capsid protein VP1; AltName: Full=P1D; AltName: Full=Virion protein 1; Contains: RecName: Full=Protein 2A; Short=P2A; Contains: RecName: Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 2C; Short=P2C; Contains: RecName: Full=Protein 3A; Short=P3A; Contains: RecName: Full=VPg; Short=P3B; AltName: Full=Protein 3B; Contains: RecName: Full=Protein 3CD; Contains: RecName: Full=Protease 3C; AltName: Full=Picornain 3C; Short=P3C; Contains: RecName: Full=RNA-directed RNA polymerase; Short=RdRp; AltName: Full=3D polymerase; Short=3Dpol; AltName: Full=Protein 3D; Short=3D
+RR034B_079_NODE_4_length_5785_cov_5.578010	73	35.266	207	1.89e-28	115	0	NP_740440	|2C [Aichi virus 1]
+RR034B_079_NODE_4_length_5785_cov_5.578010	82	33.065	248	7.22e-29	115	0	QNJ99374	|polyprotein, partial [Aichivirus A]
+RR034B_079_NODE_80_length_1559_cov_4.970745	144	30.835	467	4.02e-47	167	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_079_NODE_80_length_1559_cov_4.970745	146	31.947	457	1.29e-40	149	0	YP_009001380	|3D [Caprine kobuvirus]
+RR034B_079_NODE_80_length_1559_cov_4.970745	154	30.137	511	5.95e-41	155	0	ARS29605	|polyprotein [Porcine kobuvirus]
+RR034B_079_NODE_80_length_1559_cov_4.970745	159	30.934	514	2.99e-40	153	0	QCL12283	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_80_length_1559_cov_4.970745	159	30.934	514	2.99e-40	153	0	QCL12284	|polyprotein [Aichi virus 1]
+RR034B_079_NODE_80_length_1559_cov_4.970745	160	30.948	517	5.70e-41	155	0	QUJ18038	|polyprotein [Murine kobuvirus 1]
+RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.008	516	2.43e-52	189	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_079_NODE_80_length_1559_cov_4.970745	160	31.128	514	9.75e-41	154	0	AVH76472	|polyprotein, partial [Kobuvirus sp.]
+RR034B_079_NODE_80_length_1559_cov_4.970745	161	30.608	526	2.02e-40	153	0	AVH76473	|polyprotein, partial [Kobuvirus sp.]
+RR034B_079_NODE_80_length_1559_cov_4.970745	163	30.930	527	2.47e-40	153	0	AFR11851	|polyprotein [Kobuvirus sewage Kathmandu]
+RR034B_094_NODE_3_length_7085_cov_4.126031	186	26.087	713	1.68e-42	169	0	AIF74250	|polyprotein, partial [bat kobuvirus 1]
+RR034B_094_NODE_3_length_7085_cov_4.126031	196	24.905	787	1.47e-43	172	0	QNG97307	|polyprotein, partial [Rat kobuvirus GZ85]
+RR034B_094_NODE_3_length_7085_cov_4.126031	198	25.032	791	2.77e-45	178	0	AWK02691	|polyprotein [Aichivirus A]
+RR034B_094_NODE_3_length_7085_cov_4.126031	198	25.095	789	7.26e-44	173	0	QEA08638	|polyprotein [Aichivirus A]
+RR034B_094_NODE_3_length_7085_cov_4.126031	199	25.318	786	9.64e-47	182	0	AVH76471	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	199	25.480	781	1.14e-45	179	0	AVH76472	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	202	25.732	785	3.69e-47	184	0	AVH76473	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	202	25.765	784	6.75e-46	180	0	AVH76465	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	204	26.357	774	3.41e-52	201	0	AGU62946	|polyprotein [Ferret kobuvirus]
+RR034B_094_NODE_3_length_7085_cov_4.126031	210	24.793	847	2.10e-29	125	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_094_NODE_3_length_7085_cov_4.126031	306	26.889	1138	3.34e-99	354	0	AVH76465	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	308	30.495	1010	7.26e-103	367	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_094_NODE_3_length_7085_cov_4.126031	314	27.376	1147	1.88e-99	355	0	AWK02691	|polyprotein [Aichivirus A]
+RR034B_094_NODE_3_length_7085_cov_4.126031	314	27.400	1146	1.95e-99	355	0	QEA08638	|polyprotein [Aichivirus A]
+RR034B_094_NODE_3_length_7085_cov_4.126031	314	27.496	1142	3.38e-100	358	0	AGU62946	|polyprotein [Ferret kobuvirus]
+RR034B_094_NODE_3_length_7085_cov_4.126031	317	27.637	1147	5.71e-99	354	0	QNG97307	|polyprotein, partial [Rat kobuvirus GZ85]
+RR034B_094_NODE_3_length_7085_cov_4.126031	320	27.586	1160	1.14e-99	356	0	AVH76471	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	321	27.672	1160	9.41e-101	360	0	AVH76472	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	324	27.883	1162	6.35e-100	357	0	AVH76473	|polyprotein, partial [Kobuvirus sp.]
+RR034B_094_NODE_3_length_7085_cov_4.126031	326	28.799	1132	2.16e-105	375	0	AIF74250	|polyprotein, partial [bat kobuvirus 1]
+RR034B_137_NODE_2120_length_527_cov_1.877119	80	49.383	162	1.45e-36	122	0	YP_009118289	|3C [rabbit kobuvirus]
+RR034B_137_NODE_2120_length_527_cov_1.877119	85	48.851	174	1.04e-35	128	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_137_NODE_2132_length_524_cov_1.473348	65	38.235	170	1.32e-29	110	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_145_NODE_2387_length_346_cov_2.178694	51	49.515	103	1.03e-30	106	0	YP_009118282	|VP3 [rabbit kobuvirus]
+RR034B_145_NODE_2387_length_346_cov_2.178694	56	47.863	117	5.47e-30	109	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1848	76.458	2417	0.0	3645	0	ADN52312	|polyprotein [Aichi virus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1849	76.500	2417	0.0	3646	0	ADN52304	|polyprotein [Aichi virus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1850	76.541	2417	0.0	3646	0	ADN52306	|polyprotein [Aichi virus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1854	76.707	2417	0.0	3653	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1867	78.084	2391	0.0	3648	0	QNG97306	|polyprotein, partial [Rat kobuvirus MM33]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1871	77.410	2417	0.0	3653	0	QUJ18038	|polyprotein [Murine kobuvirus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1873	77.493	2417	0.0	3657	0	QUJ18039	|polyprotein [Murine kobuvirus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1880	77.815	2416	0.0	3676	0	QUJ18037	|polyprotein [Murine kobuvirus 1]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1888	78.113	2417	0.0	3691	0	AWK02691	|polyprotein [Aichivirus A]
+RR034B_145_NODE_4_length_8263_cov_106.105872	1889	78.090	2419	0.0	3690	0	QEA08638	|polyprotein [Aichivirus A]
+RR034B_163_NODE_204_length_7685_cov_6.419135	132	27.966	472	5.39e-35	144	0	AEL19656	|polyprotein [Kobuvirus dog/AN211D/USA/2009]
+RR034B_163_NODE_204_length_7685_cov_6.419135	136	28.452	478	2.54e-41	165	0	AYM46575	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	137	28.661	478	6.46e-42	167	0	AYM46576	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	138	28.992	476	1.92e-42	169	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	139	28.958	480	2.22e-42	169	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	139	29.079	478	8.60e-42	167	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	139	29.202	476	3.13e-42	168	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	166	47.293	351	1.27e-94	308	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	245	52.916	463	4.41e-159	497	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	341	26.312	1296	7.18e-94	338	0	AYM46576	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	343	26.610	1289	7.22e-93	334	0	AEL19656	|polyprotein [Kobuvirus dog/AN211D/USA/2009]
+RR034B_163_NODE_204_length_7685_cov_6.419135	344	26.360	1305	5.30e-93	335	0	AYM46575	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	345	26.417	1306	8.58e-94	337	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	345	26.437	1305	9.82e-94	337	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	346	26.513	1305	2.22e-93	336	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	346	26.718	1295	5.97e-93	335	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	351	41.197	852	2.57e-176	598	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_163_NODE_204_length_7685_cov_6.419135	568	44.134	1287	0.0	1023	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_167_NODE_2143_length_552_cov_2.410463	77	42.308	182	9.15e-46	147	0	YP_009118282	|VP3 [rabbit kobuvirus]
+RR034B_167_NODE_2143_length_552_cov_2.410463	77	43.503	177	4.16e-44	152	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_167_NODE_3012_length_445_cov_0.928205	72	50.000	144	7.31e-49	154	0	YP_009118281	|VP2 [rabbit kobuvirus]
+RR034B_167_NODE_3012_length_445_cov_0.928205	73	49.324	148	9.42e-47	159	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_168_NODE_2737_length_458_cov_1.580645	56	38.095	147	1.12e-29	107	0	AIU36193	|polyprotein, partial [Norway rat kobuvirus 2]
+RR034B_179_NODE_444_length_547_cov_1.174797	69	37.097	186	7.17e-27	103	0	BAS53431	|polyprotein [Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN]
+RR034B_179_NODE_444_length_547_cov_1.174797	69	37.097	186	7.17e-27	103	0	YP_009165594	|polyprotein [Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN]
+RR034B_179_NODE_444_length_547_cov_1.174797	69	37.097	186	7.67e-27	102	0	YP_009167357	|3D [Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN]
+RR034B_179_NODE_444_length_547_cov_1.174797	71	36.788	193	2.19e-25	99.4	0	QJF11790	|polyprotein [Grey squirrel kobuvirus]
+RR034B_179_NODE_444_length_547_cov_1.174797	98	53.552	183	2.83e-53	179	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_179_NODE_444_length_547_cov_1.174797	98	53.552	183	9.16e-56	179	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_179_NODE_647_length_474_cov_1.918854	52	49.524	105	8.44e-33	113	0	YP_009118282	|VP3 [rabbit kobuvirus]
+RR034B_179_NODE_647_length_474_cov_1.918854	68	41.975	162	1.83e-34	124	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	140	28.000	500	2.00e-38	155	0	ARW71933	|polyprotein [Canine kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	140	28.000	500	2.00e-38	155	0	YP_009380518	|polyprotein [Canine kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	170	48.711	349	1.03e-102	331	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	173	26.212	660	3.16e-40	161	0	AYM46576	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	182	26.225	694	9.41e-41	163	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	183	26.255	697	5.63e-41	164	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	183	26.255	697	8.43e-41	163	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	184	26.399	697	8.43e-41	163	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	250	53.996	463	2.79e-166	518	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	324	26.843	1207	1.09e-95	343	0	ARW71933	|polyprotein [Canine kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	324	26.843	1207	1.09e-95	343	0	YP_009380518	|polyprotein [Canine kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	343	26.203	1309	1.27e-95	343	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	343	26.203	1309	3.03e-96	345	0	AYM46576	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	344	26.240	1311	4.25e-96	345	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	345	26.336	1310	5.30e-96	345	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	345	26.356	1309	1.61e-97	350	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	356	41.109	866	1.18e-172	588	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_189_NODE_1_length_7751_cov_15.700754	571	44.505	1283	0.0	1033	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_190_NODE_1539_length_698_cov_2.465008	117	49.576	236	2.03e-57	193	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_190_NODE_1539_length_698_cov_2.465008	92	50.829	181	2.32e-46	149	0	YP_009118289	|3C [rabbit kobuvirus]
+RR034B_190_NODE_884_length_1177_cov_2.594474	137	48.239	284	2.53e-87	265	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_190_NODE_884_length_1177_cov_2.594474	165	37.330	442	3.78e-83	274	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_190_NODE_884_length_1177_cov_2.594474	61	34.078	179	1.78e-28	110	0	NP_740440	|2C [Aichi virus 1]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	3.90e-28	114	0	AVH76468	|polyprotein [Kobuvirus sp.]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	6.88e-28	113	0	AVH76469	|polyprotein, partial [Kobuvirus sp.]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	6.99e-28	113	0	AXR95008	|polyprotein [Aichi virus 1]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	7.40e-28	113	0	AWF79099	|polyprotein [Aichivirus A]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	7.53e-28	113	0	QCL12283	|polyprotein [Aichi virus 1]
+RR034B_190_NODE_884_length_1177_cov_2.594474	62	34.637	179	7.53e-28	113	0	QCL12284	|polyprotein [Aichi virus 1]
+RR034B_190_NODE_884_length_1177_cov_2.594474	63	35.196	179	5.92e-28	109	0	YP_009001376	|2C [Caprine kobuvirus]
+RR034B_207_NODE_1180_length_387_cov_0.846386	47	47.000	100	1.83e-27	100	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	65	34.392	189	5.24e-31	110	0	QKI30370	|3D protein, partial [Caprine kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	65	41.401	157	6.71e-34	119	0	AIU36193	|polyprotein, partial [Norway rat kobuvirus 2]
+RR034B_207_NODE_386_length_596_cov_2.051756	66	39.759	166	4.77e-35	124	0	ADI48258	|3D, partial [Bat kobuvirus TM003k]
+RR034B_207_NODE_386_length_596_cov_2.051756	68	34.343	198	6.71e-31	114	0	QOW03275	|3D protein, partial [Caprine kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	68	34.343	198	6.71e-31	114	0	QOW03276	|3D protein, partial [Caprine kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	68	37.158	183	1.61e-38	137	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	68	37.158	183	9.30e-40	138	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	69	41.566	166	1.03e-31	118	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	69	41.566	166	2.30e-31	116	0	ALO65140	|polyprotein, partial [rabbit kobuvirus]
+RR034B_207_NODE_386_length_596_cov_2.051756	69	41.566	166	2.30e-31	116	0	YP_009513029	|polyprotein, partial [Rabbit picornavirus]
+RR034B_207_NODE_49_length_1318_cov_1.941409	112	27.930	401	2.71e-34	133	0	QJF11790	|polyprotein [Grey squirrel kobuvirus]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.70e-33	130	0	AVH76461	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.70e-33	130	0	AVH76463	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.82e-33	130	0	AVH76462	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.82e-33	130	0	AVH76467	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.89e-33	130	0	AVH76466	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	1.98e-33	130	0	AVH76459	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	115	28.967	397	2.04e-33	130	0	AVH76465	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	117	29.397	398	8.93e-34	131	0	AVH76460	|polyprotein, partial [Kobuvirus sp.]
+RR034B_207_NODE_49_length_1318_cov_1.941409	121	27.752	436	1.96e-33	130	0	AVH76473	|polyprotein, partial [Kobuvirus sp.]
+RR034B_217_NODE_1680_length_640_cov_1.222222	50	40.984	122	1.92e-27	101	0	NP_859020	|VP3 [Aichivirus B]
+RR034B_217_NODE_1680_length_640_cov_1.222222	56	35.000	160	4.53e-26	102	0	AAV28657	|polyprotein [Aichi virus 1]
+RR034B_217_NODE_1680_length_640_cov_1.222222	56	35.000	160	5.27e-26	102	0	BAM11294	|polyprotein, partial [Aichi virus 1]
+RR034B_217_NODE_1680_length_640_cov_1.222222	57	35.625	160	2.82e-26	102	0	ABV59102	|polyprotein, partial [Aichi virus 1]
+RR034B_217_NODE_1680_length_640_cov_1.222222	60	37.500	160	1.15e-27	107	0	AGU62947	|polyprotein, partial [Ferret kobuvirus]
+RR034B_217_NODE_1680_length_640_cov_1.222222	61	38.125	160	3.14e-28	108	0	AGU62948	|polyprotein, partial [Ferret kobuvirus]
+RR034B_217_NODE_1680_length_640_cov_1.222222	62	38.750	160	1.17e-28	109	0	AGU62946	|polyprotein [Ferret kobuvirus]
+RR034B_217_NODE_1680_length_640_cov_1.222222	63	39.375	160	1.38e-28	109	0	ADG03747	|polyprotein [Kobuvirus sheep/TB3/HUN/2009]
+RR034B_217_NODE_1680_length_640_cov_1.222222	66	40.491	163	2.24e-42	139	0	YP_009118282	|VP3 [rabbit kobuvirus]
+RR034B_217_NODE_1680_length_640_cov_1.222222	80	37.209	215	7.50e-43	150	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_225_NODE_2539_length_689_cov_1.616719	79	34.199	231	2.73e-28	109	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_225_NODE_2539_length_689_cov_1.616719	83	33.878	245	6.52e-30	109	0	YP_009118283	|VP1 [rabbit kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	120	26.786	448	4.79e-39	157	0	ARS29606	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	127	24.612	516	3.07e-39	158	0	AKE50573	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	127	24.612	516	3.07e-39	158	0	YP_009138081	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	129	25.049	515	1.80e-40	162	0	BAX64126	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	153	29.825	513	1.06e-51	199	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	166	23.851	696	1.43e-40	162	0	AVE15815	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	167	23.994	696	3.25e-41	165	0	BAX64125	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	167	23.994	696	8.17e-41	163	0	BAX64137	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	168	24.138	696	6.38e-41	164	0	QGH59208	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	180	23.747	758	1.56e-29	126	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	309	29.855	1035	6.39e-95	341	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	316	27.817	1136	2.75e-96	345	0	BAX64125	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	317	27.470	1154	1.99e-96	346	0	AVE15815	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	319	27.691	1152	7.52e-97	347	0	QGH59208	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	319	28.205	1131	3.86e-95	342	0	AKE50573	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	319	28.205	1131	3.86e-95	342	0	YP_009138081	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	323	27.845	1160	6.38e-98	351	0	BAX64137	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	323	27.941	1156	7.24e-96	344	0	BAX64126	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	326	28.103	1160	5.62e-98	351	0	ARS29606	|polyprotein [Porcine kobuvirus]
+RR034B_244_NODE_40_length_7294_cov_100.356955	341	28.997	1176	2.85e-110	391	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_248_NODE_215_length_1028_cov_2.867420	135	56.962	237	7.21e-92	275	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_248_NODE_215_length_1028_cov_2.867420	162	43.784	370	2.24e-90	293	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_248_NODE_215_length_1028_cov_2.867420	67	33.333	201	1.09e-27	111	0	ALO65139	|polyprotein [Rabbit picornavirus]
+RR034B_248_NODE_215_length_1028_cov_2.867420	71	35.678	199	7.46e-27	108	0	QJF11790	|polyprotein [Grey squirrel kobuvirus]
+RR034B_248_NODE_215_length_1028_cov_2.867420	76	31.667	240	1.24e-24	102	0	ATY47699	|polyprotein [aichivirus A7]
+RR034B_248_NODE_215_length_1028_cov_2.867420	77	32.489	237	4.05e-27	109	0	AIF74250	|polyprotein, partial [bat kobuvirus 1]
+RR034B_248_NODE_215_length_1028_cov_2.867420	83	35.776	232	1.02e-34	132	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_248_NODE_2395_length_438_cov_2.297650	57	39.310	145	1.84e-26	99.4	0	ADI48258	|3D, partial [Bat kobuvirus TM003k]
+RR034B_248_NODE_2395_length_438_cov_2.297650	89	62.238	143	3.07e-55	182	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_248_NODE_2395_length_438_cov_2.297650	89	62.238	143	8.62e-58	183	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_248_NODE_3421_length_379_cov_1.194444	92	73.600	125	1.55e-56	179	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_248_NODE_3421_length_379_cov_1.194444	92	73.600	125	4.41e-54	178	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_248_NODE_3635_length_370_cov_1.073016	56	45.528	123	2.10e-36	128	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	1014	41.849	2423	0.0	1749	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	125	25.615	488	3.23e-29	125	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	2.79e-32	135	0	BAX64118	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	2.91e-32	135	0	BAX64117	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	3.28e-32	135	0	BAX64120	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	133	27.254	488	8.29e-32	134	0	QGH59212	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	137	25.996	527	2.36e-31	132	0	BAX64138	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	142	27.466	517	1.00e-29	127	0	QGH59203	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	178	52.353	340	5.27e-117	372	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	264	57.019	463	6.96e-171	531	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	355	28.675	1238	2.03e-106	379	0	BAX64117	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	355	28.675	1238	2.32e-106	379	0	BAX64118	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	355	28.675	1238	2.47e-106	379	0	BAX64120	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	357	28.675	1245	2.30e-106	379	0	BAX64138	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	358	29.058	1232	2.40e-106	379	0	QGH59203	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	359	28.789	1247	5.73e-108	384	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_257_NODE_5_length_8315_cov_53.152179	361	28.949	1247	7.89e-107	380	0	QGH59212	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	173	24.609	703	1.33e-44	176	0	AVE15815	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	173	24.714	700	4.41e-43	171	0	AKE50573	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	173	24.714	700	4.41e-43	171	0	YP_009138081	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	173	24.856	696	1.05e-43	173	0	BAX64126	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	175	24.718	708	4.19e-43	171	0	ARS29606	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	175	24.893	703	2.07e-44	175	0	QGH59214	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	176	24.965	705	1.19e-44	176	0	BAX64137	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	176	25.036	703	4.12e-45	177	0	BAX64125	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	177	25.178	703	3.54e-45	177	0	QGH59208	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	214	26.193	817	1.26e-58	222	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	314	27.665	1135	3.95e-93	335	0	AKE50573	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	314	27.665	1135	3.95e-93	335	0	YP_009138081	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	317	27.954	1134	3.95e-94	338	0	BAX64125	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	318	27.532	1155	1.03e-93	337	0	QGH59208	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	320	27.706	1155	2.52e-95	342	0	BAX64137	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	321	27.768	1156	1.48e-93	337	0	QGH59214	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	323	27.917	1157	1.21e-94	340	0	AVE15815	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	323	28.038	1152	5.91e-95	341	0	BAX64126	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	334	28.818	1159	1.82e-96	346	0	ARS29606	|polyprotein [Porcine kobuvirus]
+RR034B_259_NODE_68_length_7228_cov_12.546633	339	28.559	1187	8.55e-110	389	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_260_NODE_3898_length_469_cov_1.060386	91	57.962	157	4.99e-58	191	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_260_NODE_3898_length_469_cov_1.060386	91	57.962	157	6.75e-62	191	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_260_NODE_4898_length_387_cov_1.096386	81	63.281	128	1.86e-59	186	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_260_NODE_4898_length_387_cov_1.096386	81	63.281	128	9.91e-57	186	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_260_NODE_5029_length_378_cov_1.337461	59	47.581	124	4.05e-33	119	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	121	25.910	467	3.87e-33	138	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	121	25.910	467	4.74e-33	138	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	121	25.910	467	8.11e-33	137	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	128	26.176	489	2.41e-38	155	0	ATY47699	|polyprotein [aichivirus A7]
+RR034B_268_NODE_61_length_7807_cov_24.084623	130	27.254	477	1.20e-40	163	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_268_NODE_61_length_7807_cov_24.084623	180	53.412	337	5.17e-116	369	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	204	25.628	796	1.26e-47	186	0	BAC23066	|unnamed protein product [Aichivirus B]
+RR034B_268_NODE_61_length_7807_cov_24.084623	214	24.626	869	1.13e-40	163	0	ADG03747	|polyprotein [Kobuvirus sheep/TB3/HUN/2009]
+RR034B_268_NODE_61_length_7807_cov_24.084623	266	57.451	463	2.27e-172	535	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	342	29.156	1173	4.96e-99	355	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_268_NODE_61_length_7807_cov_24.084623	347	28.965	1198	1.22e-99	357	0	ADG03747	|polyprotein [Kobuvirus sheep/TB3/HUN/2009]
+RR034B_268_NODE_61_length_7807_cov_24.084623	351	29.348	1196	1.19e-96	347	0	ATY47699	|polyprotein [aichivirus A7]
+RR034B_268_NODE_61_length_7807_cov_24.084623	360	28.324	1271	2.36e-96	346	0	BAC23066	|unnamed protein product [Aichivirus B]
+RR034B_268_NODE_61_length_7807_cov_24.084623	363	28.650	1267	1.41e-96	347	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	364	42.032	866	0.0	654	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	366	28.819	1270	1.19e-96	347	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	367	28.966	1267	3.26e-97	348	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_61_length_7807_cov_24.084623	625	46.572	1342	0.0	1197	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	103	27.034	381	1.08e-32	137	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	103	27.034	381	1.10e-32	137	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	103	27.034	381	3.28e-32	135	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	119	25.482	467	7.84e-33	137	0	AAY46271	|polyprotein [Aichi virus 1]
+RR034B_268_NODE_77_length_7280_cov_4.481246	125	25.826	484	1.05e-34	143	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	130	53.942	241	1.94e-83	271	0	YP_009118281	|VP2 [rabbit kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	132	27.673	477	2.49e-41	165	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_268_NODE_77_length_7280_cov_4.481246	181	53.709	337	1.95e-116	370	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	212	58.082	365	1.47e-129	412	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	289	27.869	1037	7.13e-86	311	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_268_NODE_77_length_7280_cov_4.481246	306	26.725	1145	2.38e-81	296	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	313	29.417	1064	7.64e-82	298	0	AAY46271	|polyprotein [Aichi virus 1]
+RR034B_268_NODE_77_length_7280_cov_4.481246	326	27.887	1169	1.37e-81	297	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	328	27.986	1172	1.61e-81	297	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	330	28.229	1169	4.65e-82	299	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	340	50.898	668	0.0	658	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_268_NODE_77_length_7280_cov_4.481246	648	40.299	1608	0.0	1115	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	101	26.579	380	5.16e-32	134	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	101	26.579	380	7.22e-32	134	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	103	27.105	380	1.39e-31	133	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	105	27.632	380	6.80e-33	137	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	125	25.826	484	2.37e-34	142	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	133	27.883	477	7.99e-41	163	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_288_NODE_100_length_7614_cov_7.535124	180	53.412	337	1.33e-115	368	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	209	23.968	872	2.18e-40	162	0	ADG03747	|polyprotein [Kobuvirus sheep/TB3/HUN/2009]
+RR034B_288_NODE_100_length_7614_cov_7.535124	267	57.667	463	1.56e-173	538	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	329	28.485	1155	8.83e-100	357	0	AIF74255	|polyprotein, partial [aichivirus F2]
+RR034B_288_NODE_100_length_7614_cov_7.535124	341	28.776	1185	1.96e-99	356	0	ADG03747	|polyprotein [Kobuvirus sheep/TB3/HUN/2009]
+RR034B_288_NODE_100_length_7614_cov_7.535124	349	27.965	1248	9.15e-100	357	0	ARS29594	|polyprotein [Porcine kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	350	30.069	1164	1.85e-100	359	0	AIN37087	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	355	30.498	1164	5.74e-101	361	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	371	29.190	1271	1.62e-100	359	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	373	29.533	1263	1.59e-100	359	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	394	51.436	766	0.0	783	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_288_NODE_100_length_7614_cov_7.535124	645	40.037	1611	0.0	1110	0	YP_009118268	|polyprotein [rabbit kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	115	30.749	374	6.71e-39	157	0	AVH76465	|polyprotein, partial [Kobuvirus sp.]
+RR034B_290_NODE_2_length_7714_cov_16.413370	115	30.749	374	7.24e-39	157	0	AVH76464	|polyprotein, partial [Kobuvirus sp.]
+RR034B_290_NODE_2_length_7714_cov_16.413370	162	47.093	344	1.15e-97	316	0	YP_009118286	|2c [rabbit kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	168	26.624	631	8.28e-42	167	0	AFV70595	|polyprotein [Aichi virus 1]
+RR034B_290_NODE_2_length_7714_cov_16.413370	193	25.802	748	9.72e-42	166	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_290_NODE_2_length_7714_cov_16.413370	193	26.294	734	5.16e-43	171	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	195	26.000	750	5.72e-42	167	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	199	26.533	750	5.02e-44	174	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	255	55.076	463	2.80e-163	509	0	YP_009118290	|3D [rabbit kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	315	26.763	1177	4.79e-97	348	0	AIS22688	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	315	27.463	1147	6.18e-97	347	0	AVH76464	|polyprotein, partial [Kobuvirus sp.]
+RR034B_290_NODE_2_length_7714_cov_16.413370	319	27.103	1177	7.58e-97	347	0	AHL67639	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	320	27.899	1147	1.09e-97	350	0	AVH76465	|polyprotein, partial [Kobuvirus sp.]
+RR034B_290_NODE_2_length_7714_cov_16.413370	322	27.334	1178	9.37e-97	347	0	ASS36975	|polyprotein [Feline kobuvirus]
+RR034B_290_NODE_2_length_7714_cov_16.413370	323	27.350	1181	7.12e-97	347	0	ADN52311	|polyprotein [Aichi virus 1]
+RR034B_290_NODE_2_length_7714_cov_16.413370	326	27.604	1181	7.36e-97	347	0	AFV70595	|polyprotein [Aichi virus 1]
+RR034B_290_NODE_2_length_7714_cov_16.413370	966	39.655	2436	0.0	1616	0	YP_009118268	|polyprotein [rabbit kobuvirus]

@@ -1,65 +1,58 @@
-RR034A_235_NODE_165_length_7800_cov_27.553648	87	76.316	114	1.53e-08	60.2	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	1996	98.617	2024	0.0	3583	0	PP766456	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_052_NODE_4_length_2077_cov_943.883284	247	77.918	317	2.30e-46	183	0	OM049040	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	252	78.261	322	1.37e-48	191	0	MN648601	|Rat kobuvirus GZ85, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	253	78.571	322	2.95e-50	196	0	MN648600	|Rat kobuvirus MM33, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	253	78.816	321	6.34e-52	202	0	OM069753	|Murine kobuvirus 1 isolate SZ171 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	323	76.000	425	3.82e-49	193	0	OM069745	|Murine kobuvirus 1 isolate SZ227 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	324	76.235	425	8.20e-51	198	0	OM069756	|Murine kobuvirus 1 isolate SZ155 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	423	74.341	569	8.20e-51	198	0	OM069752	|Murine kobuvirus 1 isolate SZ172 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	490	73.134	670	4.94e-48	189	0	OM069742	|Murine kobuvirus 1 isolate SZ262 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	494	73.621	671	4.90e-53	206	0	OM049038	|Murine kobuvirus 1 isolate SZ-B13 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	661	76.771	861	1.57e-132	470	0	MN648601	|Rat kobuvirus GZ85, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	667	77.110	865	1.56e-137	486	0	OM069756	|Murine kobuvirus 1 isolate SZ155 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	668	77.225	865	1.21e-138	490	0	OM069753	|Murine kobuvirus 1 isolate SZ171 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	668	77.494	862	7.22e-141	497	0	OM069742	|Murine kobuvirus 1 isolate SZ262 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	670	77.367	866	2.60e-140	496	0	OM069745	|Murine kobuvirus 1 isolate SZ227 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	671	76.511	877	7.32e-131	464	0	OM049038	|Murine kobuvirus 1 isolate SZ-B13 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	676	76.906	879	7.27e-136	481	0	OM049040	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	770	75.269	1023	1.57e-132	470	0	MN648600	|Rat kobuvirus MM33, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	772	75.391	1024	2.62e-135	479	0	OM069752	|Murine kobuvirus 1 isolate SZ172 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	96	77.419	124	3.12e-10	63.9	0	OM069756	|Murine kobuvirus 1 isolate SZ155 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.12e-09	62.1	0	MN648600	|Rat kobuvirus MM33, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.12e-09	62.1	0	MN648601	|Rat kobuvirus GZ85, partial genome
-RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.12e-09	62.1	0	OM069745	|Murine kobuvirus 1 isolate SZ227 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.12e-09	62.1	0	OM069753	|Murine kobuvirus 1 isolate SZ171 polyprotein gene, complete cds
-RR034B_052_NODE_4_length_2077_cov_943.883284	98	77.165	127	1.12e-09	62.1	0	OM049040	|Murine kobuvirus 1 isolate SZ-CJ6 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	1478	75.524	1957	0.0	913	0	OQ121963	|Aichi virus 1 isolate hu/C8_Seoul_02/2019, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	1066	95.179	1120	0.0	1770	0	JX885611	|Eidolon helvum kobuvirus isolate Picorna_ur_181630 polyprotein gene, partial cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	252	78.261	322	1.94e-48	191	0	MN648601	|Rat kobuvirus GZ85, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	253	78.571	322	4.17e-50	196	0	MN648600	|Rat kobuvirus MM33, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	321	76.247	421	8.95e-52	202	0	MN116647	|Aichivirus A strain rat08/rAiA/HUN, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	444	75.000	592	8.83e-62	235	0	MG009596	|Aichi virus 1 isolate ETH/2016/P4, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	446	75.084	594	2.45e-62	237	0	DQ028632	|Aichi virus isolate Goiania/GO/03/01/Brazil, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	448	75.548	593	8.76e-67	252	0	MK372825	|Aichi virus 1 strain PAK663 polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	593	75.063	790	5.06e-94	342	0	AB712380	|Aichi virus 1 gene for polyprotein, partial cds, strain: A1277/91
+RR034B_052_NODE_4_length_2077_cov_943.883284	607	74.662	813	8.46e-92	335	0	DQ028632	|Aichi virus isolate Goiania/GO/03/01/Brazil, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	611	74.877	816	1.82e-93	340	0	MG009596	|Aichi virus 1 isolate ETH/2016/P4, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	615	74.636	824	1.42e-89	327	0	MK372825	|Aichi virus 1 strain PAK663 polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	646	75.822	852	2.94e-116	416	0	MN116647	|Aichivirus A strain rat08/rAiA/HUN, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	657	75.954	865	1.05e-120	431	0	MW292481	|Murine kobuvirus 1 isolate MuKV/XM86/CHN polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	661	76.771	861	2.22e-132	470	0	MN648601	|Rat kobuvirus GZ85, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	662	76.532	865	4.81e-129	459	0	MW292482	|Murine kobuvirus 1 isolate MuKV/XM34/CHN polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	770	75.269	1023	2.22e-132	470	0	MN648600	|Rat kobuvirus MM33, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	82	78.095	105	7.38e-08	56.5	0	MN116647	|Aichivirus A strain rat08/rAiA/HUN, complete genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	84	76.364	110	5.70e-09	60.2	0	MK372825	|Aichi virus 1 strain PAK663 polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	85	77.273	110	1.23e-10	65.8	0	MG009596	|Aichi virus 1 isolate ETH/2016/P4, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.378	127	7.38e-08	56.5	0	MW292481	|Murine kobuvirus 1 isolate MuKV/XM86/CHN polyprotein gene, complete cds
+RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.59e-09	62.1	0	MN648600	|Rat kobuvirus MM33, partial genome
+RR034B_052_NODE_4_length_2077_cov_943.883284	97	76.984	126	1.59e-09	62.1	0	MN648601	|Rat kobuvirus GZ85, partial genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	124	75.152	165	6.35e-09	62.1	0	KY855436	|Marmot kobuvirus strain HT9, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	1511	74.691	2023	0.0	857	0	MF598159	|Feline kobuvirus strain WHJ-1, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	155	75.610	205	1.74e-19	97.1	0	MF598159	|Feline kobuvirus strain WHJ-1, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	1751	74.007	2366	0.0	896	0	JX564249	|Aichi virus strain kvgh99012632/2010 polyprotein gene, complete cds
 RR034B_145_NODE_4_length_8263_cov_106.105872	1844	73.320	2515	0.0	830	0	JQ911763	|Canine kobuvirus CH-1, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	1844	73.320	2515	0.0	830	0	OP093967	|Canine kobuvirus strain CaKoV/PK01/2019/BRA, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	1865	73.599	2534	0.0	913	0	AY747174	|Aichi virus isolate BAY/1/03/DEU from Germany polyprotein gene, complete cds
 RR034B_145_NODE_4_length_8263_cov_106.105872	1891	74.070	2553	0.0	968	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	251	70.704	355	2.08e-12	73.1	0	OQ121963	|Aichi virus 1 isolate hu/C8_Seoul_02/2019, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	3236	76.646	4222	0.0	2231	0	JX564249	|Aichi virus strain kvgh99012632/2010 polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	3258	76.050	4284	0.0	2141	0	MF598159	|Feline kobuvirus strain WHJ-1, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	3306	77.099	4288	0.0	2392	0	JQ911763	|Canine kobuvirus CH-1, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	3306	77.099	4288	0.0	2392	0	OP093967	|Canine kobuvirus strain CaKoV/PK01/2019/BRA, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	3311	76.431	4332	0.0	2242	0	OQ121963	|Aichi virus 1 isolate hu/C8_Seoul_02/2019, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	3310	76.302	4338	0.0	2204	0	AY747174	|Aichi virus isolate BAY/1/03/DEU from Germany polyprotein gene, complete cds
 RR034B_145_NODE_4_length_8263_cov_106.105872	3325	76.631	4339	0.0	2281	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	360	73.922	487	9.28e-41	167	0	OQ121963	|Aichi virus 1 isolate hu/C8_Seoul_02/2019, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	379	73.166	518	1.21e-34	147	0	KF924623	|Canine kobuvirus 1 isolate 12D049, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.218	519	1.21e-34	147	0	JQ911763	|Canine kobuvirus CH-1, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.218	519	1.21e-34	147	0	OP093967	|Canine kobuvirus strain CaKoV/PK01/2019/BRA, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.359	518	2.60e-36	152	0	MF062158	|Canine kobuvirus isolate SMCD-59, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.359	518	2.60e-36	152	0	NC_034971	|Canine kobuvirus isolate SMCD-59, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	434	73.311	592	3.31e-45	182	0	JX564249	|Aichi virus strain kvgh99012632/2010 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	440	74.324	592	1.17e-54	213	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	335	74.944	447	3.63e-41	169	0	MF598159	|Feline kobuvirus strain WHJ-1, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	378	73.684	513	1.31e-40	167	0	AY747174	|Aichi virus isolate BAY/1/03/DEU from Germany polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	379	73.166	518	1.70e-34	147	0	KF924623	|Canine kobuvirus 1 isolate 12D049, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.218	519	1.70e-34	147	0	JQ911763	|Canine kobuvirus CH-1, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.359	518	3.66e-36	152	0	MF062158	|Canine kobuvirus isolate SMCD-59, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	380	73.359	518	3.66e-36	152	0	NC_034971	|Canine kobuvirus isolate SMCD-59, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	387	73.996	523	3.63e-41	169	0	KY855436	|Marmot kobuvirus strain HT9, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	434	73.311	592	4.67e-45	182	0	JX564249	|Aichi virus strain kvgh99012632/2010 polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	440	74.324	592	1.66e-54	213	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	5122	75.938	6745	0.0	3278	0	MF947444	|Kobuvirus sp. strain 20724x33 polyprotein gene, partial cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	5176	74.798	6920	0.0	2953	0	KY855436	|Marmot kobuvirus strain HT9, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	5187	75.239	6894	0.0	3073	0	KF924623	|Canine kobuvirus 1 isolate 12D049, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	5263	75.358	6984	0.0	3157	0	MF062158	|Canine kobuvirus isolate SMCD-59, complete genome
 RR034B_145_NODE_4_length_8263_cov_106.105872	5263	75.358	6984	0.0	3157	0	NC_034971	|Canine kobuvirus isolate SMCD-59, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	5270	75.393	6990	0.0	3169	0	PP320365	|Canine kobuvirus isolate V156_VN_2022 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	8076	98.404	8207	0.0	14430	0	PP766456	|MAG: Eidolon dupreanum kobuvirus isolate KEL86 genomic sequence
-RR034B_145_NODE_4_length_8263_cov_106.105872	81	75.701	107	2.71e-06	52.8	0	OQ121963	|Aichi virus 1 isolate hu/C8_Seoul_02/2019, complete genome
-RR034B_145_NODE_4_length_8263_cov_106.105872	81	75.701	107	9.75e-06	51.0	0	JX564249	|Aichi virus strain kvgh99012632/2010 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	82	76.636	107	5.83e-08	58.4	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
-RR034B_145_NODE_4_length_8263_cov_106.105872	95	79.832	119	4.47e-14	78.7	0	PP320365	|Canine kobuvirus isolate V156_VN_2022 polyprotein gene, complete cds
-RR034B_163_NODE_204_length_7685_cov_6.419135	119	73.913	161	4.19e-09	62.1	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	148	71.498	207	9.14e-06	51.0	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_189_NODE_1_length_7751_cov_15.700754	85	76.577	111	1.52e-08	60.2	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_248_NODE_215_length_1028_cov_2.867420	99	75.573	131	4.25e-11	65.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_257_NODE_5_length_8315_cov_53.152179	96	76.190	126	9.74e-11	67.6	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_260_NODE_3898_length_469_cov_1.060386	81	75.701	107	1.47e-07	52.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	140	72.539	193	7.12e-07	54.7	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_268_NODE_61_length_7807_cov_24.084623	95	73.643	129	3.31e-05	49.1	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	100	72.993	137	3.23e-05	49.1	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_288_NODE_100_length_7614_cov_7.535124	165	71.739	230	3.21e-10	65.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
-RR034B_290_NODE_2_length_7714_cov_16.413370	115	75.163	153	6.98e-12	71.3	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_145_NODE_4_length_8263_cov_106.105872	82	75.926	108	3.82e-06	52.8	0	AY747174	|Aichi virus isolate BAY/1/03/DEU from Germany polyprotein gene, complete cds
+RR034B_145_NODE_4_length_8263_cov_106.105872	82	76.636	107	8.21e-08	58.4	0	GQ927711	|Aichi virus strain D/VI2287/2004 polyprotein gene, complete cds
+RR034B_163_NODE_204_length_7685_cov_6.419135	119	73.913	161	5.90e-09	62.1	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_189_NODE_1_length_7751_cov_15.700754	85	76.577	111	2.14e-08	60.2	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_248_NODE_215_length_1028_cov_2.867420	99	75.573	131	6.01e-11	65.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_257_NODE_5_length_8315_cov_53.152179	96	76.190	126	1.37e-10	67.6	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_260_NODE_3898_length_469_cov_1.060386	81	75.701	107	2.09e-07	52.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_268_NODE_61_length_7807_cov_24.084623	140	72.539	193	1.00e-06	54.7	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_288_NODE_100_length_7614_cov_7.535124	165	71.739	230	4.52e-10	65.8	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
+RR034B_290_NODE_2_length_7714_cov_16.413370	115	75.163	153	9.84e-12	71.3	0	NC_026314	|Rabbit kobuvirus isolate Berlin/Jan2011/0572, complete genome
